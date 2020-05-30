@@ -1,0 +1,4 @@
+ISO 3166-1 alpha-3 code ,Country,City,Total hardness [°dH] ,,Calcium (mg/l),Nitrite as NO3,Chloride as CI (mg/l),Potassium as K (mg/l),Iron (mg/l),Flouride as F,Sulfate as SO2 (mg/l),Magnesium as Mn (mg/l),Bicarbonate (mg/l),Nitrate as NO2,Sodium as Na  (mg/l),Source
+DEU,Germany,Berlin,19.6,Hard Water ,110,N/A,54,5,0.03,0,109,10.4,250.44,N/A,37,https://www.bwb.de/content/en/html/1592.php
+TUR,Turkey,Istanbul,N/A,,49.8,N/A,36.2,2.9,0.02,0,63.4,6.98,N/A,N/A,22.7,http://www.iski.gov.tr/web/assets/SayfalarDocs/sukalite/EKIM_2019_SU_KALITE_RAPORU_EN.pdf
+GBR,United Kingdom ,London,16,Hard Water ,200,32.9,63.5,N/A,0.0042,0,58.4,6,0,0.02,43.3,http://twmediadevcdn.azureedge.net/waterquality/WQ%20Report_Z0009_Bethnal%20Green.pdf

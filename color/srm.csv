@@ -1,0 +1,14 @@
+ID,Color Description,Low,High,SRM,Color
+1,Very light,1,1.5,1-1.5,#FBFF44
+2,Straw,2,3,2-3,#FBE93D
+3,Pale,4,4,4,#FBD849
+4,Gold,5,6,5-5,#FAA746
+5,Light amber,7,7,7,#F49E44
+6,Amber,8,8,8,##E7904D
+7,Medium amber,9,9,9,#D77F58
+8,Copper/garnet,10,12,10-12,#93523A
+9,Light brown,13,15,13-14,#804541
+10,Brown/Reddish brown/chestnut brown,16,17,16-17,#5B342F
+11,Dark brown,18,24,18-24,#4C3A2B
+12,Very dark,25,39,25-39,#38302E
+13,Black,40,80,40+,#31302C
