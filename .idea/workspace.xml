@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6ec35ad-e1f2-4d21-9a65-915959801c0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataset.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cmd/csvbeer/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commands/styles.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/csv/style.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/styles.csv" beforeDir="false" afterPath="$PROJECT_DIR$/styles/index.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/snap/go/current" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1heEMfaPtECRHAkpqHXYCrrY0Xt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build github.com/beerproto/dataset/src/cmd/csvbeer" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="dataset" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="styles --index=./styles/index.csv ./styles/ales.csv" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/src/cmd/csvbeer/main.go" />
+      <package value="github.com/beerproto/dataset/src/cmd/csvbeer" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/beerproto/dataset/src/cmd/csvbeer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2611" y="131" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600419308356">
+      <screen x="2048" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2611" y="131" key="#com.intellij.execution.impl.EditConfigurationsDialog/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1600419308356" />
+    <state width="596" height="547" key="DebuggerActiveHint" timestamp="1600417486703">
+      <screen x="2048" y="0" width="1680" height="1050" />
+    </state>
+    <state width="596" height="547" key="DebuggerActiveHint/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1600417486703" />
+    <state width="1680" height="275" key="GridCell.Tab.0.bottom" timestamp="1600425708423">
+      <screen x="2048" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1680" height="275" key="GridCell.Tab.0.bottom/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1600425708423" />
+    <state width="1680" height="275" key="GridCell.Tab.0.center" timestamp="1600425708423">
+      <screen x="2048" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1680" height="275" key="GridCell.Tab.0.center/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1600425708423" />
+    <state width="1680" height="275" key="GridCell.Tab.0.left" timestamp="1600425708423">
+      <screen x="2048" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1680" height="275" key="GridCell.Tab.0.left/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1600425708423" />
+    <state width="1680" height="275" key="GridCell.Tab.0.right" timestamp="1600425708423">
+      <screen x="2048" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1680" height="275" key="GridCell.Tab.0.right/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1600425708423" />
+    <state width="1680" height="258" key="GridCell.Tab.1.bottom" timestamp="1600425610932">
+      <screen x="2048" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1680" height="258" key="GridCell.Tab.1.bottom/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1600425610932" />
+    <state width="1680" height="258" key="GridCell.Tab.1.center" timestamp="1600425610932">
+      <screen x="2048" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1680" height="258" key="GridCell.Tab.1.center/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1600425610932" />
+    <state width="1680" height="258" key="GridCell.Tab.1.left" timestamp="1600425610932">
+      <screen x="2048" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1680" height="258" key="GridCell.Tab.1.left/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1600425610932" />
+    <state width="1680" height="258" key="GridCell.Tab.1.right" timestamp="1600425610932">
+      <screen x="2048" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1680" height="258" key="GridCell.Tab.1.right/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1600425610932" />
+    <state x="2369" y="173" key="SettingsEditor" timestamp="1600423748330">
+      <screen x="2048" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2369" y="173" key="SettingsEditor/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1600423748330" />
+    <state x="2646" y="284" width="473" height="509" key="com.goide.refactor.move.GoMoveDeclarationDialog" timestamp="1600422189147">
+      <screen x="2048" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2646" y="284" width="473" height="509" key="com.goide.refactor.move.GoMoveDeclarationDialog/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1600422189147" />
+  </component>
+</project>
