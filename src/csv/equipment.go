@@ -13,8 +13,8 @@ type Equipment struct {
 }
 
 type EquipmentItems struct {
-	ID                  int      `csv:"ID"`
-	EquipmentID         int      `csv:"Equipment ID"`
+	ID                  string   `csv:"ID"`
+	EquipmentID         string   `csv:"Equipment ID"`
 	Name                string   `csv:"Name"`
 	MaximumVolume       *float64 `csv:"Maximum Volume (L)"`
 	BoilRatePerHour     *float64 `csv:"Boil Rate Per Hour (L)"`
@@ -37,7 +37,7 @@ func (s *Equipment) ToEquipmentType(items []*beerproto.EquipmentItemType) *beerp
 
 func (s *EquipmentItems) ToEquipmentItems() *beerproto.EquipmentItemType {
 	return &beerproto.EquipmentItemType{
-		Id:                  strconv.Itoa(s.ID),
+		Id:                  s.ID,
 		Name:                s.Name,
 		BoilRatePerHour:     s.toVolumeType(s.BoilRatePerHour),
 		MaximumVolume:       s.toVolumeType(s.MaximumVolume),
