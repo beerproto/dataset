@@ -1,0 +1,4 @@
+ID,Equipment ID,Name,Maximum Volume (L),Boil Rate Per Hour (L),Drain Rate Per Minute (L),Specific Heat (Cal/(g*C)),Grain Absorption Rate (L/kg),Loss (L),Weight (kg),Form (EquipmentItemType.EquipmentBaseForm)
+1,1,Default Mash Tun,30,3,,4181.3,1.04,0,,2
+2,1,Default Brew Kettle,30,3,,4181.3,0,0,,4
+3,1,Default Fermenter,30,0,,4181.3,0,2,,5

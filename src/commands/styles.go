@@ -60,7 +60,6 @@ func ParseStyle(stylePath, indexPath string, output Output) {
 	var arr []*beerproto.StyleType
 	for _, style := range styles {
 		category := indexMap[style.StyleID]
-		style.ToStyleType(category)
 		arr = append(arr, style.ToStyleType(category))
 	}
 
