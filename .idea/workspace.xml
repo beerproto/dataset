@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6ec35ad-e1f2-4d21-9a65-915959801c0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hops/aroma.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hops/bittering.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hops/dualuse.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/equipment/equipment items.ods" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/equipment/equipment.csv" beforeDir="false" afterPath="$PROJECT_DIR$/equipment/equipment.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/equipment/equipment.ods" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/equipment/equipmentItems.csv" beforeDir="false" afterPath="$PROJECT_DIR$/equipment/equipmentItems.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/csv/equipment.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/csv/equipment.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
