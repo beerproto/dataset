@@ -1,9 +1,8 @@
 package csv
 
 type Hop struct {
+	ID                   string `csv:"ID"`
 	Name                 string `csv:"Name"`
-	AlsoKnownAs          string `csv:"Also Known As"`
-	Characteristics      string `csv:"Characteristics"`
 	Purpose              string `csv:"Purpose"`
 	AlphaAcidLow         string `csv:"Alpha Acid Low"`
 	AlphaAcidHigh        string `csv:"Alpha Acid High"`
@@ -14,8 +13,8 @@ type Hop struct {
 	Country              string `csv:"Country"`
 	Storability          string `csv:"Storability"`
 	TotalOilComposition  string `csv:"Total Oil Composition"`
-	MyrceneOilLow        string `csv:"Myrcene Oil Low (mL/100g)"`
-	MyrceneOilHigh       string `csv:"Myrcene Oil High (mL/100g)"`
+	MyrceneOilLow        string `csv:"Myrcene Oil Low (%)"`
+	MyrceneOilHigh       string `csv:"Myrcene Oil High (%)"`
 	HumuleneOilLow       string `csv:"Humulene Oil Low"`
 	HumuleneOilHigh      string `csv:"Humulene Oil High"`
 	CaryophylleneOilLow  string `csv:"Caryophyllene Oil Low"`
@@ -28,5 +27,7 @@ type Hop struct {
 	PolyphenolsOilHigh   string `csv:"Polyphenols Oil High"`
 	Substitutes          string `csv:"Substitutes"`
 	StyleGuide           string `csv:"Style Guide"`
+	AlsoKnownAs          string `csv:"Also Known As"`
+	Characteristics      string `csv:"Characteristics"`
 	Description          string `csv:"Description"`
 }
