@@ -1,4 +1,4 @@
-module github.com/beerproto/dataset
+module github.com/beerproto/dataset/src
 
 go 1.15
 

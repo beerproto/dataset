@@ -20,13 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6ec35ad-e1f2-4d21-9a65-915959801c0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hops/barthhaas/barthhaas.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hops/hopslist/hopslist.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hops/barthhaas/barthhaas.csv" beforeDir="false" afterPath="$PROJECT_DIR$/hops/barthhaas/cmd/barthhaas.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hops/barthhaas/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/hops/barthhaas/cmd/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hops/hopslist/hopslist.csv" beforeDir="false" afterPath="$PROJECT_DIR$/hops/hopslist/cmd/hopslist.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hops/hopslist/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/hops/hopslist/cmd/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/src/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hops/merge/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/hops/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hops/merge/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/hops/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hops/merge/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/hops/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +82,8 @@
       <recent name="$PROJECT_DIR$/hops/hopslist" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/hops" />
       <recent name="$PROJECT_DIR$/hops/barthhaas/cmd" />
       <recent name="$PROJECT_DIR$/hops/hopslist/cmd" />
       <recent name="$PROJECT_DIR$/hops/merge" />
