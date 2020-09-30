@@ -43,7 +43,7 @@ func ParseEquipments(equipmentItemsPath, indexPath string, output Output) {
 
 	fmt.Println("Successfully parased")
 
-	items := map[int][]*beerproto.EquipmentItemType{}
+	items := map[string][]*beerproto.EquipmentItemType{}
 	for _, item := range equipmentItems {
 		arr := items[item.EquipmentID]
 		arr = append(arr, item.ToEquipmentItems())

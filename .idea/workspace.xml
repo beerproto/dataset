@@ -20,12 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6ec35ad-e1f2-4d21-9a65-915959801c0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hops/hops.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/src/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hops/merge/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/hops/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hops/merge/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/hops/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hops/merge/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/hops/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hops/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/hops/merge/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hops/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/hops/merge/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hops/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/hops/merge/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/commands/equipments.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/commands/equipments.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/csv/equipment.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/csv/equipment.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,14 +83,14 @@
       <recent name="$PROJECT_DIR$/hops/hopslist" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hops/merge" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/hops" />
       <recent name="$PROJECT_DIR$/hops/barthhaas/cmd" />
       <recent name="$PROJECT_DIR$/hops/hopslist/cmd" />
-      <recent name="$PROJECT_DIR$/hops/merge" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build github.com/RossMerr/hopslist">
+  <component name="RunManager" selected="Go Build.go build github.com/beerproto/dataset/hops/merge">
     <configuration name="go build github.com/RossMerr/barthhaas" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="dataset" />
       <working_directory value="$PROJECT_DIR$/hops/barthhaas" />
@@ -126,22 +127,22 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build github.com/RossMerr/scrapper" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build github.com/beerproto/dataset/hops/merge" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="dataset" />
-      <working_directory value="$PROJECT_DIR$/hops" />
+      <working_directory value="$PROJECT_DIR$/hops/merge" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/hops/main.go" />
-      <package value="github.com/RossMerr/scrapper" />
+      <filePath value="$PROJECT_DIR$/hops/merge/main.go" />
+      <package value="github.com/beerproto/dataset/hops/merge" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build github.com/beerproto/dataset/hops/merge" />
         <item itemvalue="Go Build.go build github.com/RossMerr/hopslist" />
         <item itemvalue="Go Build.go build github.com/RossMerr/hopsteiner" />
         <item itemvalue="Go Build.go build github.com/RossMerr/barthhaas" />
         <item itemvalue="Go Build.go build github.com/RossMerr/hops" />
-        <item itemvalue="Go Build.go build github.com/RossMerr/scrapper" />
       </list>
     </recent_temporary>
   </component>
@@ -176,53 +177,54 @@
       <screen x="0" y="31" width="3840" height="1569" />
     </state>
     <state x="2591" y="635" width="567" height="360" key="#Notifications/0.31.3840.1569@0.31.3840.1569" timestamp="1601451891226" />
-    <state x="2611" y="131" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600770807519">
-      <screen x="2048" y="0" width="1680" height="1050" />
+    <state x="585" y="263" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601475092141">
+      <screen x="0" y="31" width="3840" height="1569" />
     </state>
+    <state x="585" y="263" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.31.3840.1569@0.31.3840.1569" timestamp="1601475092141" />
     <state x="2611" y="131" key="#com.intellij.execution.impl.EditConfigurationsDialog/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1600770807519" />
     <state width="596" height="547" key="DebuggerActiveHint" timestamp="1600417486703">
       <screen x="2048" y="0" width="1680" height="1050" />
     </state>
     <state width="596" height="547" key="DebuggerActiveHint/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1600417486703" />
-    <state width="1916" height="681" key="GridCell.Tab.0.bottom" timestamp="1601473263351">
+    <state width="1897" height="275" key="GridCell.Tab.0.bottom" timestamp="1601475275031">
       <screen x="0" y="31" width="3840" height="1569" />
     </state>
-    <state width="1916" height="681" key="GridCell.Tab.0.bottom/0.31.3840.1569@0.31.3840.1569" timestamp="1601473263351" />
+    <state width="1897" height="275" key="GridCell.Tab.0.bottom/0.31.3840.1569@0.31.3840.1569" timestamp="1601475275031" />
     <state width="1680" height="275" key="GridCell.Tab.0.bottom/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663674" />
-    <state width="1916" height="681" key="GridCell.Tab.0.center" timestamp="1601473263351">
+    <state width="1897" height="275" key="GridCell.Tab.0.center" timestamp="1601475275031">
       <screen x="0" y="31" width="3840" height="1569" />
     </state>
-    <state width="1916" height="681" key="GridCell.Tab.0.center/0.31.3840.1569@0.31.3840.1569" timestamp="1601473263351" />
+    <state width="1897" height="275" key="GridCell.Tab.0.center/0.31.3840.1569@0.31.3840.1569" timestamp="1601475275031" />
     <state width="1680" height="275" key="GridCell.Tab.0.center/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663674" />
-    <state width="1916" height="681" key="GridCell.Tab.0.left" timestamp="1601473263351">
+    <state width="1897" height="275" key="GridCell.Tab.0.left" timestamp="1601475275031">
       <screen x="0" y="31" width="3840" height="1569" />
     </state>
-    <state width="1916" height="681" key="GridCell.Tab.0.left/0.31.3840.1569@0.31.3840.1569" timestamp="1601473263351" />
+    <state width="1897" height="275" key="GridCell.Tab.0.left/0.31.3840.1569@0.31.3840.1569" timestamp="1601475275031" />
     <state width="1680" height="275" key="GridCell.Tab.0.left/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663674" />
-    <state width="1916" height="681" key="GridCell.Tab.0.right" timestamp="1601473263351">
+    <state width="1897" height="275" key="GridCell.Tab.0.right" timestamp="1601475275031">
       <screen x="0" y="31" width="3840" height="1569" />
     </state>
-    <state width="1916" height="681" key="GridCell.Tab.0.right/0.31.3840.1569@0.31.3840.1569" timestamp="1601473263351" />
+    <state width="1897" height="275" key="GridCell.Tab.0.right/0.31.3840.1569@0.31.3840.1569" timestamp="1601475275031" />
     <state width="1680" height="275" key="GridCell.Tab.0.right/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663674" />
-    <state width="1916" height="681" key="GridCell.Tab.1.bottom" timestamp="1601473263351">
+    <state width="1897" height="357" key="GridCell.Tab.1.bottom" timestamp="1601475260580">
       <screen x="0" y="31" width="3840" height="1569" />
     </state>
-    <state width="1916" height="681" key="GridCell.Tab.1.bottom/0.31.3840.1569@0.31.3840.1569" timestamp="1601473263351" />
+    <state width="1897" height="357" key="GridCell.Tab.1.bottom/0.31.3840.1569@0.31.3840.1569" timestamp="1601475260580" />
     <state width="1680" height="389" key="GridCell.Tab.1.bottom/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663670" />
-    <state width="1916" height="681" key="GridCell.Tab.1.center" timestamp="1601473263351">
+    <state width="1897" height="357" key="GridCell.Tab.1.center" timestamp="1601475260580">
       <screen x="0" y="31" width="3840" height="1569" />
     </state>
-    <state width="1916" height="681" key="GridCell.Tab.1.center/0.31.3840.1569@0.31.3840.1569" timestamp="1601473263351" />
+    <state width="1897" height="357" key="GridCell.Tab.1.center/0.31.3840.1569@0.31.3840.1569" timestamp="1601475260580" />
     <state width="1680" height="389" key="GridCell.Tab.1.center/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663670" />
-    <state width="1916" height="681" key="GridCell.Tab.1.left" timestamp="1601473263351">
+    <state width="1897" height="357" key="GridCell.Tab.1.left" timestamp="1601475260580">
       <screen x="0" y="31" width="3840" height="1569" />
     </state>
-    <state width="1916" height="681" key="GridCell.Tab.1.left/0.31.3840.1569@0.31.3840.1569" timestamp="1601473263351" />
+    <state width="1897" height="357" key="GridCell.Tab.1.left/0.31.3840.1569@0.31.3840.1569" timestamp="1601475260580" />
     <state width="1680" height="389" key="GridCell.Tab.1.left/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663670" />
-    <state width="1916" height="681" key="GridCell.Tab.1.right" timestamp="1601473263351">
+    <state width="1897" height="357" key="GridCell.Tab.1.right" timestamp="1601475260580">
       <screen x="0" y="31" width="3840" height="1569" />
     </state>
-    <state width="1916" height="681" key="GridCell.Tab.1.right/0.31.3840.1569@0.31.3840.1569" timestamp="1601473263351" />
+    <state width="1897" height="357" key="GridCell.Tab.1.right/0.31.3840.1569@0.31.3840.1569" timestamp="1601475260580" />
     <state width="1680" height="389" key="GridCell.Tab.1.right/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663670" />
     <state x="2067" y="451" key="SettingsEditor" timestamp="1601455852407">
       <screen x="0" y="31" width="3840" height="1569" />
@@ -266,6 +268,11 @@
           <url>file://$PROJECT_DIR$/hops/hopsteiner/main.go</url>
           <line>76</line>
           <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/hops/merge/main.go</url>
+          <line>14</line>
+          <option name="timeStamp" value="59" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

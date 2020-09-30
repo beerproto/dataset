@@ -1,13 +1,11 @@
 package csv
 
 import (
-	"strconv"
-
 	beerproto "github.com/beerproto/beerproto_go"
 )
 
 type Equipment struct {
-	ID    int               `csv:"ID"`
+	ID    string               `csv:"ID"`
 	Name  string            `csv:"Name"`
 	Items []*EquipmentItems `csv:"-"`
 }
@@ -29,7 +27,7 @@ type EquipmentItems struct {
 func (s *Equipment) ToEquipmentType(items []*beerproto.EquipmentItemType) *beerproto.EquipmentType {
 
 	return &beerproto.EquipmentType{
-		Id:             strconv.Itoa(s.ID),
+		Id:             s.ID,
 		Name:           s.Name,
 		EquipmentItems: items,
 	}
