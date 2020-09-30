@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"github.com/beerproto/dataset/hops/barthhaas"
 	"os"
 	"strings"
 
@@ -36,7 +37,7 @@ func main() {
 		return
 	}
 
-	hopMap := map[string]*Hop{}
+	hopMap := map[string]*barthhaas.Hop{}
 
 	c := colly.NewCollector()
 	hopColl := colly.NewCollector()
@@ -154,7 +155,7 @@ func main() {
 	})
 
 	hopColl.OnRequest(func(r *colly.Request) {
-		hopMap[r.URL.String()] = &Hop{}
+		hopMap[r.URL.String()] = &barthhaas.Hop{}
 		fmt.Println("Visiting hop", r.URL)
 	})
 	c.OnHTML("div.hn__results__item a[href]", func(e *colly.HTMLElement) {
@@ -167,7 +168,7 @@ func main() {
 
 	c.Visit("https://www.barthhaas.com/en/hopfen/hopfensorten/find-hop-varieties")
 
-	arr := []*Hop{}
+	arr := []*barthhaas.Hop{}
 	for _, hop := range hopMap {
 		arr = append(arr, hop)
 	}
@@ -176,25 +177,4 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
-}
-
-type Hop struct {
-	Name                 string `csv:"Name"`
-	Flavors              string `csv:"Flavors"`
-	AlphaAcidsLow        string `csv:"Alpha-Acids Low (%)"`
-	AlphaAcidsHigh       string `csv:"Alpha-Acids High (%)"`
-	BetaAcidsLow         string `csv:"Beta-Acids Low (%)"`
-	BetaAcidsHigh        string `csv:"Beta-Acids High (%)"`
-	TotalOilLow          string `csv:"Total Oil Low (ML/100G)"`
-	TotalOilHigh         string `csv:"Total Oil High (ML/100G)"`
-	MyrceneLow           string `csv:"Myrcene Low (%)"`
-	MyrceneHigh          string `csv:"Myrcene High (%)"`
-	LinaloolLow          string `csv:"Linalool Low (%)"`
-	LinaloolHigh         string `csv:"Linalool High (%)"`
-	TotalPolyphenolsLow  string `csv:"Total Polyphenols Low (%)"`
-	TotalPolyphenolsHigh string `csv:"Total Polyphenols High (%)"`
-	SumOfTerpeneAlcohols string `csv:"Sum Of Terpene Alcohols"`
-	TotalOilMinusMyrcene string `csv:"Total Oil Minus Myrcene"`
-	Country              string `csv:"Country"`
-	Description          string `csv:"Description"`
 }

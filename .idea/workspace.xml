@@ -20,9 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6ec35ad-e1f2-4d21-9a65-915959801c0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hops/barthhaas/barthhaas.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hops/hopslist/hopslist.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hops/barthhaas/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/hops/barthhaas/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hops/hopslist/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/hops/hopslist/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hops/barthhaas/barthhaas.csv" beforeDir="false" afterPath="$PROJECT_DIR$/hops/barthhaas/cmd/barthhaas.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hops/barthhaas/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/hops/barthhaas/cmd/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hops/hopslist/hopslist.csv" beforeDir="false" afterPath="$PROJECT_DIR$/hops/hopslist/cmd/hopslist.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hops/hopslist/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/hops/hopslist/cmd/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,21 +69,23 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/hops/hopsteiner" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/hops/merge" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/hops/hopsteiner" />
       <recent name="$PROJECT_DIR$/hops/barthhaas" />
       <recent name="$PROJECT_DIR$/hops" />
       <recent name="$PROJECT_DIR$/hops/hopslist" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hops/barthhaas/cmd" />
+      <recent name="$PROJECT_DIR$/hops/hopslist/cmd" />
+      <recent name="$PROJECT_DIR$/hops/merge" />
     </key>
   </component>
   <component name="RunManager" selected="Go Build.go build github.com/RossMerr/hopslist">
@@ -236,12 +242,12 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/hops/hopslist/main.go</url>
+          <url>file://$PROJECT_DIR$/hops/hopslist/cmd/main.go</url>
           <line>2</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/hops/barthhaas/main.go</url>
+          <url>file://$PROJECT_DIR$/hops/barthhaas/cmd/main.go</url>
           <line>65</line>
           <option name="timeStamp" value="49" />
         </line-breakpoint>
