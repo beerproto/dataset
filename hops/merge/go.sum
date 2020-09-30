@@ -1,3 +1,5 @@
+github.com/beerproto/dataset v0.0.0-20200929094222-b7cd7b8a8690 h1:c7VdwSCM65Sjl2eGkEZtDIbvVaDjSEmG3zK4IkqbTFY=
+github.com/beerproto/dataset/hops v0.0.0-20200929094222-b7cd7b8a8690 h1:iObrrMow5nvfNa+AJHRfen7/ZjB6rX0V6QGZwMflc3w=
 github.com/gocarina/gocsv v0.0.0-20200827134620-49f5c3fa2b3e h1:f9zU2ojLUYe8f/uWnetnr0p6TnAGQBCV/WdPKxodBqA=
 github.com/gocarina/gocsv v0.0.0-20200827134620-49f5c3fa2b3e/go.mod h1:5YoVOkjYAQumqlV356Hj3xeYh4BdZuLE0/nRkf2NKkI=
 github.com/google/uuid v1.1.2 h1:EVhdT+1Kseyi1/pUmXKaFxYsDNy9RQYkMWRH68J/W7Y=

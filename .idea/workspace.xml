@@ -1,14 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e6ec35ad-e1f2-4d21-9a65-915959801c0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hops/output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hops/output_dev.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hops/barthhaas/barthhaas.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hops/barthhaas/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hops/barthhaas/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hops/barthhaas/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hops/hopslist/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hops/hopslist/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hops/hopslist/hopslist.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hops/merge/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intensity/Intensity.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hops/hops.csv" beforeDir="false" afterPath="$PROJECT_DIR$/hops/hops.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hops/hopsMore.csv" beforeDir="false" afterPath="$PROJECT_DIR$/hops/hopsMore.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/csv/hop.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/csv/hop.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hops/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/hops/merge/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hops/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/hops/merge/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hops/hops.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hops/hopsMore.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hops/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/hops/hopslist/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hops/output.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hops/output_dev.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hops/output_dev.xlsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,23 +73,65 @@
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowCommit.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hops/hopsteiner" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
-  <component name="RunManager" selected="Go Build.go build github.com/RossMerr/hops">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hops/merge" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hops/hopsteiner" />
+      <recent name="$PROJECT_DIR$/hops/barthhaas" />
+      <recent name="$PROJECT_DIR$/hops" />
+      <recent name="$PROJECT_DIR$/hops/hopslist" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build github.com/RossMerr/hopslist">
+    <configuration name="go build github.com/RossMerr/barthhaas" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="dataset" />
+      <working_directory value="$PROJECT_DIR$/hops/barthhaas" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/hops/barthhaas/main.go" />
+      <package value="github.com/RossMerr/barthhaas" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build github.com/RossMerr/hops" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="dataset" />
       <working_directory value="$PROJECT_DIR$/hops" />
       <kind value="PACKAGE" />
       <filePath value="$PROJECT_DIR$/hops/main.go" />
       <package value="github.com/RossMerr/hops" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/RossMerr/hopslist" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="dataset" />
+      <working_directory value="$PROJECT_DIR$/hops/hopslist" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/hops/hopslist/main.go" />
+      <package value="github.com/RossMerr/hopslist" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/RossMerr/hopsteiner" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="dataset" />
+      <working_directory value="$PROJECT_DIR$/hops/hopsteiner" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/hops/hopsteiner/main.go" />
+      <package value="github.com/RossMerr/hopsteiner" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -72,27 +144,31 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build github.com/beerproto/dataset/src/cmd/csvbeer" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="dataset" />
-      <working_directory value="$PROJECT_DIR$" />
-      <parameters value="equipments --index=./equipment/equipment.csv ./equipment/equipmentItems.csv" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/src/cmd/csvbeer/main.go" />
-      <package value="github.com/beerproto/dataset/src/cmd/csvbeer" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build github.com/RossMerr/hopslist" />
+        <item itemvalue="Go Build.go build github.com/RossMerr/hopsteiner" />
+        <item itemvalue="Go Build.go build github.com/RossMerr/barthhaas" />
         <item itemvalue="Go Build.go build github.com/RossMerr/hops" />
         <item itemvalue="Go Build.go build github.com/RossMerr/scrapper" />
-        <item itemvalue="Go Build.go build github.com/beerproto/dataset/src/cmd/csvbeer" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -101,6 +177,14 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
+    <state x="2670" y="477" width="400" height="677" key="#GOPATH" timestamp="1601451958026">
+      <screen x="0" y="31" width="3840" height="1569" />
+    </state>
+    <state x="2670" y="477" width="400" height="677" key="#GOPATH/0.31.3840.1569@0.31.3840.1569" timestamp="1601451958026" />
+    <state x="2591" y="635" width="567" height="360" key="#Notifications" timestamp="1601451891226">
+      <screen x="0" y="31" width="3840" height="1569" />
+    </state>
+    <state x="2591" y="635" width="567" height="360" key="#Notifications/0.31.3840.1569@0.31.3840.1569" timestamp="1601451891226" />
     <state x="2611" y="131" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600770807519">
       <screen x="2048" y="0" width="1680" height="1050" />
     </state>
@@ -109,45 +193,55 @@
       <screen x="2048" y="0" width="1680" height="1050" />
     </state>
     <state width="596" height="547" key="DebuggerActiveHint/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1600417486703" />
-    <state width="1680" height="275" key="GridCell.Tab.0.bottom" timestamp="1601054663674">
-      <screen x="2048" y="0" width="1680" height="1050" />
+    <state width="1916" height="730" key="GridCell.Tab.0.bottom" timestamp="1601472660097">
+      <screen x="0" y="31" width="3840" height="1569" />
     </state>
+    <state width="1916" height="730" key="GridCell.Tab.0.bottom/0.31.3840.1569@0.31.3840.1569" timestamp="1601472660097" />
     <state width="1680" height="275" key="GridCell.Tab.0.bottom/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663674" />
-    <state width="1680" height="275" key="GridCell.Tab.0.center" timestamp="1601054663674">
-      <screen x="2048" y="0" width="1680" height="1050" />
+    <state width="1916" height="730" key="GridCell.Tab.0.center" timestamp="1601472660096">
+      <screen x="0" y="31" width="3840" height="1569" />
     </state>
+    <state width="1916" height="730" key="GridCell.Tab.0.center/0.31.3840.1569@0.31.3840.1569" timestamp="1601472660096" />
     <state width="1680" height="275" key="GridCell.Tab.0.center/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663674" />
-    <state width="1680" height="275" key="GridCell.Tab.0.left" timestamp="1601054663674">
-      <screen x="2048" y="0" width="1680" height="1050" />
+    <state width="1916" height="730" key="GridCell.Tab.0.left" timestamp="1601472660096">
+      <screen x="0" y="31" width="3840" height="1569" />
     </state>
+    <state width="1916" height="730" key="GridCell.Tab.0.left/0.31.3840.1569@0.31.3840.1569" timestamp="1601472660096" />
     <state width="1680" height="275" key="GridCell.Tab.0.left/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663674" />
-    <state width="1680" height="275" key="GridCell.Tab.0.right" timestamp="1601054663674">
-      <screen x="2048" y="0" width="1680" height="1050" />
+    <state width="1916" height="730" key="GridCell.Tab.0.right" timestamp="1601472660097">
+      <screen x="0" y="31" width="3840" height="1569" />
     </state>
+    <state width="1916" height="730" key="GridCell.Tab.0.right/0.31.3840.1569@0.31.3840.1569" timestamp="1601472660097" />
     <state width="1680" height="275" key="GridCell.Tab.0.right/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663674" />
-    <state width="1680" height="389" key="GridCell.Tab.1.bottom" timestamp="1601054663670">
-      <screen x="2048" y="0" width="1680" height="1050" />
+    <state width="1916" height="681" key="GridCell.Tab.1.bottom" timestamp="1601470101993">
+      <screen x="0" y="31" width="3840" height="1569" />
     </state>
+    <state width="1916" height="681" key="GridCell.Tab.1.bottom/0.31.3840.1569@0.31.3840.1569" timestamp="1601470101993" />
     <state width="1680" height="389" key="GridCell.Tab.1.bottom/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663670" />
-    <state width="1680" height="389" key="GridCell.Tab.1.center" timestamp="1601054663670">
-      <screen x="2048" y="0" width="1680" height="1050" />
+    <state width="1916" height="681" key="GridCell.Tab.1.center" timestamp="1601470101993">
+      <screen x="0" y="31" width="3840" height="1569" />
     </state>
+    <state width="1916" height="681" key="GridCell.Tab.1.center/0.31.3840.1569@0.31.3840.1569" timestamp="1601470101993" />
     <state width="1680" height="389" key="GridCell.Tab.1.center/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663670" />
-    <state width="1680" height="389" key="GridCell.Tab.1.left" timestamp="1601054663670">
-      <screen x="2048" y="0" width="1680" height="1050" />
+    <state width="1916" height="681" key="GridCell.Tab.1.left" timestamp="1601470101993">
+      <screen x="0" y="31" width="3840" height="1569" />
     </state>
+    <state width="1916" height="681" key="GridCell.Tab.1.left/0.31.3840.1569@0.31.3840.1569" timestamp="1601470101993" />
     <state width="1680" height="389" key="GridCell.Tab.1.left/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663670" />
-    <state width="1680" height="389" key="GridCell.Tab.1.right" timestamp="1601054663670">
-      <screen x="2048" y="0" width="1680" height="1050" />
+    <state width="1916" height="681" key="GridCell.Tab.1.right" timestamp="1601470101993">
+      <screen x="0" y="31" width="3840" height="1569" />
     </state>
+    <state width="1916" height="681" key="GridCell.Tab.1.right/0.31.3840.1569@0.31.3840.1569" timestamp="1601470101993" />
     <state width="1680" height="389" key="GridCell.Tab.1.right/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663670" />
-    <state x="2369" y="173" key="SettingsEditor" timestamp="1600423748330">
-      <screen x="2048" y="0" width="1680" height="1050" />
+    <state x="2067" y="451" key="SettingsEditor" timestamp="1601455852407">
+      <screen x="0" y="31" width="3840" height="1569" />
     </state>
+    <state x="2067" y="451" key="SettingsEditor/0.31.3840.1569@0.31.3840.1569" timestamp="1601455852407" />
     <state x="2369" y="173" key="SettingsEditor/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1600423748330" />
-    <state width="840" height="511" key="XDebugger.FullValuePopup" timestamp="1600951385042">
-      <screen x="2048" y="0" width="1680" height="1050" />
+    <state width="1920" height="764" key="XDebugger.FullValuePopup" timestamp="1601462795282">
+      <screen x="0" y="31" width="3840" height="1569" />
     </state>
+    <state width="1920" height="764" key="XDebugger.FullValuePopup/0.31.3840.1569@0.31.3840.1569" timestamp="1601462795282" />
     <state width="840" height="511" key="XDebugger.FullValuePopup/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1600951385042" />
     <state x="2646" y="284" width="473" height="509" key="com.goide.refactor.move.GoMoveDeclarationDialog" timestamp="1600422189147">
       <screen x="2048" y="0" width="1680" height="1050" />
@@ -158,9 +252,29 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/hops/main.go</url>
-          <line>53</line>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/hops/hopslist/main.go</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/hops/barthhaas/main.go</url>
+          <line>65</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/hops/hopsteiner/main.go</url>
+          <line>45</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/hops/hopsteiner/main.go</url>
+          <line>55</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/hops/hopsteiner/main.go</url>
+          <line>76</line>
+          <option name="timeStamp" value="58" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

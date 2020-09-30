@@ -1,4 +1,4 @@
-module github.com/RossMerr/hops
+module github.com/beerproto/dataset/hops/merge
 
 go 1.15
 
