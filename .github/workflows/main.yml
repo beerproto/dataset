@@ -14,4 +14,6 @@ jobs:
         uses: ./.github/actions/csvbeer
         with:
           command: 'hops'
-          inputFile:  ${{ github.workspace }} + 'hops/hops.csv'
+          inputFile: '/github/workspace/hops/hops.csv'
+          output: 'file'
+          outputFile: '/github/workspace/json/hops.json'
