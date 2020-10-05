@@ -20,7 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6ec35ad-e1f2-4d21-9a65-915959801c0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/actions/csvbeer/action.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/hops.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/hops.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,26 +68,26 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/commands" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.github/actions/csvbeer" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.github/actions/csvbeer" />
+      <recent name="$PROJECT_DIR$/src/commands" />
+      <recent name="$PROJECT_DIR$/hops/hopsteiner" />
+      <recent name="$PROJECT_DIR$/hops/barthhaas" />
+      <recent name="$PROJECT_DIR$/hops" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/hops/merge" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/hops" />
       <recent name="$PROJECT_DIR$/hops/barthhaas/cmd" />
       <recent name="$PROJECT_DIR$/hops/hopslist/cmd" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/commands" />
-      <recent name="$PROJECT_DIR$/hops/hopsteiner" />
-      <recent name="$PROJECT_DIR$/hops/barthhaas" />
-      <recent name="$PROJECT_DIR$/hops" />
-      <recent name="$PROJECT_DIR$/hops/hopslist" />
     </key>
   </component>
   <component name="RunManager" selected="Go Build.go build main.go">
@@ -118,6 +123,9 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="main.yml" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -159,25 +167,25 @@
       <screen x="0" y="31" width="3840" height="1569" />
     </state>
     <state x="2658" y="573" width="424" height="484" key="FileChooserDialogImpl/0.31.3840.1569@0.31.3840.1569" timestamp="1601477100933" />
-    <state width="3794" height="420" key="GridCell.Tab.0.bottom" timestamp="1601900113418">
+    <state width="3794" height="275" key="GridCell.Tab.0.bottom" timestamp="1601900864218">
       <screen x="0" y="31" width="3840" height="1569" />
     </state>
-    <state width="3794" height="420" key="GridCell.Tab.0.bottom/0.31.3840.1569@0.31.3840.1569" timestamp="1601900113418" />
+    <state width="3794" height="275" key="GridCell.Tab.0.bottom/0.31.3840.1569@0.31.3840.1569" timestamp="1601900864218" />
     <state width="1680" height="275" key="GridCell.Tab.0.bottom/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663674" />
-    <state width="3794" height="420" key="GridCell.Tab.0.center" timestamp="1601900113418">
+    <state width="3794" height="275" key="GridCell.Tab.0.center" timestamp="1601900864217">
       <screen x="0" y="31" width="3840" height="1569" />
     </state>
-    <state width="3794" height="420" key="GridCell.Tab.0.center/0.31.3840.1569@0.31.3840.1569" timestamp="1601900113418" />
+    <state width="3794" height="275" key="GridCell.Tab.0.center/0.31.3840.1569@0.31.3840.1569" timestamp="1601900864217" />
     <state width="1680" height="275" key="GridCell.Tab.0.center/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663674" />
-    <state width="3794" height="420" key="GridCell.Tab.0.left" timestamp="1601900113418">
+    <state width="3794" height="275" key="GridCell.Tab.0.left" timestamp="1601900864217">
       <screen x="0" y="31" width="3840" height="1569" />
     </state>
-    <state width="3794" height="420" key="GridCell.Tab.0.left/0.31.3840.1569@0.31.3840.1569" timestamp="1601900113418" />
+    <state width="3794" height="275" key="GridCell.Tab.0.left/0.31.3840.1569@0.31.3840.1569" timestamp="1601900864217" />
     <state width="1680" height="275" key="GridCell.Tab.0.left/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663674" />
-    <state width="3794" height="420" key="GridCell.Tab.0.right" timestamp="1601900113418">
+    <state width="3794" height="275" key="GridCell.Tab.0.right" timestamp="1601900864217">
       <screen x="0" y="31" width="3840" height="1569" />
     </state>
-    <state width="3794" height="420" key="GridCell.Tab.0.right/0.31.3840.1569@0.31.3840.1569" timestamp="1601900113418" />
+    <state width="3794" height="275" key="GridCell.Tab.0.right/0.31.3840.1569@0.31.3840.1569" timestamp="1601900864217" />
     <state width="1680" height="275" key="GridCell.Tab.0.right/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663674" />
     <state width="3794" height="420" key="GridCell.Tab.1.bottom" timestamp="1601900113418">
       <screen x="0" y="31" width="3840" height="1569" />
@@ -213,6 +221,10 @@
       <screen x="2048" y="0" width="1680" height="1050" />
     </state>
     <state x="2646" y="284" width="473" height="509" key="com.goide.refactor.move.GoMoveDeclarationDialog/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1600422189147" />
+    <state x="685" y="717" width="540" height="197" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1601902780943">
+      <screen x="0" y="31" width="3840" height="1569" />
+    </state>
+    <state x="685" y="717" width="540" height="197" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.31.3840.1569@0.31.3840.1569" timestamp="1601902780943" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
