@@ -23,7 +23,7 @@ const (
 	FILE = Output("file")
 )
 
-func ParseStyle(stylePath, indexPath string, output Output) {
+func ParseStyle(stylePath, indexPath string, output Output, file string) {
 
 	fmt.Println(fmt.Sprintf("Step 1/2 : Loading %s", indexPath))
 
@@ -74,13 +74,24 @@ func ParseStyle(stylePath, indexPath string, output Output) {
 		w = os.Stdout
 		break
 	case FILE:
-		jsonPath := stylePath[0:len(stylePath)-len(CsvExt)] + JsonExt
-		f, err := os.Create(jsonPath)
-		if err != nil {
-			panic(fmt.Errorf("failed to create file %s: %w", jsonPath, err))
+		if file != "" {
+			f, err := os.Create(file)
+			if err != nil {
+				panic(fmt.Errorf("failed to create file %s: %w", file, err))
+			}
+			fmt.Println(fmt.Sprintf("Makine file %s", file))
+			defer f.Close()
+			w = f
+
+		} else {
+			jsonPath := stylePath[0:len(stylePath)-len(CsvExt)] + JsonExt
+			f, err := os.Create(jsonPath)
+			if err != nil {
+				panic(fmt.Errorf("failed to create file %s: %w", jsonPath, err))
+			}
+			defer f.Close()
+			w = f
 		}
-		defer f.Close()
-		w = f
 	}
 
 	// First marshal through the protobuf jsonpb.Marshaler, standard encoding/json package when called on protobuf message types does not operate correctly.

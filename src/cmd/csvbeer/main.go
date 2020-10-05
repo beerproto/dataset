@@ -10,15 +10,18 @@ import (
 
 var (
 	stylesCommand = flag.NewFlagSet("styles", flag.ExitOnError)
-	indexSFilePtr  = stylesCommand.StringP("index", "i", "index.csv", "Name of the index file to identify 'Styles ID's")
-	outputSPtr     = stylesCommand.StringP("output", "o", "tty", "Output processed from CSV to (file, tty)")
-	//formatSPtr     = stylesCommand.StringP("format", "f", "json", "Format to return (JSON, MD)")
+	indexSFilePtr = stylesCommand.StringP("index", "i", "index.csv", "Name of the index file to identify 'Styles ID's")
+	outputSPtr    = stylesCommand.StringP("output", "o", "tty", "Output processed from CSV to (file, tty)")
+	outputFileSPtr    = stylesCommand.String("file", "f", "File output name")
 
 	equipmentsCommand = flag.NewFlagSet("equipments", flag.ExitOnError)
-	indexEFilePtr  = equipmentsCommand.StringP("index", "i", "equipments.csv", "Name of the index file to identify 'Equipment ID's")
-	outputEPtr     = equipmentsCommand.StringP("output", "o", "tty", "Output processed from CSV to (file, tty)")
-	//formatEPtr     = stylesCommand.StringP("format", "f", "json", "Format to return (JSON, MD)")
+	indexEFilePtr     = equipmentsCommand.StringP("index", "i", "equipments.csv", "Name of the index file to identify 'Equipment ID's")
+	outputEPtr        = equipmentsCommand.StringP("output", "o", "tty", "Output processed from CSV to (file, tty)")
+	outputFileEPtr    = equipmentsCommand.String("file", "f", "File output name")
 
+	hopsCommand    = flag.NewFlagSet("hops", flag.ExitOnError)
+	outputHPtr     = hopsCommand.StringP("output", "o", "tty", "Output processed from CSV to (file, tty)")
+	outputFileHPtr = hopsCommand.String("file", "f", "File output name")
 )
 
 func main() {
@@ -29,6 +32,8 @@ func main() {
 		err = stylesCommand.Parse(os.Args[2:])
 	case "equipments":
 		err = equipmentsCommand.Parse(os.Args[2:])
+	case "hops":
+		err = hopsCommand.Parse(os.Args[2:])
 	default:
 		flag.PrintDefaults()
 		os.Exit(1)
@@ -51,7 +56,7 @@ func main() {
 			os.Exit(1)
 		}
 
-		commands.ParseStyle(stylesCommand.Arg(0), *indexSFilePtr, output)
+		commands.ParseStyle(stylesCommand.Arg(0), *indexSFilePtr, output, *outputFileSPtr)
 	}
 
 	if equipmentsCommand.Parsed() {
@@ -67,6 +72,17 @@ func main() {
 			os.Exit(1)
 		}
 
-		commands.ParseEquipments(equipmentsCommand.Arg(0), *indexEFilePtr, output)
+		commands.ParseEquipments(equipmentsCommand.Arg(0), *indexEFilePtr, output, *outputFileEPtr)
+	}
+
+	if hopsCommand.Parsed() {
+		output := commands.Output(strings.ToLower(*outputHPtr))
+		outputChoices := map[commands.Output]bool{commands.FILE: true, commands.TTY: true}
+		if _, validChoice := outputChoices[output]; !validChoice {
+			equipmentsCommand.PrintDefaults()
+			os.Exit(1)
+		}
+
+		commands.ParseHops(hopsCommand.Arg(0), output, *outputFileHPtr)
 	}
 }

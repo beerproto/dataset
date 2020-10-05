@@ -12,53 +12,28 @@ import (
 	"github.com/golang/protobuf/jsonpb"
 )
 
-func ParseEquipments(equipmentItemsPath, indexPath string, output Output, file string) {
-	fmt.Println(fmt.Sprintf("Step 1/2 : Loading %s", indexPath))
-
-	indexFile, err := loadFile(indexPath)
+func ParseHops(hopItemsPath string, output Output, file string) {
+	hopsItemsFile, err := loadFile(hopItemsPath)
 	if err != nil {
 		panic(err)
 	}
-	defer indexFile.Close()
+	defer hopsItemsFile.Close()
 
-	var equipments []*csv.Equipment
+	var hops []*csv.Hop
 
-	if err := gocsv.UnmarshalFile(indexFile, &equipments); err != nil {
-		panic(fmt.Errorf("%v does not match Index %v format: %w", indexPath, CsvExt, err))
-	}
-
-	fmt.Println(fmt.Sprintf("Step 2/2 : Loading %s", equipmentItemsPath))
-
-	equipmentItemsFile, err := loadFile(equipmentItemsPath)
-	if err != nil {
-		panic(err)
-	}
-	defer equipmentItemsFile.Close()
-
-	var equipmentItems []*csv.EquipmentItems
-
-	if err := gocsv.UnmarshalFile(equipmentItemsFile, &equipmentItems); err != nil {
-		panic(fmt.Errorf("%v does not match EquipmentItems %v format: %w", equipmentItemsPath, CsvExt, err))
+	if err := gocsv.UnmarshalFile(hopsItemsFile, &hops); err != nil {
+		panic(fmt.Errorf("%v does not match Hop %v format: %w", hopItemsPath, CsvExt, err))
 	}
 
 	fmt.Println("Successfully parased")
 
-	items := map[string][]*beerproto.EquipmentItemType{}
-	for _, item := range equipmentItems {
-		arr := items[item.EquipmentID]
-		arr = append(arr, item.ToEquipmentItems())
-		items[item.EquipmentID] = arr
-	}
-
-	var arr []*beerproto.EquipmentType
-	for _, e := range equipments {
-		if equipmentItems, ok := items[e.ID]; ok {
-			arr = append(arr, e.ToEquipmentType(equipmentItems))
-		}
+	var arr []*beerproto.VarietyInformation
+	for _, e := range hops {
+		arr = append(arr, e.ToVarietyInformation())
 	}
 
 	recipe := &beerproto.Recipe{
-		Equipments: arr,
+		HopVarieties: arr,
 	}
 
 	var w io.Writer
@@ -78,11 +53,12 @@ func ParseEquipments(equipmentItemsPath, indexPath string, output Output, file s
 			w = f
 
 		} else {
-			jsonPath := equipmentItemsPath[0:len(equipmentItemsPath)-len(CsvExt)] + JsonExt
+			jsonPath := hopItemsPath[0:len(hopItemsPath)-len(CsvExt)] + JsonExt
 			f, err := os.Create(jsonPath)
 			if err != nil {
 				panic(fmt.Errorf("failed to create file %s: %w", jsonPath, err))
 			}
+			fmt.Println(fmt.Sprintf("Makine file %s", jsonPath))
 			defer f.Close()
 			w = f
 		}
