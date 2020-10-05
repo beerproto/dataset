@@ -8,4 +8,6 @@ RUN CGO_ENABLED=0 GOOS=linux go build -a -o csvbeer .
 #WORKDIR /root/
 #COPY --from=builder /go/src/github.com/beerproto/dataset/src/cmd/csvbeer .
 #ENTRYPOINT ["./csvbeer"]
+
+COPY entrypoint.sh /entrypoint.sh
 ENTRYPOINT ["/entrypoint.sh"]
