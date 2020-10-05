@@ -19,7 +19,7 @@ inputs:
     required: true
     default: 'hops.json'
   index: # id of input
-      description: 'Name of the index file to identify 'Equipment ID's'
+      description: 'Name of the index file to identify (Equipment IDs)'
       required: false
       default: 'equipments.csv'
 runs:
