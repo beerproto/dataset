@@ -28,7 +28,7 @@ func ParseStyle(stylePath string, output Output, file string) {
 
 	stylesFile, err := loadFile(stylePath)
 	if err != nil {
-		panic(err)
+		panic(fmt.Errorf("failed to load file %v: %w", stylePath, err))
 	}
 	defer stylesFile.Close()
 

@@ -12,16 +12,16 @@ inputs:
     default: 'hops.csv'
   output:  # id of input
     description: 'Output processed from CSV to (file, tty)'
-    required: true
+    required: false
     default: 'tty'
   outputFile:  # id of input
     description: 'File output name'
-    required: true
+    required: false
     default: 'hops.json'
   index: # id of input
       description: 'Name of the index file to identify (Equipment IDs)'
       required: false
-      default: 'equipments.csv'
+      default: ''
 runs:
   using: 'docker'
   image: 'Dockerfile'

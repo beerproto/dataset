@@ -17,7 +17,7 @@ func ParseEquipments(equipmentItemsPath, indexPath string, output Output, file s
 
 	indexFile, err := loadFile(indexPath)
 	if err != nil {
-		panic(err)
+		panic(fmt.Errorf("failed to load file %v: %w", equipmentItemsPath, err))
 	}
 	defer indexFile.Close()
 

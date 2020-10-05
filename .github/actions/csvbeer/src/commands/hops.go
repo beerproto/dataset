@@ -13,9 +13,11 @@ import (
 )
 
 func ParseHops(hopItemsPath string, output Output, file string) {
+	fmt.Println(fmt.Sprintf("Step 1/1 : Loading %s", hopItemsPath))
+
 	hopsItemsFile, err := loadFile(hopItemsPath)
 	if err != nil {
-		panic(err)
+		panic(fmt.Errorf("failed to load file %v: %w", hopItemsPath, err))
 	}
 	defer hopsItemsFile.Close()
 
