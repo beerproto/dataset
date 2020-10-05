@@ -30,4 +30,4 @@ runs:
     - ${{ inputs.inputFile }}
     - '--output=${{ inputs.output }}'
     - '--file=${{ inputs.outputFile }}'
-    - '--index=' + ${{ inputs.index }}
+    - '--index=${{ inputs.index }}'
