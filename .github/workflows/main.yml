@@ -18,6 +18,6 @@ jobs:
           outputFile: '/github/workspace/json/hops.json'
       - name: Git Commit on Workflow
         uses: matheusalbino/git-commit@v1.0.1
-          with:
-            github-token: ${{ secrets.GITHUB_TOKEN }}
-            message: Updating JSON files
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          message: Updating JSON files
