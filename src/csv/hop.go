@@ -91,7 +91,7 @@ func averagePercent(low, high *float64) *beerproto.PercentType {
 	if low == nil {
 		return nil
 	}
-	if high == nil {
+	if high == nil || *high == 0{
 		return &beerproto.PercentType{
 			Value: *low,
 			Unit: beerproto.PercentType_PERCENT_SIGN,

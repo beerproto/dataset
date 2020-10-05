@@ -63,6 +63,11 @@ func main() {
 
 			hopOutput.Characteristics = moreHop.Flavors
 
+
+			hopOutput.Characteristics = strings.ReplaceAll(moreHop.Flavors, "\"", "'")
+			hopOutput.Characteristics = strings.ReplaceAll(hopOutput.Characteristics, "\r", " ")
+			hopOutput.Characteristics = strings.ReplaceAll(hopOutput.Characteristics, "\n", " ")
+
 			if hopOutput.AlphaAcidHigh == "" {
 				hopOutput.AlphaAcidLow = moreHop.AlphaAcidsLow
 				hopOutput.AlphaAcidHigh = moreHop.AlphaAcidsHigh
@@ -112,6 +117,40 @@ func main() {
 			hopsOuput = append(hopsOuput, hopOutput)
 		}
 
+	}
+
+
+	for _, hop := range hopsMoreMap {
+		hopOutput := &HopOuput{
+			Hop: &hopslist.Hop{},
+		}
+		hopOutput.Name = hop.Name
+
+
+		hopOutput.Characteristics = strings.ReplaceAll(hop.Flavors, "\"", "'")
+		hopOutput.Characteristics = strings.ReplaceAll(hopOutput.Characteristics, "\r", " ")
+		hopOutput.Characteristics = strings.ReplaceAll(hopOutput.Characteristics, "\n", " ")
+		hopOutput.AlphaAcidLow = hop.AlphaAcidsLow
+		hopOutput.AlphaAcidHigh = hop.AlphaAcidsHigh
+		hopOutput.BetaAcidLow = hop.BetaAcidsLow
+		hopOutput.BetaAcidHigh = hop.BetaAcidsHigh
+		hopOutput.TotalOilLow = hop.TotalOilLow
+		hopOutput.TotalOilHigh = hop.TotalOilHigh
+		hopOutput.MyrceneOilLow = hop.MyrceneLow
+		hopOutput.MyrceneOilHigh = hop.MyrceneHigh
+		hopOutput.LinaloolOilLow = hop.LinaloolLow
+		hopOutput.LinaloolOilHigh = hop.LinaloolHigh
+		hopOutput.PolyphenolsOilLow = hop.TotalPolyphenolsLow
+		hopOutput.PolyphenolsOilHigh = hop.TotalPolyphenolsHigh
+		hopOutput.Country = hop.Country
+		hopOutput.Description = strings.ReplaceAll(hop.Description, "\"", "'")
+		hopOutput.Description = strings.ReplaceAll(hopOutput.Description, "\r", " ")
+		hopOutput.Description = strings.ReplaceAll(hopOutput.Description, "\n", " ")
+		//hopOutput.Description = ""
+
+		hopOutput.Purpose = use(hopOutput.Purpose)
+		hopOutput.ID = uuid.New().String()
+		hopsOuput = append(hopsOuput, hopOutput)
 	}
 
 	clientsFileOutput, err := os.OpenFile("../hops.csv", os.O_RDWR|os.O_CREATE, os.ModePerm)
