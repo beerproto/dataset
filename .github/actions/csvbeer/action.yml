@@ -13,7 +13,7 @@ inputs:
   output:  # id of input
     description: 'Output processed from CSV to (file, tty)'
     required: false
-    default: 'tty'
+    default: 'file'
   outputFile:  # id of input
     description: 'File output name'
     required: false
@@ -30,4 +30,4 @@ runs:
     - ${{ inputs.inputFile }}
     - '--output=${{ inputs.output }}'
     - '--file=${{ inputs.outputFile }}'
-#    - '--index=' + ${{ inputs.index }}
+    - '--index=' + ${{ inputs.index }}
