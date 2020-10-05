@@ -13,7 +13,7 @@ inputs:
   output:  # id of input
     description: 'Output processed from CSV to (file, tty)'
     required: true
-    default: 'file'
+    default: 'tty'
   outputFile:  # id of input
     description: 'File output name'
     required: true
