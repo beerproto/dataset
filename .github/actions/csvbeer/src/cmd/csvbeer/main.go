@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"os"
 	"strings"
 
@@ -24,6 +25,8 @@ var (
 )
 
 func main() {
+	var err error
+
 	if len(os.Args) < 2 {
 		flag.PrintDefaults()
 		os.Exit(0)
@@ -31,14 +34,18 @@ func main() {
 
 	switch strings.ToLower(os.Args[1]) {
 	case "styles":
-		stylesCommand.Parse(os.Args[2:])
+		err = stylesCommand.Parse(os.Args[2:])
 	case "equipments":
-		equipmentsCommand.Parse(os.Args[2:])
+		err = equipmentsCommand.Parse(os.Args[2:])
 	case "hops":
-		hopsCommand.Parse(os.Args[2:])
+		err = hopsCommand.Parse(os.Args[2:])
 	default:
 		flag.PrintDefaults()
 		os.Exit(1)
+	}
+
+	if err != nil {
+		fmt.Println(err)
 	}
 
 	if stylesCommand.Parsed() {
