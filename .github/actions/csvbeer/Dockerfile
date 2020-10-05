@@ -1,14 +1,8 @@
-FROM golang:1.15 as builder
-WORKDIR /go/src/github.com/beerproto/dataset/src/cmd/csvbeer
-COPY src /go/src/github.com/beerproto/dataset/src
-RUN CGO_ENABLED=0 GOOS=linux go build -a -o csvbeer .
+# Container image that runs your code
+FROM alpine:3.10
 
-#FROM alpine:3.12
-#RUN apk --no-cache add ca-certificates
-#WORKDIR /root/
-#COPY --from=builder /go/src/github.com/beerproto/dataset/src/cmd/csvbeer .
-#ENTRYPOINT ["./csvbeer"]
+# Copies your code file from your action repository to the filesystem path `/` of the container
+COPY entrypoint.sh /entrypoint.sh
 
-COPY entrypoint.sh entrypoint.sh
-RUN ["chmod", "+x", "entrypoint.sh"]
-ENTRYPOINT ["./entrypoint.sh"]
+# Code file to execute when the docker container starts up (`entrypoint.sh`)
+ENTRYPOINT ["/entrypoint.sh"]
