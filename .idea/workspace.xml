@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6ec35ad-e1f2-4d21-9a65-915959801c0d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/actions/csvbeer/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/actions/csvbeer/src/cmd/csvbeer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/src/cmd/csvbeer/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +86,7 @@
       <recent name="$PROJECT_DIR$/hops/barthhaas/cmd" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go">
+  <component name="RunManager" selected="Go Build.go build github.com/beerproto/dataset/src/cmd/csvbeer">
     <configuration name="go build github.com/beerproto/dataset/hops/merge" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="dataset" />
       <working_directory value="$PROJECT_DIR$/hops/merge" />
@@ -95,10 +96,18 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build github.com/beerproto/dataset/src/cmd/csvbeer" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="dataset" />
+      <working_directory value="$PROJECT_DIR$/.github/actions/csvbeer/src" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/.github/actions/csvbeer/src/cmd/csvbeer/main.go" />
+      <package value="github.com/beerproto/dataset/src/cmd/csvbeer" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="dataset" />
       <working_directory value="$PROJECT_DIR$/src" />
-      <parameters value="hops ../hops/hops.csv --output=file --file=&quot;hops.json&quot;" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/src/cmd/csvbeer/main.go" />
       <directory value="$PROJECT_DIR$" />
@@ -107,9 +116,11 @@
     <list>
       <item itemvalue="Go Build.go build main.go" />
       <item itemvalue="Go Build.go build github.com/beerproto/dataset/hops/merge" />
+      <item itemvalue="Go Build.go build github.com/beerproto/dataset/src/cmd/csvbeer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build github.com/beerproto/dataset/src/cmd/csvbeer" />
         <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build github.com/beerproto/dataset/hops/merge" />
       </list>
@@ -149,10 +160,10 @@
       <screen x="0" y="31" width="3840" height="1569" />
     </state>
     <state x="2591" y="635" width="567" height="360" key="#Notifications/0.31.3840.1569@0.31.3840.1569" timestamp="1601576386572" />
-    <state x="585" y="263" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601898881802">
+    <state x="585" y="263" width="1084" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601906137618">
       <screen x="0" y="31" width="3840" height="1569" />
     </state>
-    <state x="585" y="263" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.31.3840.1569@0.31.3840.1569" timestamp="1601898881802" />
+    <state x="585" y="263" width="1084" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.31.3840.1569@0.31.3840.1569" timestamp="1601906137618" />
     <state x="2611" y="131" key="#com.intellij.execution.impl.EditConfigurationsDialog/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1600770807519" />
     <state width="596" height="547" key="DebuggerActiveHint" timestamp="1600417486703">
       <screen x="2048" y="0" width="1680" height="1050" />
@@ -162,45 +173,45 @@
       <screen x="0" y="31" width="3840" height="1569" />
     </state>
     <state x="2658" y="573" width="424" height="484" key="FileChooserDialogImpl/0.31.3840.1569@0.31.3840.1569" timestamp="1601477100933" />
-    <state width="3794" height="275" key="GridCell.Tab.0.bottom" timestamp="1601900864218">
+    <state width="1874" height="275" key="GridCell.Tab.0.bottom" timestamp="1601906355411">
       <screen x="0" y="31" width="3840" height="1569" />
     </state>
-    <state width="3794" height="275" key="GridCell.Tab.0.bottom/0.31.3840.1569@0.31.3840.1569" timestamp="1601900864218" />
+    <state width="1874" height="275" key="GridCell.Tab.0.bottom/0.31.3840.1569@0.31.3840.1569" timestamp="1601906355411" />
     <state width="1680" height="275" key="GridCell.Tab.0.bottom/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663674" />
-    <state width="3794" height="275" key="GridCell.Tab.0.center" timestamp="1601900864217">
+    <state width="1874" height="275" key="GridCell.Tab.0.center" timestamp="1601906355411">
       <screen x="0" y="31" width="3840" height="1569" />
     </state>
-    <state width="3794" height="275" key="GridCell.Tab.0.center/0.31.3840.1569@0.31.3840.1569" timestamp="1601900864217" />
+    <state width="1874" height="275" key="GridCell.Tab.0.center/0.31.3840.1569@0.31.3840.1569" timestamp="1601906355411" />
     <state width="1680" height="275" key="GridCell.Tab.0.center/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663674" />
-    <state width="3794" height="275" key="GridCell.Tab.0.left" timestamp="1601900864217">
+    <state width="1874" height="275" key="GridCell.Tab.0.left" timestamp="1601906355411">
       <screen x="0" y="31" width="3840" height="1569" />
     </state>
-    <state width="3794" height="275" key="GridCell.Tab.0.left/0.31.3840.1569@0.31.3840.1569" timestamp="1601900864217" />
+    <state width="1874" height="275" key="GridCell.Tab.0.left/0.31.3840.1569@0.31.3840.1569" timestamp="1601906355411" />
     <state width="1680" height="275" key="GridCell.Tab.0.left/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663674" />
-    <state width="3794" height="275" key="GridCell.Tab.0.right" timestamp="1601900864217">
+    <state width="1874" height="275" key="GridCell.Tab.0.right" timestamp="1601906355411">
       <screen x="0" y="31" width="3840" height="1569" />
     </state>
-    <state width="3794" height="275" key="GridCell.Tab.0.right/0.31.3840.1569@0.31.3840.1569" timestamp="1601900864217" />
+    <state width="1874" height="275" key="GridCell.Tab.0.right/0.31.3840.1569@0.31.3840.1569" timestamp="1601906355411" />
     <state width="1680" height="275" key="GridCell.Tab.0.right/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663674" />
-    <state width="3794" height="420" key="GridCell.Tab.1.bottom" timestamp="1601900113418">
+    <state width="1874" height="420" key="GridCell.Tab.1.bottom" timestamp="1601906319575">
       <screen x="0" y="31" width="3840" height="1569" />
     </state>
-    <state width="3794" height="420" key="GridCell.Tab.1.bottom/0.31.3840.1569@0.31.3840.1569" timestamp="1601900113418" />
+    <state width="1874" height="420" key="GridCell.Tab.1.bottom/0.31.3840.1569@0.31.3840.1569" timestamp="1601906319575" />
     <state width="1680" height="389" key="GridCell.Tab.1.bottom/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663670" />
-    <state width="3794" height="420" key="GridCell.Tab.1.center" timestamp="1601900113418">
+    <state width="1874" height="420" key="GridCell.Tab.1.center" timestamp="1601906319575">
       <screen x="0" y="31" width="3840" height="1569" />
     </state>
-    <state width="3794" height="420" key="GridCell.Tab.1.center/0.31.3840.1569@0.31.3840.1569" timestamp="1601900113418" />
+    <state width="1874" height="420" key="GridCell.Tab.1.center/0.31.3840.1569@0.31.3840.1569" timestamp="1601906319575" />
     <state width="1680" height="389" key="GridCell.Tab.1.center/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663670" />
-    <state width="3794" height="420" key="GridCell.Tab.1.left" timestamp="1601900113418">
+    <state width="1874" height="420" key="GridCell.Tab.1.left" timestamp="1601906319575">
       <screen x="0" y="31" width="3840" height="1569" />
     </state>
-    <state width="3794" height="420" key="GridCell.Tab.1.left/0.31.3840.1569@0.31.3840.1569" timestamp="1601900113418" />
+    <state width="1874" height="420" key="GridCell.Tab.1.left/0.31.3840.1569@0.31.3840.1569" timestamp="1601906319575" />
     <state width="1680" height="389" key="GridCell.Tab.1.left/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663670" />
-    <state width="3794" height="420" key="GridCell.Tab.1.right" timestamp="1601900113418">
+    <state width="1874" height="420" key="GridCell.Tab.1.right" timestamp="1601906319575">
       <screen x="0" y="31" width="3840" height="1569" />
     </state>
-    <state width="3794" height="420" key="GridCell.Tab.1.right/0.31.3840.1569@0.31.3840.1569" timestamp="1601900113418" />
+    <state width="1874" height="420" key="GridCell.Tab.1.right/0.31.3840.1569@0.31.3840.1569" timestamp="1601906319575" />
     <state width="1680" height="389" key="GridCell.Tab.1.right/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1601054663670" />
     <state x="2067" y="451" key="SettingsEditor" timestamp="1601455852407">
       <screen x="0" y="31" width="3840" height="1569" />
@@ -263,6 +274,41 @@
           <url>file://$PROJECT_DIR$/hops/merge/main.go</url>
           <line>126</line>
           <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/.github/actions/csvbeer/src/cmd/csvbeer/main.go</url>
+          <line>28</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/.github/actions/csvbeer/src/cmd/csvbeer/main.go</url>
+          <line>33</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/.github/actions/csvbeer/src/cmd/csvbeer/main.go</url>
+          <line>41</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/.github/actions/csvbeer/src/cmd/csvbeer/main.go</url>
+          <line>34</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/.github/actions/csvbeer/src/cmd/csvbeer/main.go</url>
+          <line>36</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/.github/actions/csvbeer/src/cmd/csvbeer/main.go</url>
+          <line>38</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/.github/actions/csvbeer/src/cmd/csvbeer/main.go</url>
+          <line>40</line>
+          <option name="timeStamp" value="76" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

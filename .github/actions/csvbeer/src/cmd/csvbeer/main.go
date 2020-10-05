@@ -26,6 +26,11 @@ var (
 func main() {
 	var err error
 
+	if len(os.Args) < 2 {
+		flag.PrintDefaults()
+		os.Exit(0)
+	}
+
 	switch strings.ToLower(os.Args[1]) {
 	case "styles":
 		err = stylesCommand.Parse(os.Args[2:])
