@@ -10,4 +10,5 @@ RUN CGO_ENABLED=0 GOOS=linux go build -a -o csvbeer .
 #ENTRYPOINT ["./csvbeer"]
 
 COPY entrypoint.sh entrypoint.sh
+RUN ["chmod", "+x", "entrypoint.sh"]
 ENTRYPOINT ["./entrypoint.sh"]
