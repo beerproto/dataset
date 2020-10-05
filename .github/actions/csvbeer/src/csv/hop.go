@@ -45,30 +45,30 @@ func (s *Hop) ToVarietyInformation() *beerproto.VarietyInformation {
 		Type:      s.ToType(),
 		OilContent: s.ToOilContentType(),
 		//PercentLost:
-		AlphaAcid: averagePercent(s.AlphaAcidLow, s.AlphaAcidHigh),
-		BetaAcid: averagePercent(s.BetaAcidLow, s.BetaAcidHigh),
-		Name: s.Name,
-		Origin: s.Country,
+		AlphaAcid:   averagePercent(s.AlphaAcidLow, s.AlphaAcidHigh),
+		BetaAcid:    averagePercent(s.BetaAcidLow, s.BetaAcidHigh),
+		Name:        s.Name,
+		Origin:      s.Country,
 		Substitutes: s.Substitutes,
-		Notes: s.Characteristics,
+		Notes:       s.Characteristics,
 	}
 }
 
 func (s *Hop) ToOilContentType() *beerproto.OilContentType {
 	return &beerproto.OilContentType{
-		Polyphenols: averagePercent(s.PolyphenolsOilLow, s.PolyphenolsOilHigh),
+		Polyphenols:        averagePercent(s.PolyphenolsOilLow, s.PolyphenolsOilHigh),
 		TotalOilMlPer_100G: total(s.TotalOilLow, s.TotalOilHigh),
-		Farnesene: averagePercent(s.FarneseneOilLow, s.FarneseneOilHigh),
+		Farnesene:          averagePercent(s.FarneseneOilLow, s.FarneseneOilHigh),
 		//Limonene: averagePercent(s.l, s.PolyphenolsOilHigh),
 		//Nerol: averagePercent(s., s.PolyphenolsOilHigh),
 		//Geraniol: averagePercent(s.g, s.PolyphenolsOilHigh),
 		//BPinene: averagePercent(s.b, s.PolyphenolsOilHigh),
-		Linalool: averagePercent(s.LinaloolOilLow, s.LinaloolOilHigh),
+		Linalool:      averagePercent(s.LinaloolOilLow, s.LinaloolOilHigh),
 		Caryophyllene: averagePercent(s.CaryophylleneOilLow, s.CaryophylleneOilHigh),
-		Cohumulone: averagePercent(s.CoHumuloneLow, s.CoHumuloneHigh),
+		Cohumulone:    averagePercent(s.CoHumuloneLow, s.CoHumuloneHigh),
 		//Xanthohumol: averagePercent(s.x, s.PolyphenolsOilHigh),
 		Humulene: averagePercent(s.HumuleneOilLow, s.HumuleneOilHigh),
-		Myrcene: averagePercent(s.MyrceneOilLow, s.MyrceneOilHigh),
+		Myrcene:  averagePercent(s.MyrceneOilLow, s.MyrceneOilHigh),
 		//Pinene: averagePercent(s.p, s.PolyphenolsOilHigh),
 	}
 }

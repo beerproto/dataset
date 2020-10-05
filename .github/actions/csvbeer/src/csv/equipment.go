@@ -5,7 +5,7 @@ import (
 )
 
 type Equipment struct {
-	ID    string               `csv:"ID"`
+	ID    string            `csv:"ID"`
 	Name  string            `csv:"Name"`
 	Items []*EquipmentItems `csv:"-"`
 }

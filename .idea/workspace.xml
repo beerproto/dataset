@@ -20,7 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6ec35ad-e1f2-4d21-9a65-915959801c0d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/actions/csvbeer/action.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/action.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/actions/csvbeer/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmd/csvbeer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/src/cmd/csvbeer/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/commands/equipments.go" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/src/commands/equipments.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/commands/hops.go" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/src/commands/hops.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/commands/styles.go" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/src/commands/styles.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/csv/equipment.go" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/src/csv/equipment.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/csv/hop.go" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/src/csv/hop.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/csv/style.go" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/src/csv/style.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/src/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/src/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/src/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hops.json" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/src/hops.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +76,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.github/actions/csvbeer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -71,18 +84,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/.github/actions/csvbeer/src" />
       <recent name="$PROJECT_DIR$/.github/actions/csvbeer" />
       <recent name="$PROJECT_DIR$/src/commands" />
       <recent name="$PROJECT_DIR$/hops/hopsteiner" />
-      <recent name="$PROJECT_DIR$/hops/barthhaas" />
-      <recent name="$PROJECT_DIR$/hops" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.github/actions/csvbeer" />
       <recent name="$PROJECT_DIR$/hops/merge" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/hops" />
       <recent name="$PROJECT_DIR$/hops/barthhaas/cmd" />
-      <recent name="$PROJECT_DIR$/hops/hopslist/cmd" />
     </key>
   </component>
   <component name="RunManager" selected="Go Build.go build main.go">
@@ -250,12 +263,12 @@
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/csv/hop.go</url>
+          <url>file://$PROJECT_DIR$/.github/actions/csvbeer/src/csv/hop.go</url>
           <line>53</line>
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/commands/hops.go</url>
+          <url>file://$PROJECT_DIR$/.github/actions/csvbeer/src/commands/hops.go</url>
           <line>31</line>
           <option name="timeStamp" value="67" />
         </line-breakpoint>

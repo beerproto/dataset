@@ -2,8 +2,7 @@ version: "3.8"
 services:
   hops:
     build:
-      context: .
-      dockerfile: ../.github/actions/csvbeer/Dockerfile
+      context: ".github/actions/csvbeer"
     volumes:
       - "../hops/hops.csv:/data/hops.csv"
       - "../json/:/json"
@@ -18,8 +17,7 @@ services:
       ]
   equipments:
     build:
-      context: .
-      dockerfile: ../.github/actions/csvbeer/Dockerfile
+      context: ".github/actions/csvbeer"
     volumes:
       - "../equipment/equipmentItems.csv:/data/equipmentItems.csv"
       - "../equipment/equipment.csv:/data/equipment.csv"
@@ -37,8 +35,7 @@ services:
       ]
   styles:
     build:
-      context: .
-      dockerfile: ../.github/actions/csvbeer/Dockerfile
+      context: ".github/actions/csvbeer"
     volumes:
       - "../styles/styles.csv:/data/styles.csv"
       - "../json/:/json"
