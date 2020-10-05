@@ -24,8 +24,6 @@ var (
 )
 
 func main() {
-	var err error
-
 	if len(os.Args) < 2 {
 		flag.PrintDefaults()
 		os.Exit(0)
@@ -33,18 +31,14 @@ func main() {
 
 	switch strings.ToLower(os.Args[1]) {
 	case "styles":
-		err = stylesCommand.Parse(os.Args[2:])
+		stylesCommand.Parse(os.Args[2:])
 	case "equipments":
-		err = equipmentsCommand.Parse(os.Args[2:])
+		equipmentsCommand.Parse(os.Args[2:])
 	case "hops":
-		err = hopsCommand.Parse(os.Args[2:])
+		hopsCommand.Parse(os.Args[2:])
 	default:
 		flag.PrintDefaults()
 		os.Exit(1)
-	}
-
-	if err != nil {
-		panic(err)
 	}
 
 	if stylesCommand.Parsed() {

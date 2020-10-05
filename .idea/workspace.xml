@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6ec35ad-e1f2-4d21-9a65-915959801c0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/actions/csvbeer/entrypoint.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.github/actions/csvbeer/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.github/actions/csvbeer/action.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/action.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/actions/csvbeer/src/cmd/csvbeer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/src/cmd/csvbeer/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -276,41 +276,6 @@
           <url>file://$PROJECT_DIR$/hops/merge/main.go</url>
           <line>126</line>
           <option name="timeStamp" value="68" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/.github/actions/csvbeer/src/cmd/csvbeer/main.go</url>
-          <line>28</line>
-          <option name="timeStamp" value="70" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/.github/actions/csvbeer/src/cmd/csvbeer/main.go</url>
-          <line>33</line>
-          <option name="timeStamp" value="71" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/.github/actions/csvbeer/src/cmd/csvbeer/main.go</url>
-          <line>41</line>
-          <option name="timeStamp" value="72" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/.github/actions/csvbeer/src/cmd/csvbeer/main.go</url>
-          <line>34</line>
-          <option name="timeStamp" value="73" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/.github/actions/csvbeer/src/cmd/csvbeer/main.go</url>
-          <line>36</line>
-          <option name="timeStamp" value="74" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/.github/actions/csvbeer/src/cmd/csvbeer/main.go</url>
-          <line>38</line>
-          <option name="timeStamp" value="75" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/.github/actions/csvbeer/src/cmd/csvbeer/main.go</url>
-          <line>40</line>
-          <option name="timeStamp" value="76" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
