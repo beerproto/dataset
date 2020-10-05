@@ -20,20 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6ec35ad-e1f2-4d21-9a65-915959801c0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/actions/csvbeer/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cmd/csvbeer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/src/cmd/csvbeer/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/commands/equipments.go" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/src/commands/equipments.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/commands/hops.go" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/src/commands/hops.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/commands/styles.go" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/src/commands/styles.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/csv/equipment.go" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/src/csv/equipment.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/csv/hop.go" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/src/csv/hop.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/csv/style.go" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/src/csv/style.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/src/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/src/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/src/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hops.json" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/src/hops.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

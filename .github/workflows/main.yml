@@ -12,3 +12,5 @@ jobs:
       - uses: actions/checkout@v2
       - name: csvbeer
         uses: ./.github/actions/csvbeer
+        with:
+          inputFile: $GITHUB_WORKSPACE/ + 'hops/hops.csv'
