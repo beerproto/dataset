@@ -13,6 +13,7 @@ var (
 	stylesCommand = flag.NewFlagSet("styles", flag.ExitOnError)
 	outputSPtr    = stylesCommand.StringP("output", "o", "tty", "Output processed from CSV to (file, tty)")
 	outputFileSPtr    = stylesCommand.String("file", "f", "File output name")
+	indexSFilePtr     = stylesCommand.String("index", "i", "")
 
 	equipmentsCommand = flag.NewFlagSet("equipments", flag.ExitOnError)
 	indexEFilePtr     = equipmentsCommand.StringP("index", "i", "equipments.csv", "Name of the index file to identify 'Equipment ID's")
@@ -22,6 +23,7 @@ var (
 	hopsCommand    = flag.NewFlagSet("hops", flag.ExitOnError)
 	outputHPtr     = hopsCommand.StringP("output", "o", "tty", "Output processed from CSV to (file, tty)")
 	outputFileHPtr = hopsCommand.String("file", "f", "File output name")
+	indexHFilePtr     = hopsCommand.String("index", "i", "")
 )
 
 func main() {
@@ -31,6 +33,9 @@ func main() {
 		flag.PrintDefaults()
 		os.Exit(0)
 	}
+
+	stylesCommand.MarkHidden("index")
+	hopsCommand.MarkHidden("index")
 
 	switch strings.ToLower(os.Args[1]) {
 	case "styles":
