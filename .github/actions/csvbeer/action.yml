@@ -26,8 +26,8 @@ runs:
   using: 'docker'
   image: 'Dockerfile'
   args:
-    - ${{ inputs.command }}
-    - ${{ inputs.inputFile }}
-    - '--output=${{ inputs.output }}'
-    - '--file=${{ inputs.outputFile }}'
-    - '--index=${{ inputs.index }}'
+    - '-c ${{ inputs.command }}'
+    - '-i ${{ inputs.inputFile }}'
+    - '-t ${{ inputs.output }}'
+    - '-o ${{ inputs.outputFile }}'
+    - '-z ${{ inputs.index }}'
