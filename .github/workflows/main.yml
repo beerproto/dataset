@@ -13,4 +13,4 @@ jobs:
       - name: csvbeer
         uses: ./.github/actions/csvbeer
         with:
-          inputFile: '${{ GITHUB_WORKSPACE }}/hops/hops.csv'
+          inputFile: '$GITHUB_WORKSPACE/hops/hops.csv'
