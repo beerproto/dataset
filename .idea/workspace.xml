@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6ec35ad-e1f2-4d21-9a65-915959801c0d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/actions/csvbeer/src/cmd/csvbeer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/.github/actions/csvbeer/src/cmd/csvbeer/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/equipment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/hops.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/styles.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,10 +230,10 @@
       <screen x="2048" y="0" width="1680" height="1050" />
     </state>
     <state x="2646" y="284" width="473" height="509" key="com.goide.refactor.move.GoMoveDeclarationDialog/2048.0.1680.1050/0.27.2048.1125@2048.0.1680.1050" timestamp="1600422189147" />
-    <state x="685" y="717" width="540" height="197" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1601902780943">
+    <state x="685" y="717" width="540" height="197" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1601913515260">
       <screen x="0" y="31" width="3840" height="1569" />
     </state>
-    <state x="685" y="717" width="540" height="197" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.31.3840.1569@0.31.3840.1569" timestamp="1601902780943" />
+    <state x="685" y="717" width="540" height="197" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.31.3840.1569@0.31.3840.1569" timestamp="1601913515260" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
