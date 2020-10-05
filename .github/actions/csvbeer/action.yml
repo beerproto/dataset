@@ -28,6 +28,6 @@ runs:
   args:
     - ${{ inputs.command }}
     - ${{ inputs.inputFile }}
-#    - '--output=' + ${{ inputs.output }}
-#    - '--file=' + ${{ inputs.outputFile }}
+    - '--output=' + ${{ inputs.output }}
+    - '--file=${{ inputs.outputFile }}'
 #    - '--index=' + ${{ inputs.index }}
