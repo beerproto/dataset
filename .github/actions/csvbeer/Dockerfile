@@ -10,4 +10,4 @@ COPY --from=builder /go/src/github.com/beerproto/dataset/src/cmd/csvbeer .
 #ENTRYPOINT ["./csvbeer"]
 
 COPY entrypoint.sh /entrypoint.sh
-ENTRYPOINT ["/entrypoint.sh"]
+ENTRYPOINT ["/csvbeer"]
