@@ -7,4 +7,5 @@ RUN CGO_ENABLED=0 GOOS=linux go build -a -o csvbeer .
 #RUN apk --no-cache add ca-certificates
 #WORKDIR /root/
 #COPY --from=builder /go/src/github.com/beerproto/dataset/src/cmd/csvbeer .
-ENTRYPOINT ["./csvbeer"]
+#ENTRYPOINT ["./csvbeer"]
+ENTRYPOINT ["/entrypoint.sh"]
