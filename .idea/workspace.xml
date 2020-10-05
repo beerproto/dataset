@@ -20,17 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6ec35ad-e1f2-4d21-9a65-915959801c0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hops/manual_data/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commands/hops.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/hops.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/styles.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hops/hops.csv" beforeDir="false" afterPath="$PROJECT_DIR$/hops/hops.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cmd/csvbeer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmd/csvbeer/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/commands/equipments.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/commands/equipments.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/commands/styles.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/commands/styles.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/csv/hop.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/csv/hop.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/src/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/csv/style.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/csv/style.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/ales.csv" beforeDir="false" afterPath="$PROJECT_DIR$/styles/ales.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

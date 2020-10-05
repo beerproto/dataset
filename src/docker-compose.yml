@@ -1,6 +1,6 @@
 version: "3.8"
 services:
-  csvbeer:
+  hops:
     build:
       context: .
       dockerfile: Dockerfile
@@ -15,4 +15,39 @@ services:
         "file",
         "--file",
         "/json/hops.json",
+      ]
+  equipments:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - "../equipment/equipmentItems.csv:/data/equipmentItems.csv"
+      - "../equipment/equipment.csv:/data/equipment.csv"
+      - "../json/:/json"
+    command:
+      [
+          "equipments",
+          "/data/equipmentItems.csv",
+          "--index",
+          "/data/equipment.csv",
+          "--output",
+          "file",
+          "--file",
+          "/json/equipment.json",
+      ]
+  styles:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - "../styles/styles.csv:/data/styles.csv"
+      - "../json/:/json"
+    command:
+      [
+          "styles",
+          "/data/styles.csv",
+          "--output",
+          "file",
+          "--file",
+          "/json/styles.json",
       ]

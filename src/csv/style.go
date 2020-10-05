@@ -2,7 +2,7 @@ package csv
 
 import (
 	"fmt"
-	"strconv"
+	"strings"
 
 	beerproto "github.com/beerproto/beerproto_go"
 )
@@ -13,8 +13,9 @@ type Index struct {
 }
 
 type Style struct {
-	ID                          int      `csv:"ID"`
-	StyleID                     int      `csv:"Style ID"`
+	ID                          string   `csv:"ID"`
+	Type                        string   `csv:"Type"`
+	Style                       string   `csv:"Style"`
 	Name                        string   `csv:"Name"`
 	OGLow                       *float64 `csv:"OG Low,omitempty"`
 	OGHigh                      *float64 `csv:"OG High,omitempty"`
@@ -44,23 +45,22 @@ type Style struct {
 	AdditionalNotes             string   `csv:"Additional notes"`
 }
 
-func (s *Style) ToStyleType(category string) *beerproto.StyleType {
+func (s *Style) ToStyleType() *beerproto.StyleType {
 	return &beerproto.StyleType{
-		Id:             strconv.Itoa(s.ID),
-		Aroma:          fmt.Sprintf("%s \n%s", s.PerceivedHopAromaFlavor, s.PerceivedMaltAromaFlavor),
-		Flavor:         fmt.Sprintf("%s \n%s", s.PerceivedHopAromaFlavor, s.PerceivedMaltAromaFlavor),
-		CategoryNumber: int32(s.StyleID),
-		Notes:          s.FermentationCharacteristics + s.AdditionalNotes,
-		Mouthfeel:      s.Body,
-		FinalGravity: s.toFG(),
-		Color: s.toColor(),
-		OriginalGravity: s.toOG(),
-		Name: s.Name,
-		AlcoholByVolume: s.toAlcoholByVolume(),
+		Id:                           s.ID,
+		Aroma:                        fmt.Sprintf("%s \n%s", s.PerceivedHopAromaFlavor, s.PerceivedMaltAromaFlavor),
+		Flavor:                       fmt.Sprintf("%s \n%s", s.PerceivedHopAromaFlavor, s.PerceivedMaltAromaFlavor),
+		Notes:                        s.FermentationCharacteristics + s.AdditionalNotes,
+		Mouthfeel:                    s.Body,
+		FinalGravity:                 s.toFG(),
+		Color:                        s.toColor(),
+		OriginalGravity:              s.toOG(),
+		Name:                         s.Name,
+		AlcoholByVolume:              s.toAlcoholByVolume(),
 		InternationalBitternessUnits: s.toInternationalBitternessUnits(),
-		Appearance: s.Clarity,
-		Category:   category,
-		Type:       toStyleCategories(s.StyleID),
+		Appearance:                   s.Clarity,
+		Category:                     s.Style,
+		Type:                         toStyleCategories(s.Type),
 	}
 }
 
@@ -75,12 +75,11 @@ func (s *Style) toInternationalBitternessUnits() *beerproto.BitternessRangeType 
 		}
 	}
 
-	return  &beerproto.BitternessRangeType{
+	return &beerproto.BitternessRangeType{
 		Minimum: toInternationalBitternessUnits(s.BitternessLow),
 		Maximum: toInternationalBitternessUnits(s.BitternessHigh),
 	}
 }
-
 
 func (s *Style) toAlcoholByVolume() *beerproto.PercentRangeType {
 	toAlcoholByVolume := func(value *float64) *beerproto.PercentType {
@@ -93,12 +92,11 @@ func (s *Style) toAlcoholByVolume() *beerproto.PercentRangeType {
 		}
 	}
 
-	return  &beerproto.PercentRangeType{
+	return &beerproto.PercentRangeType{
 		Minimum: toAlcoholByVolume(s.AlcoholbyWeightLow),
 		Maximum: toAlcoholByVolume(s.AlcoholbyWeightHigh),
 	}
 }
-
 
 func (s *Style) toOG() *beerproto.GravityRangeType {
 	toOG := func(value *float64) *beerproto.GravityType {
@@ -111,7 +109,7 @@ func (s *Style) toOG() *beerproto.GravityRangeType {
 		}
 	}
 
-	return  &beerproto.GravityRangeType{
+	return &beerproto.GravityRangeType{
 		Minimum: toOG(s.OGLow),
 		Maximum: toOG(s.OGHigh),
 	}
@@ -128,7 +126,7 @@ func (s *Style) toFG() *beerproto.GravityRangeType {
 		}
 	}
 
-	return  &beerproto.GravityRangeType{
+	return &beerproto.GravityRangeType{
 		Minimum: toFG(s.FGLow),
 		Maximum: toFG(s.FGHigh),
 	}
@@ -152,9 +150,10 @@ func (s *Style) toColor() *beerproto.ColorRangeType {
 	}
 }
 
-func toStyleCategories(index int) beerproto.StyleType_StyleCategories {
-	switch index {
-	case 1, 2, 3, 4, 5, 6, 7, 8, 9, 10:
+func toStyleCategories(t string) beerproto.StyleType_StyleCategories {
+	t = strings.TrimSpace(strings.ToLower(t))
+	switch t {
+	case "ale", "lager", "hybrid":
 		return beerproto.StyleType_BEER
 	}
 

@@ -23,23 +23,8 @@ const (
 	FILE = Output("file")
 )
 
-func ParseStyle(stylePath, indexPath string, output Output, file string) {
-
-	fmt.Println(fmt.Sprintf("Step 1/2 : Loading %s", indexPath))
-
-	indexFile, err := loadFile(indexPath)
-	if err != nil {
-		panic(err)
-	}
-	defer indexFile.Close()
-
-	var indexes []*csv.Index
-
-	if err := gocsv.UnmarshalFile(indexFile, &indexes); err != nil {
-		panic(fmt.Errorf("%v does not match Index %v format: %w", indexPath, CsvExt, err))
-	}
-
-	fmt.Println(fmt.Sprintf("Step 2/2 : Loading %s", stylePath))
+func ParseStyle(stylePath string, output Output, file string) {
+	fmt.Println(fmt.Sprintf("Step 1/1 : Loading %s", stylePath))
 
 	stylesFile, err := loadFile(stylePath)
 	if err != nil {
@@ -55,12 +40,9 @@ func ParseStyle(stylePath, indexPath string, output Output, file string) {
 
 	fmt.Println("Successfully parased")
 
-	indexMap := indexToMap(indexes)
-
 	var arr []*beerproto.StyleType
 	for _, style := range styles {
-		category := indexMap[style.StyleID]
-		arr = append(arr, style.ToStyleType(category))
+		arr = append(arr, style.ToStyleType())
 	}
 
 	recipe := &beerproto.Recipe{
