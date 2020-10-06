@@ -1,1 +1,0 @@
-BeerProto canonical encoding in JSON with a partition key
