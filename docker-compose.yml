@@ -1,77 +1,27 @@
 version: "3.8"
 services:
-#  hops:
-#    build:
-#      context: ".github/actions/csvbeer"
-#    volumes:
-#      - "./hops/hops.csv:/data/hops.csv"
-#      - "./json/:/json"
-#    command:
-#      [
-#        "hops",
-#        "/data/hops.csv",
-#        "--output",
-#        "file",
-#        "--file",
-#        "/json/hops.json",
-#      ]
-#  equipments:
-#    build:
-#      context: ".github/actions/csvbeer"
-#    volumes:
-#      - "./equipment/equipmentItems.csv:/data/equipmentItems.csv"
-#      - "./equipment/equipment.csv:/data/equipment.csv"
-#      - "./json/:/json"
-#    command:
-#      [
-#          "equipments",
-#          "/data/equipmentItems.csv",
-#          "--index",
-#          "/data/equipment.csv",
-#          "--output",
-#          "file",
-#          "--file",
-#          "/json/equipment.json",
-#      ]
-#  styles:
-#    build:
-#      context: ".github/actions/csvbeer"
-#    volumes:
-#      - "./styles/styles.csv:/data/styles.csv"
-#      - "./json/:/json"
-#    command:
-#      [
-#          "styles",
-#          "/data/styles.csv",
-#          "--output",
-#          "file",
-#          "--file",
-#          "/json/styles.json",
-#      ]
-  hops_partition:
+  hops:
     build:
       context: ".github/actions/csvbeer"
     volumes:
       - "./hops/hops.csv:/data/hops.csv"
-      - "./partitioned/:/json"
+      - "./json/:/json"
     command:
       [
-          "hops",
-          "/data/hops.csv",
-          "--output",
-          "file",
-          "--file",
-          "/json/hops.json",
-          "--partition",
-          "hops",
+        "hops",
+        "/data/hops.csv",
+        "--output",
+        "file",
+        "--file",
+        "/json/hops.json",
       ]
-  equipments_partition:
+  equipments:
     build:
       context: ".github/actions/csvbeer"
     volumes:
       - "./equipment/equipmentItems.csv:/data/equipmentItems.csv"
       - "./equipment/equipment.csv:/data/equipment.csv"
-      - "./partitioned/:/json"
+      - "./json/:/json"
     command:
       [
           "equipments",
@@ -82,15 +32,13 @@ services:
           "file",
           "--file",
           "/json/equipment.json",
-          "--partition",
-          "equipments",
       ]
-  styles_partition:
+  styles:
     build:
       context: ".github/actions/csvbeer"
     volumes:
       - "./styles/styles.csv:/data/styles.csv"
-      - "./partitioned/:/json"
+      - "./json/:/json"
     command:
       [
           "styles",
@@ -99,6 +47,4 @@ services:
           "file",
           "--file",
           "/json/styles.json",
-          "--partition",
-          "styles",
       ]

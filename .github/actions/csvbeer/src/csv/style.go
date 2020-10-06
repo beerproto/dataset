@@ -45,9 +45,9 @@ type Style struct {
 	AdditionalNotes             string   `csv:"Additional notes"`
 }
 
-func (s *Style) ToStyleType(partition string) *beerproto.StyleType {
+func (s *Style) ToStyleType() *beerproto.StyleType {
 	return &beerproto.StyleType{
-		Id:                           partition + s.ID,
+		Id:                           s.ID,
 		Aroma:                        fmt.Sprintf("%s \n%s", s.PerceivedHopAromaFlavor, s.PerceivedMaltAromaFlavor),
 		Flavor:                       fmt.Sprintf("%s \n%s", s.PerceivedHopAromaFlavor, s.PerceivedMaltAromaFlavor),
 		Notes:                        s.FermentationCharacteristics + s.AdditionalNotes,

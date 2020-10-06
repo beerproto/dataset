@@ -24,10 +24,10 @@ type EquipmentItems struct {
 	Form                int      `csv:"Form (EquipmentItemType.EquipmentBaseForm)"`
 }
 
-func (s *Equipment) ToEquipmentType(items []*beerproto.EquipmentItemType, partition string) *beerproto.EquipmentType {
+func (s *Equipment) ToEquipmentType(items []*beerproto.EquipmentItemType) *beerproto.EquipmentType {
 
 	return &beerproto.EquipmentType{
-		Id:             partition + s.ID,
+		Id:             s.ID,
 		Name:           s.Name,
 		EquipmentItems: items,
 	}

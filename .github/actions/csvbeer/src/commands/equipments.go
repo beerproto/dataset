@@ -12,7 +12,7 @@ import (
 	"github.com/golang/protobuf/jsonpb"
 )
 
-func ParseEquipments(equipmentItemsPath, indexPath string, output Output, file, partition string) {
+func ParseEquipments(equipmentItemsPath, indexPath string, output Output, file string) {
 	fmt.Println(fmt.Sprintf("Step 1/2 : Loading %s", indexPath))
 
 	indexFile, err := loadFile(indexPath)
@@ -50,15 +50,10 @@ func ParseEquipments(equipmentItemsPath, indexPath string, output Output, file, 
 		items[item.EquipmentID] = arr
 	}
 
-
-	if partition != "" {
-		partition = partition + ":"
-	}
-
 	var arr []*beerproto.EquipmentType
 	for _, e := range equipments {
 		if equipmentItems, ok := items[e.ID]; ok {
-			arr = append(arr, e.ToEquipmentType(equipmentItems, partition))
+			arr = append(arr, e.ToEquipmentType(equipmentItems))
 		}
 	}
 

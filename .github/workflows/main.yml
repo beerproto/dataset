@@ -31,32 +31,6 @@ jobs:
           command: 'styles'
           inputFile: '/github/workspace/styles/styles.csv'
           outputFile: '/github/workspace/json/styles.json'
-
-      - name: hopsPartition
-        uses: ./.github/actions/csvbeer
-        with:
-          command: 'hops'
-          inputFile: '/github/workspace/hops/hops.csv'
-          outputFile: '/github/workspace/partitioned/hops.json'
-          partition: 'hops'
-
-      - name: equipmentsPartition
-        uses: ./.github/actions/csvbeer
-        with:
-          command: 'equipments'
-          inputFile: '/github/workspace/equipment/equipmentItems.csv'
-          index: '/github/workspace/equipment/equipment.csv'
-          outputFile: '/github/workspace/partitioned/equipment.json'
-          partition: 'equipments'
-
-      - name: stylesPartition
-        uses: ./.github/actions/csvbeer
-        with:
-          command: 'styles'
-          inputFile: '/github/workspace/styles/styles.csv'
-          outputFile: '/github/workspace/partitioned/styles.json'
-          partition: 'styles'
-
       - name: Git Commit on Workflow
         uses: matheusalbino/git-commit@v1.0.1
         with:
