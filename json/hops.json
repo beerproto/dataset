@@ -1,7 +1,7 @@
 {
 	"hopVarieties": [
 		{
-			"id": "hops:52edee8f-4b02-464f-9d29-438506597d50",
+			"id": "52edee8f-4b02-464f-9d29-438506597d50",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -45,7 +45,7 @@
 			"substitutes": "Southern Star"
 		},
 		{
-			"id": "hops:ee6e54f9-c22d-46f3-ba10-141ac83f5dee",
+			"id": "ee6e54f9-c22d-46f3-ba10-141ac83f5dee",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -86,7 +86,7 @@
 			"origin": "UK"
 		},
 		{
-			"id": "hops:9bf8fcad-8927-4922-aa4c-141770152692",
+			"id": "9bf8fcad-8927-4922-aa4c-141770152692",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -131,7 +131,7 @@
 			"notes": "Pleasant European characteristics"
 		},
 		{
-			"id": "hops:d63e7177-b708-42bc-8fb9-3ebd760d89a2",
+			"id": "d63e7177-b708-42bc-8fb9-3ebd760d89a2",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -176,7 +176,7 @@
 			"notes": "Citrusy, spicy, orange and floral aromas"
 		},
 		{
-			"id": "hops:4daf0238-4cfa-4dea-8d39-ac823981d19d",
+			"id": "4daf0238-4cfa-4dea-8d39-ac823981d19d",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -220,7 +220,7 @@
 			"notes": "Pronounced herbaceous aroma and flavor"
 		},
 		{
-			"id": "hops:704699d9-1a93-4a0c-9690-9c348a276c54",
+			"id": "704699d9-1a93-4a0c-9690-9c348a276c54",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -259,7 +259,7 @@
 			"notes": "Mild bitterness, pleasant noble aroma"
 		},
 		{
-			"id": "hops:ba86644b-0ca6-4c09-a45d-92e1fb6a740d",
+			"id": "ba86644b-0ca6-4c09-a45d-92e1fb6a740d",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -304,7 +304,7 @@
 			"notes": "Chrysanthemum, Bitter grapefruit, Caramel, Gooseberry, Vanilla"
 		},
 		{
-			"id": "hops:7b3d32af-cfdf-42d3-a4a3-147137dcf98b",
+			"id": "7b3d32af-cfdf-42d3-a4a3-147137dcf98b",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -342,7 +342,7 @@
 			"notes": "Significant lemon-citrus character"
 		},
 		{
-			"id": "hops:e658f643-ec75-43d0-b0d9-d672dedcd505",
+			"id": "e658f643-ec75-43d0-b0d9-d672dedcd505",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -385,7 +385,7 @@
 			"notes": "Notably earthy, citrusy and spicy"
 		},
 		{
-			"id": "hops:61ed16ec-86d1-41a7-b46e-6ae4294f9e2b",
+			"id": "61ed16ec-86d1-41a7-b46e-6ae4294f9e2b",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -429,7 +429,7 @@
 			"substitutes": "Cluster, Galena"
 		},
 		{
-			"id": "hops:0226aef8-0502-4ab3-95b0-6e3bfbac60aa",
+			"id": "0226aef8-0502-4ab3-95b0-6e3bfbac60aa",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -474,7 +474,7 @@
 			"notes": "Noble hop characteristics"
 		},
 		{
-			"id": "hops:24deb247-7885-4eb7-91c5-5bb4c3e097fa",
+			"id": "24deb247-7885-4eb7-91c5-5bb4c3e097fa",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -516,7 +516,7 @@
 			"origin": "UK"
 		},
 		{
-			"id": "hops:57fccd1c-aa19-4132-8827-97a389d8bd67",
+			"id": "57fccd1c-aa19-4132-8827-97a389d8bd67",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -560,7 +560,7 @@
 			"notes": "Continental aroma and taste with hints of black tea, herbs and tobacco"
 		},
 		{
-			"id": "hops:532675b2-e884-448a-a68e-07e64e484d84",
+			"id": "532675b2-e884-448a-a68e-07e64e484d84",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -604,7 +604,7 @@
 			"notes": "Subdued but pleasant continental-style aroma"
 		},
 		{
-			"id": "hops:ed221263-3144-4409-a569-1e1a10a45a2c",
+			"id": "ed221263-3144-4409-a569-1e1a10a45a2c",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -648,7 +648,7 @@
 			"notes": "Strawberry, Elderflower, Chocolate, Toffee, Pear"
 		},
 		{
-			"id": "hops:ce3c74df-3d7d-48b2-96ad-f0fb8a324940",
+			"id": "ce3c74df-3d7d-48b2-96ad-f0fb8a324940",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -694,7 +694,7 @@
 			"notes": "Spicy, Chocolate, Curry, Gingerbread, Marjoram"
 		},
 		{
-			"id": "hops:11bf4955-d508-4344-bddc-6f0592bf7d20",
+			"id": "11bf4955-d508-4344-bddc-6f0592bf7d20",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -737,7 +737,7 @@
 			"origin": "France"
 		},
 		{
-			"id": "hops:85c8ead3-8990-49f7-b9a8-6bc4001be057",
+			"id": "85c8ead3-8990-49f7-b9a8-6bc4001be057",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -782,7 +782,7 @@
 			"notes": "Resinous and earthy with hints of white pepper"
 		},
 		{
-			"id": "hops:130c023c-130d-45ee-8999-327675528d63",
+			"id": "130c023c-130d-45ee-8999-327675528d63",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -828,7 +828,7 @@
 			"notes": "Vegetable, Fennel, Tarragon, Aniseed, Melissa"
 		},
 		{
-			"id": "hops:4581c3fc-2747-4ccf-ae6c-2c9fbeda2cd6",
+			"id": "4581c3fc-2747-4ccf-ae6c-2c9fbeda2cd6",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -873,7 +873,7 @@
 			"notes": "Pleasant continental-style aroma"
 		},
 		{
-			"id": "hops:5f7979b2-e550-4e41-8c5e-68b2a5cd33aa",
+			"id": "5f7979b2-e550-4e41-8c5e-68b2a5cd33aa",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -914,7 +914,7 @@
 			"notes": "Notes of tangerine, grapefruit, pine and pineapple"
 		},
 		{
-			"id": "hops:56e106d4-7619-4574-af01-96cb92c8bcaf",
+			"id": "56e106d4-7619-4574-af01-96cb92c8bcaf",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -954,7 +954,7 @@
 			"notes": "Generic hop bitterness and flavor"
 		},
 		{
-			"id": "hops:d85841d6-9245-48bb-8997-ba537aebc390",
+			"id": "d85841d6-9245-48bb-8997-ba537aebc390",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -989,7 +989,7 @@
 			"origin": "Belgium"
 		},
 		{
-			"id": "hops:f5fa0ad8-1abb-416d-94ee-35df42a10bc3",
+			"id": "f5fa0ad8-1abb-416d-94ee-35df42a10bc3",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -1036,7 +1036,7 @@
 			"notes": "Leek, Celeriac, Chilli, Marjoram"
 		},
 		{
-			"id": "hops:ee89cf17-742e-4c8a-8b84-c17ec12828c7",
+			"id": "ee89cf17-742e-4c8a-8b84-c17ec12828c7",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -1080,7 +1080,7 @@
 			"notes": "Floral, lime aromas"
 		},
 		{
-			"id": "hops:bd03cde3-f878-4f75-a829-e8523d14994a",
+			"id": "bd03cde3-f878-4f75-a829-e8523d14994a",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -1119,7 +1119,7 @@
 			"origin": "Serbia"
 		},
 		{
-			"id": "hops:a4667a32-3116-4166-a40e-e16e2b47ad6c",
+			"id": "a4667a32-3116-4166-a40e-e16e2b47ad6c",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -1164,7 +1164,7 @@
 			"notes": "Notes of spice and citrus"
 		},
 		{
-			"id": "hops:8ad8fd16-23ba-4a40-96a6-e1669ebd6b4c",
+			"id": "8ad8fd16-23ba-4a40-96a6-e1669ebd6b4c",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -1199,7 +1199,7 @@
 			"origin": "UK"
 		},
 		{
-			"id": "hops:716db1ba-65c9-4062-8c33-5b4b41f16474",
+			"id": "716db1ba-65c9-4062-8c33-5b4b41f16474",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -1243,7 +1243,7 @@
 			"notes": "Subtle floral and citrus flavors"
 		},
 		{
-			"id": "hops:d05944c1-b355-45aa-a86a-426c18e83f32",
+			"id": "d05944c1-b355-45aa-a86a-426c18e83f32",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -1287,7 +1287,7 @@
 			"substitutes": "Defender"
 		},
 		{
-			"id": "hops:acd326e5-e65a-4237-927e-06b997a8a3a4",
+			"id": "acd326e5-e65a-4237-927e-06b997a8a3a4",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -1332,7 +1332,7 @@
 			"notes": "Soft, herbal, floral, fruity aromas with hints of pepper and spice"
 		},
 		{
-			"id": "hops:c2147d61-d4d9-4872-9255-ef1c719af64a",
+			"id": "c2147d61-d4d9-4872-9255-ef1c719af64a",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -1375,7 +1375,7 @@
 			"origin": "US"
 		},
 		{
-			"id": "hops:790491bd-5e43-49ee-b44c-c7ec6ca8254c",
+			"id": "790491bd-5e43-49ee-b44c-c7ec6ca8254c",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -1419,7 +1419,7 @@
 			"substitutes": "Liberty, Mount Hood, Hallertauer Mittelfrüh, Saaz"
 		},
 		{
-			"id": "hops:84706bcf-5989-463b-9736-339be29ae43a",
+			"id": "84706bcf-5989-463b-9736-339be29ae43a",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -1464,7 +1464,7 @@
 			"notes": "Noble aroma characteristics"
 		},
 		{
-			"id": "hops:becc36b2-cea5-4a28-99aa-b5b34b69f200",
+			"id": "becc36b2-cea5-4a28-99aa-b5b34b69f200",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -1505,7 +1505,7 @@
 			"notes": "Clean spicy bitterness, aromas of passionfruit, grapefruit and citrus."
 		},
 		{
-			"id": "hops:ec3f339a-2717-4d51-92a6-079ab5f19f1f",
+			"id": "ec3f339a-2717-4d51-92a6-079ab5f19f1f",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -1550,7 +1550,7 @@
 			"notes": "Fresh, flowery, piney, berry and spice"
 		},
 		{
-			"id": "hops:6d7b507f-1c9a-434f-b9ce-85d78d9e2187",
+			"id": "6d7b507f-1c9a-434f-b9ce-85d78d9e2187",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -1593,7 +1593,7 @@
 			"origin": "Slovenia"
 		},
 		{
-			"id": "hops:dd28f84b-37cd-4521-9d7f-14d2980947c2",
+			"id": "dd28f84b-37cd-4521-9d7f-14d2980947c2",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -1636,7 +1636,7 @@
 			"notes": "Robust woody and fruity aroma"
 		},
 		{
-			"id": "hops:dae81657-29d1-43c7-aa1a-419086b1cab0",
+			"id": "dae81657-29d1-43c7-aa1a-419086b1cab0",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -1681,7 +1681,7 @@
 			"notes": "Aromas of spice, pine, chocolate and molasses"
 		},
 		{
-			"id": "hops:111fdcec-a60b-4cff-bd12-e34dc60eb57a",
+			"id": "111fdcec-a60b-4cff-bd12-e34dc60eb57a",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -1726,7 +1726,7 @@
 			"notes": "Strongly resinous, herbal character"
 		},
 		{
-			"id": "hops:f061ea7b-1982-49c4-a65e-dd42a1aeb9e5",
+			"id": "f061ea7b-1982-49c4-a65e-dd42a1aeb9e5",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -1771,7 +1771,7 @@
 			"notes": "Flavors of nectar fruits and citrus, aromas that are floral, herbaceous and grassy"
 		},
 		{
-			"id": "hops:09c43fa1-2a2c-4693-86c5-f07c48852c6b",
+			"id": "09c43fa1-2a2c-4693-86c5-f07c48852c6b",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -1815,7 +1815,7 @@
 			"substitutes": "Kirin II, Saaz, Toyomidori, Eastern Gold"
 		},
 		{
-			"id": "hops:5a4e76bb-87f0-47cf-8b12-cc654f687a38",
+			"id": "5a4e76bb-87f0-47cf-8b12-cc654f687a38",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -1859,7 +1859,7 @@
 			"notes": "Quince, Gingerbread, Green pepper, Cherry"
 		},
 		{
-			"id": "hops:fadceaec-76d0-4e67-b445-6700c2f834b5",
+			"id": "fadceaec-76d0-4e67-b445-6700c2f834b5",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -1903,7 +1903,7 @@
 			"notes": "European noble aroma"
 		},
 		{
-			"id": "hops:aaadc3e7-5d5e-49b6-88ad-5d16d5c44511",
+			"id": "aaadc3e7-5d5e-49b6-88ad-5d16d5c44511",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -1948,7 +1948,7 @@
 			"notes": "Noble, herbal character"
 		},
 		{
-			"id": "hops:68874abd-4e28-43fa-8491-78eba85fd170",
+			"id": "68874abd-4e28-43fa-8491-78eba85fd170",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -1990,7 +1990,7 @@
 			"origin": "Japan"
 		},
 		{
-			"id": "hops:01546448-9d52-4ed0-8497-3e2791609356",
+			"id": "01546448-9d52-4ed0-8497-3e2791609356",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -2035,7 +2035,7 @@
 			"notes": "Pleasant, European-style aroma"
 		},
 		{
-			"id": "hops:72e08ee1-7002-4de6-9997-22438c9b3838",
+			"id": "72e08ee1-7002-4de6-9997-22438c9b3838",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -2079,7 +2079,7 @@
 			"notes": "Pleasant continental-style aroma"
 		},
 		{
-			"id": "hops:f1fd9f23-97c7-4408-8f57-31ea3c1737f5",
+			"id": "f1fd9f23-97c7-4408-8f57-31ea3c1737f5",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -2124,7 +2124,7 @@
 			"notes": "Bergamot, Lemon grass, Aniseed, Citrus, Flora"
 		},
 		{
-			"id": "hops:ecc9c2ed-79c1-411a-a348-a34d25bfe5b1",
+			"id": "ecc9c2ed-79c1-411a-a348-a34d25bfe5b1",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -2169,7 +2169,7 @@
 			"notes": "Floral, citrusy"
 		},
 		{
-			"id": "hops:f90c3b43-71e5-44d4-a054-5dacc3956452",
+			"id": "f90c3b43-71e5-44d4-a054-5dacc3956452",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -2214,7 +2214,7 @@
 			"notes": "Peppermint, Herbs, Lime, Marjoram"
 		},
 		{
-			"id": "hops:2a1ecac1-4ecc-47d3-9f0f-d0ad1b0015ef",
+			"id": "2a1ecac1-4ecc-47d3-9f0f-d0ad1b0015ef",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -2258,7 +2258,7 @@
 			"substitutes": "Spalter Select, Santiam, Czech Saaz, Spalt"
 		},
 		{
-			"id": "hops:373e8ce3-6510-4215-a9b7-9c3eadaeaba8",
+			"id": "373e8ce3-6510-4215-a9b7-9c3eadaeaba8",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -2303,7 +2303,7 @@
 			"notes": "Midly spicy aroma and flavor"
 		},
 		{
-			"id": "hops:d0e08b08-161c-4a87-affb-6fa317709218",
+			"id": "d0e08b08-161c-4a87-affb-6fa317709218",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -2348,7 +2348,7 @@
 			"notes": "Smooth bittering, rich, fruity, gooseberry and white-wine flavors"
 		},
 		{
-			"id": "hops:6828aa98-3b5b-48b4-a3d8-78a4fca7e751",
+			"id": "6828aa98-3b5b-48b4-a3d8-78a4fca7e751",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -2393,7 +2393,7 @@
 			"notes": "Apple blossom, Jasmine, Geranium, Tea, Elderflower"
 		},
 		{
-			"id": "hops:a29bc605-697b-4f86-a66a-afa16632b1d4",
+			"id": "a29bc605-697b-4f86-a66a-afa16632b1d4",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -2438,7 +2438,7 @@
 			"notes": "Mint, Lemon grass, Rose, Raspberry, Caramel"
 		},
 		{
-			"id": "hops:45823549-c1fd-4c07-9e2f-12ba0086dfa5",
+			"id": "45823549-c1fd-4c07-9e2f-12ba0086dfa5",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -2480,7 +2480,7 @@
 			"origin": "Japan"
 		},
 		{
-			"id": "hops:66c709c9-fbce-4cd0-ba7c-bde353a0f6b0",
+			"id": "66c709c9-fbce-4cd0-ba7c-bde353a0f6b0",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -2524,7 +2524,7 @@
 			"substitutes": "Strisselspalt, Mount Hood"
 		},
 		{
-			"id": "hops:ed972b2f-fe30-412b-9db0-3e86b0c0de6a",
+			"id": "ed972b2f-fe30-412b-9db0-3e86b0c0de6a",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -2561,7 +2561,7 @@
 			"notes": "Floral and citrus notes"
 		},
 		{
-			"id": "hops:b4d7bca1-6884-4767-acf1-1333ebfaca92",
+			"id": "b4d7bca1-6884-4767-acf1-1333ebfaca92",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -2605,7 +2605,7 @@
 			"notes": "Crisp, fruity aroma. Flavour of Apples, pears, stone fruit and lime citrus."
 		},
 		{
-			"id": "hops:704a0491-47d3-4e10-9ec6-18c770c49a9a",
+			"id": "704a0491-47d3-4e10-9ec6-18c770c49a9a",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -2650,7 +2650,7 @@
 			"notes": "Aromas of raisin and fruit"
 		},
 		{
-			"id": "hops:cb0117e5-72fa-4db4-bed2-2132be4e0eef",
+			"id": "cb0117e5-72fa-4db4-bed2-2132be4e0eef",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -2694,7 +2694,7 @@
 			"notes": "Noble-style aroma, mildly floral and spicy"
 		},
 		{
-			"id": "hops:f31504b2-09f5-47b4-89ef-bf7b07b583e7",
+			"id": "f31504b2-09f5-47b4-89ef-bf7b07b583e7",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -2739,7 +2739,7 @@
 			"notes": "Tea, Chocolate, Marjoram, Lemon grass"
 		},
 		{
-			"id": "hops:f25af93d-9875-4094-8381-75d49b985310",
+			"id": "f25af93d-9875-4094-8381-75d49b985310",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -2779,7 +2779,7 @@
 			"substitutes": "East Kent Golding, Early Bird"
 		},
 		{
-			"id": "hops:e04f21b9-8ccb-4ff5-9047-ced570b7e754",
+			"id": "e04f21b9-8ccb-4ff5-9047-ced570b7e754",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -2824,7 +2824,7 @@
 			"notes": "Faint spicy aroma"
 		},
 		{
-			"id": "hops:d4e009e9-8a7f-4bfd-83f2-37f4eac0c3a9",
+			"id": "d4e009e9-8a7f-4bfd-83f2-37f4eac0c3a9",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -2868,7 +2868,7 @@
 			"notes": "Citrus and pine"
 		},
 		{
-			"id": "hops:032c5355-dbed-42b6-8f84-346f6129aedc",
+			"id": "032c5355-dbed-42b6-8f84-346f6129aedc",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -2913,7 +2913,7 @@
 			"notes": "Lime citrus and stone fruit notes"
 		},
 		{
-			"id": "hops:8a62ca0a-d827-4292-8c8d-d3b9bca0af5e",
+			"id": "8a62ca0a-d827-4292-8c8d-d3b9bca0af5e",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -2958,7 +2958,7 @@
 			"notes": "Citrus, Elderberry, Incense, Caramel, Curry"
 		},
 		{
-			"id": "hops:09163f64-1222-45f8-8606-11e99884ff7b",
+			"id": "09163f64-1222-45f8-8606-11e99884ff7b",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -3002,7 +3002,7 @@
 			"substitutes": "Perle"
 		},
 		{
-			"id": "hops:ef989dcd-5816-4c61-a1de-56313e3d4481",
+			"id": "ef989dcd-5816-4c61-a1de-56313e3d4481",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -3046,7 +3046,7 @@
 			"notes": "Intense tropical fuit and pine needle aroma"
 		},
 		{
-			"id": "hops:fa407668-c53c-473b-ae7f-ee04aeda9f37",
+			"id": "fa407668-c53c-473b-ae7f-ee04aeda9f37",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -3084,7 +3084,7 @@
 			"notes": "Deep floral aroma, grass, earth, flavors of oak and honey"
 		},
 		{
-			"id": "hops:f84ced34-34a1-4cc4-b86e-1a9b5d79710e",
+			"id": "f84ced34-34a1-4cc4-b86e-1a9b5d79710e",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -3129,7 +3129,7 @@
 			"notes": "Artichoken, Pepper, Tobacco, Honeydew melon, Nettle"
 		},
 		{
-			"id": "hops:93ae9f9c-d70a-4c30-ba1d-dae53d103012",
+			"id": "93ae9f9c-d70a-4c30-ba1d-dae53d103012",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -3169,7 +3169,7 @@
 			"notes": "Similar to Cascade (US) but more subdued"
 		},
 		{
-			"id": "hops:bae86f4c-08d1-40b8-913e-1266dd9a0a36",
+			"id": "bae86f4c-08d1-40b8-913e-1266dd9a0a36",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -3216,7 +3216,7 @@
 			"notes": "Chocolate, Pepper, Ripe banana"
 		},
 		{
-			"id": "hops:866e0bb8-d644-4a93-95e3-28bdf8c6e068",
+			"id": "866e0bb8-d644-4a93-95e3-28bdf8c6e068",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -3261,7 +3261,7 @@
 			"notes": "Pineapple, Lemon, Strawberry, Gooseberry, Cassis"
 		},
 		{
-			"id": "hops:00e3c8ea-3fa1-43a2-9beb-7c4da2aa4caa",
+			"id": "00e3c8ea-3fa1-43a2-9beb-7c4da2aa4caa",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -3306,7 +3306,7 @@
 			"notes": "Cassis, Creamy, Coriander"
 		},
 		{
-			"id": "hops:f17096fb-f6c9-4698-8ac2-3dcd8762dbb5",
+			"id": "f17096fb-f6c9-4698-8ac2-3dcd8762dbb5",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -3351,7 +3351,7 @@
 			"notes": "Lemon aromas"
 		},
 		{
-			"id": "hops:df17c96b-841c-486f-bc11-3fab6640402d",
+			"id": "df17c96b-841c-486f-bc11-3fab6640402d",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -3398,7 +3398,7 @@
 			"notes": "Citrus, Lemon grass, Cassis, Grapefruit, Eukalyptus"
 		},
 		{
-			"id": "hops:5ac32842-e661-4dcf-9e96-8eda8bd8582f",
+			"id": "5ac32842-e661-4dcf-9e96-8eda8bd8582f",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -3442,7 +3442,7 @@
 			"substitutes": "Fuggle, Willamette, Styrian Golding, Tettnanger"
 		},
 		{
-			"id": "hops:50627f2a-dcd4-48cd-827f-f9d5c4f84d66",
+			"id": "50627f2a-dcd4-48cd-827f-f9d5c4f84d66",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -3486,7 +3486,7 @@
 			"notes": "Pleasant European-style noble aroma"
 		},
 		{
-			"id": "hops:e7e851df-52e3-4adc-89f8-16f16807389c",
+			"id": "e7e851df-52e3-4adc-89f8-16f16807389c",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -3530,7 +3530,7 @@
 			"notes": "Floral, fruity and earthy flavor and aroma"
 		},
 		{
-			"id": "hops:bbe88b25-a24b-465a-9a35-f77979487bbe",
+			"id": "bbe88b25-a24b-465a-9a35-f77979487bbe",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -3575,7 +3575,7 @@
 			"notes": "Spicy, fruity aroma"
 		},
 		{
-			"id": "hops:8266245a-3044-47a9-a691-b825bf2c9a58",
+			"id": "8266245a-3044-47a9-a691-b825bf2c9a58",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -3620,7 +3620,7 @@
 			"notes": "Noble-like character"
 		},
 		{
-			"id": "hops:3bc3d825-2599-4d90-9bfb-85622767e8a8",
+			"id": "3bc3d825-2599-4d90-9bfb-85622767e8a8",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -3665,7 +3665,7 @@
 			"notes": "Flavors of the forest and fresh-cut timber, subtle and hoppy bohemian-style aroma"
 		},
 		{
-			"id": "hops:991b1c91-c64c-48a1-af71-6822720fe954",
+			"id": "991b1c91-c64c-48a1-af71-6822720fe954",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -3710,7 +3710,7 @@
 			"notes": "Floral, with elements of citrus and notes of grapefruit"
 		},
 		{
-			"id": "hops:5032f56d-0d8b-4e79-9b65-0ddf27acbace",
+			"id": "5032f56d-0d8b-4e79-9b65-0ddf27acbace",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -3755,7 +3755,7 @@
 			"notes": "Smooth bitterness, woody, earthy"
 		},
 		{
-			"id": "hops:e67d88cc-247a-4a84-801b-308a695a79e4",
+			"id": "e67d88cc-247a-4a84-801b-308a695a79e4",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -3799,7 +3799,7 @@
 			"notes": "Moderate bittering potential, pleasant aroma"
 		},
 		{
-			"id": "hops:46f532e2-944d-4ad3-9224-c9cb032584f8",
+			"id": "46f532e2-944d-4ad3-9224-c9cb032584f8",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -3843,7 +3843,7 @@
 			"notes": "Pleasing noble aroma"
 		},
 		{
-			"id": "hops:44ff1b3f-5ad0-456c-a884-bbe3a3f144e6",
+			"id": "44ff1b3f-5ad0-456c-a884-bbe3a3f144e6",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -3882,7 +3882,7 @@
 			"notes": "Hallertau-like aroma, notes of citrus and licorice"
 		},
 		{
-			"id": "hops:083bf6f2-dd8d-4d17-bd5c-0b408d53369e",
+			"id": "083bf6f2-dd8d-4d17-bd5c-0b408d53369e",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -3927,7 +3927,7 @@
 			"notes": "Delicate English-style aromas, fruit, herbs"
 		},
 		{
-			"id": "hops:dd97485b-cf98-4b1c-bd31-a32b512068c3",
+			"id": "dd97485b-cf98-4b1c-bd31-a32b512068c3",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -3972,7 +3972,7 @@
 			"notes": "Tropical fruit and citrus"
 		},
 		{
-			"id": "hops:468ce484-6ca4-4f39-af6d-ff3c017eed15",
+			"id": "468ce484-6ca4-4f39-af6d-ff3c017eed15",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -4017,7 +4017,7 @@
 			"notes": "Flavors of lemon citrus and cracked pepper"
 		},
 		{
-			"id": "hops:ea00c9ed-9911-4e48-8bca-993f4f2df453",
+			"id": "ea00c9ed-9911-4e48-8bca-993f4f2df453",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -4060,7 +4060,7 @@
 			"notes": "Aromas of herb, grass and spice alongside a citrus and floral character"
 		},
 		{
-			"id": "hops:8e758240-ce72-4552-b6d0-45899ff3d5d4",
+			"id": "8e758240-ce72-4552-b6d0-45899ff3d5d4",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -4094,7 +4094,7 @@
 			"name": "Willow Creek"
 		},
 		{
-			"id": "hops:29cfd15e-750c-4b2f-9d68-6152348470b6",
+			"id": "29cfd15e-750c-4b2f-9d68-6152348470b6",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -4138,7 +4138,7 @@
 			"substitutes": "Pacific Gem"
 		},
 		{
-			"id": "hops:eedb0dc7-6de2-4761-b3f8-312b4ece3427",
+			"id": "eedb0dc7-6de2-4761-b3f8-312b4ece3427",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -4183,7 +4183,7 @@
 			"notes": "Citrus aromas"
 		},
 		{
-			"id": "hops:0506654a-9326-46b2-a929-d6cc0b6c0be2",
+			"id": "0506654a-9326-46b2-a929-d6cc0b6c0be2",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -4228,7 +4228,7 @@
 			"notes": "Floral, fruity and spicy aromas"
 		},
 		{
-			"id": "hops:55d93695-325e-4128-a93c-ab2cff163213",
+			"id": "55d93695-325e-4128-a93c-ab2cff163213",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -4273,7 +4273,7 @@
 			"notes": "Mild, European-style aroma"
 		},
 		{
-			"id": "hops:6f3c1b43-d102-4758-a594-2ebf3c60589d",
+			"id": "6f3c1b43-d102-4758-a594-2ebf3c60589d",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -4318,7 +4318,7 @@
 			"notes": "Spicy, earthy, and lightly floral aroma"
 		},
 		{
-			"id": "hops:bb7c8c7a-5d78-42e6-930d-65f4ad7d0cce",
+			"id": "bb7c8c7a-5d78-42e6-930d-65f4ad7d0cce",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -4356,7 +4356,7 @@
 			"notes": "Exhibits an earthy aroma profile with a flavor profile of smooth, rounded spice."
 		},
 		{
-			"id": "hops:ca3c7c64-9f97-42f8-8557-4134720a7139",
+			"id": "ca3c7c64-9f97-42f8-8557-4134720a7139",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -4401,7 +4401,7 @@
 			"notes": "Lightly flowery and spicy aroma"
 		},
 		{
-			"id": "hops:d02a05e4-b02d-4e9d-a711-ac66cc1d194f",
+			"id": "d02a05e4-b02d-4e9d-a711-ac66cc1d194f",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -4444,7 +4444,7 @@
 			"substitutes": "Chinook"
 		},
 		{
-			"id": "hops:fae93516-350a-4466-970b-f6e292db3db9",
+			"id": "fae93516-350a-4466-970b-f6e292db3db9",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -4489,7 +4489,7 @@
 			"notes": "Mild cherry flavor, grapefruit peel aroma"
 		},
 		{
-			"id": "hops:c54765ce-bb95-48f7-a492-f1f21763f6ff",
+			"id": "c54765ce-bb95-48f7-a492-f1f21763f6ff",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -4532,7 +4532,7 @@
 			"notes": "Pungent hoppy kick, twist of lemon citrus"
 		},
 		{
-			"id": "hops:51677e49-dc21-4ca8-ad32-94d3882872b8",
+			"id": "51677e49-dc21-4ca8-ad32-94d3882872b8",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -4576,7 +4576,7 @@
 			"substitutes": "Fuggle (US), Willamette, Styrian Golding, Tettnanger, Newport"
 		},
 		{
-			"id": "hops:d9c3d8d9-f98f-4456-8344-6260e9837afe",
+			"id": "d9c3d8d9-f98f-4456-8344-6260e9837afe",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -4619,7 +4619,7 @@
 			"notes": "Pleasant European aroma"
 		},
 		{
-			"id": "hops:82f7cc9f-aca1-47f7-b515-2dd6d0b1b951",
+			"id": "82f7cc9f-aca1-47f7-b515-2dd6d0b1b951",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -4664,7 +4664,7 @@
 			"notes": "Balanced floral and herbal aromas with some spiciness"
 		},
 		{
-			"id": "hops:10fd4a33-163e-4d90-9334-f5e4a3f64710",
+			"id": "10fd4a33-163e-4d90-9334-f5e4a3f64710",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -4709,7 +4709,7 @@
 			"notes": "Grass, pine and citrus flavors"
 		},
 		{
-			"id": "hops:6a3f2c76-57bc-44e7-9631-4dbd9ab649c4",
+			"id": "6a3f2c76-57bc-44e7-9631-4dbd9ab649c4",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -4750,7 +4750,7 @@
 			"notes": "Distinct tropical, floral, lemon and grapefruit attributes"
 		},
 		{
-			"id": "hops:6205ac34-3f20-438f-b2ea-c9d7e63d09dd",
+			"id": "6205ac34-3f20-438f-b2ea-c9d7e63d09dd",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -4795,7 +4795,7 @@
 			"notes": "Notes of oak and blackberry"
 		},
 		{
-			"id": "hops:434db236-eefb-4ded-871d-db08e27feaed",
+			"id": "434db236-eefb-4ded-871d-db08e27feaed",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -4839,7 +4839,7 @@
 			"substitutes": "Chinook"
 		},
 		{
-			"id": "hops:e79e963e-4241-41b3-90e9-984e0e242bd7",
+			"id": "e79e963e-4241-41b3-90e9-984e0e242bd7",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -4886,7 +4886,7 @@
 			"notes": "Lemon grass, Black tea, Strawberry, Juniper, Citrus"
 		},
 		{
-			"id": "hops:c663a293-8ac3-416d-b7e8-f720d6bc39ed",
+			"id": "c663a293-8ac3-416d-b7e8-f720d6bc39ed",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -4927,7 +4927,7 @@
 			"notes": "Noble aroma"
 		},
 		{
-			"id": "hops:d30c4acd-65b1-462d-9844-d6db87576f71",
+			"id": "d30c4acd-65b1-462d-9844-d6db87576f71",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -4968,7 +4968,7 @@
 			"notes": "Heady, floral aroma, some sweet fruit and citrus"
 		},
 		{
-			"id": "hops:c909b3dc-9ceb-4bd5-9db7-a2f805031c7b",
+			"id": "c909b3dc-9ceb-4bd5-9db7-a2f805031c7b",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -5013,7 +5013,7 @@
 			"notes": "Aromas of pine and citrus"
 		},
 		{
-			"id": "hops:34811d9f-4ccc-4951-bb2f-84ee91b6d515",
+			"id": "34811d9f-4ccc-4951-bb2f-84ee91b6d515",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -5057,7 +5057,7 @@
 			"notes": "Sharp fruity essence"
 		},
 		{
-			"id": "hops:ec0f891c-eda8-4716-94cf-63ff458f9769",
+			"id": "ec0f891c-eda8-4716-94cf-63ff458f9769",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -5099,7 +5099,7 @@
 			"origin": "New Zealand"
 		},
 		{
-			"id": "hops:4f3470bb-3a43-4604-84c3-786d64ca4d17",
+			"id": "4f3470bb-3a43-4604-84c3-786d64ca4d17",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -5141,7 +5141,7 @@
 			"notes": "Falvors of citrus, peach and pine, aromas of stone fruit and mandarin"
 		},
 		{
-			"id": "hops:63780b68-ac6d-4ffd-bfe3-d66ed0be47f2",
+			"id": "63780b68-ac6d-4ffd-bfe3-d66ed0be47f2",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -5184,7 +5184,7 @@
 			"origin": "Slovenia"
 		},
 		{
-			"id": "hops:1ec9c750-6b90-4dc3-a5f2-3035c04de5bf",
+			"id": "1ec9c750-6b90-4dc3-a5f2-3035c04de5bf",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -5222,7 +5222,7 @@
 			"notes": "Deep earthy aroma"
 		},
 		{
-			"id": "hops:24d10cbd-2ab1-4bf7-9df8-b2d32d67ffcf",
+			"id": "24d10cbd-2ab1-4bf7-9df8-b2d32d67ffcf",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -5265,7 +5265,7 @@
 			"origin": "Japan"
 		},
 		{
-			"id": "hops:67c40a89-84bc-4b42-b42c-d2ad74f75a05",
+			"id": "67c40a89-84bc-4b42-b42c-d2ad74f75a05",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -5310,7 +5310,7 @@
 			"notes": "Light, tropical fruit flavors of lychee, clove-like spice and resinous grassy tones when dry hopped"
 		},
 		{
-			"id": "hops:5849b44e-aae6-4087-8192-de8aebb4c798",
+			"id": "5849b44e-aae6-4087-8192-de8aebb4c798",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -5354,7 +5354,7 @@
 			"substitutes": "Perle, Northern Brewer (US)"
 		},
 		{
-			"id": "hops:305ebf70-da57-41dd-b298-7998bcb049ef",
+			"id": "305ebf70-da57-41dd-b298-7998bcb049ef",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -5398,7 +5398,7 @@
 			"substitutes": "Cluster"
 		},
 		{
-			"id": "hops:5ff2a2f5-0f58-4c24-865a-621f4eeea209",
+			"id": "5ff2a2f5-0f58-4c24-865a-621f4eeea209",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -5444,7 +5444,7 @@
 			"notes": "Tea, Ripe Kiwi, Lemony"
 		},
 		{
-			"id": "hops:82abc839-0e94-4048-89fd-925aa91554f4",
+			"id": "82abc839-0e94-4048-89fd-925aa91554f4",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -5489,7 +5489,7 @@
 			"notes": "Clean bitterness, flavors of wine and balsamic"
 		},
 		{
-			"id": "hops:bffde9a6-8cf1-4c11-b39d-7cae528af606",
+			"id": "bffde9a6-8cf1-4c11-b39d-7cae528af606",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -5532,7 +5532,7 @@
 			"notes": "Passion fruit, Lime, Camomile blossom, Apricot, Lemon grass"
 		},
 		{
-			"id": "hops:5de3b060-3fb2-443d-b162-3f68935c99ca",
+			"id": "5de3b060-3fb2-443d-b162-3f68935c99ca",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -5576,7 +5576,7 @@
 			"substitutes": "Perle (US), Northern Brewer, Admiral"
 		},
 		{
-			"id": "hops:50807ab8-1daf-4acd-9872-7d566d4e9045",
+			"id": "50807ab8-1daf-4acd-9872-7d566d4e9045",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -5621,7 +5621,7 @@
 			"notes": "Clean, neutral, slightly floral"
 		},
 		{
-			"id": "hops:f68fa9d7-bd9b-48e7-a743-525233ebde1f",
+			"id": "f68fa9d7-bd9b-48e7-a743-525233ebde1f",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -5667,7 +5667,7 @@
 			"notes": "Melissa, Orange, Honeydew Melon, Lemon grass, Peppermint"
 		},
 		{
-			"id": "hops:15d6dc9d-b770-485b-8966-830f45958a7b",
+			"id": "15d6dc9d-b770-485b-8966-830f45958a7b",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -5709,7 +5709,7 @@
 			"substitutes": "Galena"
 		},
 		{
-			"id": "hops:96bc049d-4848-4567-be30-450e08adca3c",
+			"id": "96bc049d-4848-4567-be30-450e08adca3c",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -5756,7 +5756,7 @@
 			"notes": "Passion fruit, Strawberry, Cassis, Grapefruit, Peach"
 		},
 		{
-			"id": "hops:65c8fa99-cd5f-4e09-9374-58680fe8adbe",
+			"id": "65c8fa99-cd5f-4e09-9374-58680fe8adbe",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -5800,7 +5800,7 @@
 			"notes": "Aromas of tropical fruits and citrus. Tasting notes of spicy mango, pineapple, tangerine and pine."
 		},
 		{
-			"id": "hops:c39465bd-afea-4aa2-a375-b8a35bde4e26",
+			"id": "c39465bd-afea-4aa2-a375-b8a35bde4e26",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -5846,7 +5846,7 @@
 			"notes": "Hay, Liquorice, Lemon, Grapefruit, Aniseed"
 		},
 		{
-			"id": "hops:c6b89d53-7974-473d-9984-24e3ec37987b",
+			"id": "c6b89d53-7974-473d-9984-24e3ec37987b",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -5888,7 +5888,7 @@
 			"substitutes": "Citra®"
 		},
 		{
-			"id": "hops:c69d9c40-addc-40ab-9c78-e0646dfdedcf",
+			"id": "c69d9c40-addc-40ab-9c78-e0646dfdedcf",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -5926,7 +5926,7 @@
 			"notes": "Citrusy-mango aroma"
 		},
 		{
-			"id": "hops:7f78cae3-0fd8-4d93-9863-29a4d3008ed1",
+			"id": "7f78cae3-0fd8-4d93-9863-29a4d3008ed1",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -5970,7 +5970,7 @@
 			"substitutes": "Brewer’s Gold"
 		},
 		{
-			"id": "hops:336dfdec-c55e-427e-9ce1-9b5be2bf8ce2",
+			"id": "336dfdec-c55e-427e-9ce1-9b5be2bf8ce2",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -6011,7 +6011,7 @@
 			"notes": "Pleasing, delicate aroma"
 		},
 		{
-			"id": "hops:4a4eef3b-fde2-4aa1-9dc6-ecaee35b45a3",
+			"id": "4a4eef3b-fde2-4aa1-9dc6-ecaee35b45a3",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -6054,7 +6054,7 @@
 			"notes": "Pleasing European aroma"
 		},
 		{
-			"id": "hops:f81c8524-bc04-4967-814c-de652bf0b9b9",
+			"id": "f81c8524-bc04-4967-814c-de652bf0b9b9",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -6096,7 +6096,7 @@
 			"name": "Fuggle Tetraploid"
 		},
 		{
-			"id": "hops:d693c82f-866c-49e1-8e6f-fe41ae6eb847",
+			"id": "d693c82f-866c-49e1-8e6f-fe41ae6eb847",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -6136,7 +6136,7 @@
 			"notes": "Noble aromas and mild bitterness"
 		},
 		{
-			"id": "hops:79cac655-7d4b-4bf3-a831-05d3e73cb0fe",
+			"id": "79cac655-7d4b-4bf3-a831-05d3e73cb0fe",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -6179,7 +6179,7 @@
 			"substitutes": "Bullion, Cascade, Galena, Northern Brewer, Northdown"
 		},
 		{
-			"id": "hops:c8358545-d960-448d-9be2-4dbc7617d0f1",
+			"id": "c8358545-d960-448d-9be2-4dbc7617d0f1",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -6223,7 +6223,7 @@
 			"substitutes": "Sunbeam"
 		},
 		{
-			"id": "hops:1552ad24-bc00-4630-8053-dce17806840d",
+			"id": "1552ad24-bc00-4630-8053-dce17806840d",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -6270,7 +6270,7 @@
 			"notes": "Apricot, Peach, Cassis, Citrus, Orange"
 		},
 		{
-			"id": "hops:6d95d548-ba65-4ee5-bb36-c26af15ae52d",
+			"id": "6d95d548-ba65-4ee5-bb36-c26af15ae52d",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -6315,7 +6315,7 @@
 			"notes": "Mild, earthy, spicy, herbal"
 		},
 		{
-			"id": "hops:6c6f1d42-3793-40db-aab0-f6fe98bb94fc",
+			"id": "6c6f1d42-3793-40db-aab0-f6fe98bb94fc",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -6357,7 +6357,7 @@
 			"notes": "Plum, Lavender, Liquorice, Melissa"
 		},
 		{
-			"id": "hops:6734a5b3-cc90-4bec-90dd-56b5e53c4a34",
+			"id": "6734a5b3-cc90-4bec-90dd-56b5e53c4a34",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -6400,7 +6400,7 @@
 			"origin": "US"
 		},
 		{
-			"id": "hops:6bafaac2-dcc5-44e8-a347-b9b1c719048f",
+			"id": "6bafaac2-dcc5-44e8-a347-b9b1c719048f",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -6437,7 +6437,7 @@
 			"origin": "Australia"
 		},
 		{
-			"id": "hops:5ea58c55-56ea-4cdc-b128-29c2d8792f11",
+			"id": "5ea58c55-56ea-4cdc-b128-29c2d8792f11",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -6482,7 +6482,7 @@
 			"notes": "Peppermint, Barrique, Tobacco, Lime, Liquorice"
 		},
 		{
-			"id": "hops:b404e0ad-0f11-4eb9-885a-7b4450777a78",
+			"id": "b404e0ad-0f11-4eb9-885a-7b4450777a78",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -6527,7 +6527,7 @@
 			"notes": "Pleasant, fruity, European style aroma"
 		},
 		{
-			"id": "hops:f5433833-7e3e-43b4-b140-2db935d36f07",
+			"id": "f5433833-7e3e-43b4-b140-2db935d36f07",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -6570,7 +6570,7 @@
 			"origin": "New Zealand"
 		},
 		{
-			"id": "hops:78f60b5e-dcb4-4e89-8e1c-6f97bf458dde",
+			"id": "78f60b5e-dcb4-4e89-8e1c-6f97bf458dde",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -6615,7 +6615,7 @@
 			"notes": "Mandarin, elderberry sirup, Geranium, Lemon grass, Resin"
 		},
 		{
-			"id": "hops:d2789438-7333-4281-93a8-4e18360c53f4",
+			"id": "d2789438-7333-4281-93a8-4e18360c53f4",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -6659,7 +6659,7 @@
 			"notes": "European aroma, similar to Styrian hops"
 		},
 		{
-			"id": "hops:064e3123-204b-4f0b-9c82-42cd3c37bb3c",
+			"id": "064e3123-204b-4f0b-9c82-42cd3c37bb3c",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -6701,7 +6701,7 @@
 			"substitutes": "Talisman, Cluster"
 		},
 		{
-			"id": "hops:86a826b5-677c-4775-819a-bc1d54638a9e",
+			"id": "86a826b5-677c-4775-819a-bc1d54638a9e",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -6746,7 +6746,7 @@
 			"notes": "Earth, spice"
 		},
 		{
-			"id": "hops:4d8cfccc-0447-414a-bf3a-7e16ff944fc6",
+			"id": "4d8cfccc-0447-414a-bf3a-7e16ff944fc6",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -6783,7 +6783,7 @@
 			"notes": "Notes of orange, melon, strawberry, pineapple with a hint of grapefruit"
 		},
 		{
-			"id": "hops:fdd6aa2a-78f2-4e08-84de-4c139ec55830",
+			"id": "fdd6aa2a-78f2-4e08-84de-4c139ec55830",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -6829,7 +6829,7 @@
 			"notes": "Oregano, Honey, Hay, Basil, Nettle"
 		},
 		{
-			"id": "hops:6b270527-dd03-4fec-b640-35a488fd6f82",
+			"id": "6b270527-dd03-4fec-b640-35a488fd6f82",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -6873,7 +6873,7 @@
 			"notes": "Notes of spice and blackcurrant"
 		},
 		{
-			"id": "hops:58f98a65-23e3-4677-8097-94b394bfcfc9",
+			"id": "58f98a65-23e3-4677-8097-94b394bfcfc9",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -6919,7 +6919,7 @@
 			"notes": "Marjoram, Celeriac, Strawberry, Yoghurt"
 		},
 		{
-			"id": "hops:7e6c4822-bf81-456a-943a-3dc1b66da81d",
+			"id": "7e6c4822-bf81-456a-943a-3dc1b66da81d",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -6962,7 +6962,7 @@
 			"origin": "New Zealand"
 		},
 		{
-			"id": "hops:b056f752-0c76-4c47-83d1-c4a077bcd4ed",
+			"id": "b056f752-0c76-4c47-83d1-c4a077bcd4ed",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -7002,7 +7002,7 @@
 			"notes": "Lemongrass, pepper and spice"
 		},
 		{
-			"id": "hops:c3783354-370e-4b42-969e-896b139c47d0",
+			"id": "c3783354-370e-4b42-969e-896b139c47d0",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -7039,7 +7039,7 @@
 			"notes": "No bitterness whatsoever"
 		},
 		{
-			"id": "hops:f8c01f2d-e003-4753-9382-83f4abab2bba",
+			"id": "f8c01f2d-e003-4753-9382-83f4abab2bba",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -7084,7 +7084,7 @@
 			"notes": "Spicy, citrus aroma, herbal notes"
 		},
 		{
-			"id": "hops:2d4a7026-8ff5-4d50-b236-94d97d57d391",
+			"id": "2d4a7026-8ff5-4d50-b236-94d97d57d391",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -7129,7 +7129,7 @@
 			"notes": "Flowery, delicately spicy"
 		},
 		{
-			"id": "hops:f4166418-cc1e-422a-9137-f7fa234e9e72",
+			"id": "f4166418-cc1e-422a-9137-f7fa234e9e72",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -7173,7 +7173,7 @@
 			"notes": "Pleasing European aroma"
 		},
 		{
-			"id": "hops:48c537c4-a211-40cf-b4e0-2422c63cc252",
+			"id": "48c537c4-a211-40cf-b4e0-2422c63cc252",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -7218,7 +7218,7 @@
 			"notes": "Saaz-style characteristics"
 		},
 		{
-			"id": "hops:7e0feca7-da89-4807-817c-8d34ce771ec7",
+			"id": "7e0feca7-da89-4807-817c-8d34ce771ec7",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -7261,7 +7261,7 @@
 			"origin": "Slovenia"
 		},
 		{
-			"id": "hops:dd810cb5-79d7-490d-bd09-6e390528ff0e",
+			"id": "dd810cb5-79d7-490d-bd09-6e390528ff0e",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -7306,7 +7306,7 @@
 			"notes": "Blackberries, Berries, Grapefruit, Plum"
 		},
 		{
-			"id": "hops:965f436a-88d1-49e5-8ccf-e571bcedf9ed",
+			"id": "965f436a-88d1-49e5-8ccf-e571bcedf9ed",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -7350,7 +7350,7 @@
 			"notes": "Soft bitterness, lemon zest and pine needles"
 		},
 		{
-			"id": "hops:102d4751-b62a-4a92-a33c-c23161de1cb1",
+			"id": "102d4751-b62a-4a92-a33c-c23161de1cb1",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -7391,7 +7391,7 @@
 			"name": "Symphony"
 		},
 		{
-			"id": "hops:958c75b3-93ab-43d2-b628-282a616386a9",
+			"id": "958c75b3-93ab-43d2-b628-282a616386a9",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -7435,7 +7435,7 @@
 			"notes": "Pleasing continental aroma"
 		},
 		{
-			"id": "hops:a4ee7cc3-3417-416f-a3ad-8bdde3bb039b",
+			"id": "a4ee7cc3-3417-416f-a3ad-8bdde3bb039b",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -7481,7 +7481,7 @@
 			"notes": "Lemon grass, Cassis, Elderflower, Grapefruit, Grapes"
 		},
 		{
-			"id": "hops:5a6e8838-d390-4fbc-9a23-d4a26318099c",
+			"id": "5a6e8838-d390-4fbc-9a23-d4a26318099c",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -7525,7 +7525,7 @@
 			"notes": "Elements of spice and dark fruits"
 		},
 		{
-			"id": "hops:282b8826-4d31-4988-aa38-a9149e5b982d",
+			"id": "282b8826-4d31-4988-aa38-a9149e5b982d",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -7570,7 +7570,7 @@
 			"notes": "Over-ripe orange, Lychee, Lemon grass"
 		},
 		{
-			"id": "hops:31778dc5-3b4a-40ce-85be-9091f6fe2de1",
+			"id": "31778dc5-3b4a-40ce-85be-9091f6fe2de1",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -7614,7 +7614,7 @@
 			"notes": "Tropical flavors, grapefruit, star anise"
 		},
 		{
-			"id": "hops:3d34278c-391e-449e-ae3a-c8fc72692560",
+			"id": "3d34278c-391e-449e-ae3a-c8fc72692560",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -7658,7 +7658,7 @@
 			"substitutes": "Yakima Cluster, California Cluster"
 		},
 		{
-			"id": "hops:e1d683ef-1ccf-421f-a993-59c6a3ed75cd",
+			"id": "e1d683ef-1ccf-421f-a993-59c6a3ed75cd",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -7697,7 +7697,7 @@
 			"notes": "Mild bitterness, noble aroma"
 		},
 		{
-			"id": "hops:13e2563d-4b91-4d5e-a971-f909846c350e",
+			"id": "13e2563d-4b91-4d5e-a971-f909846c350e",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -7741,7 +7741,7 @@
 			"substitutes": "Northern Brewer, Chinook"
 		},
 		{
-			"id": "hops:ea2b2cdb-0361-48dc-98c6-0ad1fbd2347e",
+			"id": "ea2b2cdb-0361-48dc-98c6-0ad1fbd2347e",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -7788,7 +7788,7 @@
 			"notes": "Lemon, Lychee, Geranium, Pineapple"
 		},
 		{
-			"id": "hops:efb6be4d-5896-4606-a477-2f4843ee17a3",
+			"id": "efb6be4d-5896-4606-a477-2f4843ee17a3",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -7833,7 +7833,7 @@
 			"notes": "Fennel, Aniseed, Melissa, Nettle, Citrus"
 		},
 		{
-			"id": "hops:729a6f8c-0715-472e-8552-4c8e22b48c91",
+			"id": "729a6f8c-0715-472e-8552-4c8e22b48c91",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -7876,7 +7876,7 @@
 			"notes": "Minty and resinous"
 		},
 		{
-			"id": "hops:03289b2f-3dde-4858-b5a2-383bd1c02eb5",
+			"id": "03289b2f-3dde-4858-b5a2-383bd1c02eb5",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -7920,7 +7920,7 @@
 			"substitutes": "Fuggle, Willamette"
 		},
 		{
-			"id": "hops:5305ebbd-b3df-4859-9e3b-64bd2ea6f658",
+			"id": "5305ebbd-b3df-4859-9e3b-64bd2ea6f658",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -7961,7 +7961,7 @@
 			"origin": "UK"
 		},
 		{
-			"id": "hops:c2eaf31f-174e-49ec-9655-d46a0f560be8",
+			"id": "c2eaf31f-174e-49ec-9655-d46a0f560be8",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -8004,7 +8004,7 @@
 			"origin": "US"
 		},
 		{
-			"id": "hops:b32f30f3-1549-458f-af65-69c38c1e0e6b",
+			"id": "b32f30f3-1549-458f-af65-69c38c1e0e6b",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -8050,7 +8050,7 @@
 			"notes": "Pineapple, Pepper, Ginger, Pear"
 		},
 		{
-			"id": "hops:14abe846-3ac9-44c8-be4b-371850df7811",
+			"id": "14abe846-3ac9-44c8-be4b-371850df7811",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -8094,7 +8094,7 @@
 			"notes": "Elements of stone fruit and citrus"
 		},
 		{
-			"id": "hops:df1fffd4-0797-4e9d-bc01-96f15e4edcd4",
+			"id": "df1fffd4-0797-4e9d-bc01-96f15e4edcd4",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -8139,7 +8139,7 @@
 			"notes": "Flavors of tropical fruit, pineapple, mango. Aromas of pear, watermelon, stone fruit and candy."
 		},
 		{
-			"id": "hops:2ed680d6-84ed-4e4c-99a5-827234d46af6",
+			"id": "2ed680d6-84ed-4e4c-99a5-827234d46af6",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -8183,7 +8183,7 @@
 			"notes": "European-style aroma"
 		},
 		{
-			"id": "hops:cfcf8531-0420-4586-8a67-a4d323dd578c",
+			"id": "cfcf8531-0420-4586-8a67-a4d323dd578c",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -8229,7 +8229,7 @@
 			"notes": "Jasmine, Passoin fruit, Lavender, Chocolate, Lemon grass"
 		},
 		{
-			"id": "hops:471f6060-fff0-40a1-b6d4-6929f5327f58",
+			"id": "471f6060-fff0-40a1-b6d4-6929f5327f58",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -8272,7 +8272,7 @@
 			"origin": "US"
 		},
 		{
-			"id": "hops:5ee5cbbf-da8e-4407-bc9b-4a7edeb80195",
+			"id": "5ee5cbbf-da8e-4407-bc9b-4a7edeb80195",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -8314,7 +8314,7 @@
 			"origin": "UK"
 		},
 		{
-			"id": "hops:e6f95fe0-385d-4f8a-bfad-3af65a45e449",
+			"id": "e6f95fe0-385d-4f8a-bfad-3af65a45e449",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -8358,7 +8358,7 @@
 			"notes": "Same as Bullion"
 		},
 		{
-			"id": "hops:9498b9a9-fc1f-424c-a203-9309abda70fb",
+			"id": "9498b9a9-fc1f-424c-a203-9309abda70fb",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -8401,7 +8401,7 @@
 			"origin": "Serbia"
 		},
 		{
-			"id": "hops:ea98a427-bac2-4c29-b947-666acdcb0a5b",
+			"id": "ea98a427-bac2-4c29-b947-666acdcb0a5b",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -8439,7 +8439,7 @@
 			"notes": "Fruity, woody aromas"
 		},
 		{
-			"id": "hops:f15d12fe-775b-49f4-9579-3e62def21ec3",
+			"id": "f15d12fe-775b-49f4-9579-3e62def21ec3",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -8486,7 +8486,7 @@
 			"notes": "Citrus, Bergamot, Apricot, Aniseed, Liquorice"
 		},
 		{
-			"id": "hops:517e98f7-7ade-40d5-b5e7-788f2ad8a048",
+			"id": "517e98f7-7ade-40d5-b5e7-788f2ad8a048",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -8532,7 +8532,7 @@
 			"notes": "Camomile tea, Tarragon, Butter, Liquorice, Cognac"
 		},
 		{
-			"id": "hops:05f49f67-ef5c-459c-b0f1-cb6b080bc389",
+			"id": "05f49f67-ef5c-459c-b0f1-cb6b080bc389",
 			"inventory": {},
 			"type": "AROMA",
 			"oilContent": {
@@ -8578,7 +8578,7 @@
 			"notes": "Lime, Gooseberry, Pear, Pineapple"
 		},
 		{
-			"id": "hops:9ba17714-7737-412a-9717-ab08498420ae",
+			"id": "9ba17714-7737-412a-9717-ab08498420ae",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -8622,7 +8622,7 @@
 			"substitutes": "Nugget, Galena"
 		},
 		{
-			"id": "hops:51a499f5-0b77-4ca5-b938-e0161c988a8f",
+			"id": "51a499f5-0b77-4ca5-b938-e0161c988a8f",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -8657,7 +8657,7 @@
 			"origin": "UK"
 		},
 		{
-			"id": "hops:d0b105a0-e1aa-4293-8b41-75f4ae74b99e",
+			"id": "d0b105a0-e1aa-4293-8b41-75f4ae74b99e",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -8703,7 +8703,7 @@
 			"notes": "Lemon tea, Thyme, Peppermint, Lime"
 		},
 		{
-			"id": "hops:c8a3ac82-fde4-4b7c-b2cc-cdfa9d9a3a5d",
+			"id": "c8a3ac82-fde4-4b7c-b2cc-cdfa9d9a3a5d",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -8748,7 +8748,7 @@
 			"notes": "Notes of grapefruit and kumquat"
 		},
 		{
-			"id": "hops:bcdd8dc0-d60c-4338-bf98-9ad0e3dc1ce7",
+			"id": "bcdd8dc0-d60c-4338-bf98-9ad0e3dc1ce7",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -8793,7 +8793,7 @@
 			"notes": "Pleasantly hoppy"
 		},
 		{
-			"id": "hops:2aa14b1e-eeb7-42fd-97a7-01fa42e73b48",
+			"id": "2aa14b1e-eeb7-42fd-97a7-01fa42e73b48",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -8839,7 +8839,7 @@
 			"notes": "Artichoke, Hay, Lemon, Sage"
 		},
 		{
-			"id": "hops:a4660f15-8ca0-4035-a2de-564f666fda27",
+			"id": "a4660f15-8ca0-4035-a2de-564f666fda27",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -8879,7 +8879,7 @@
 			"notes": "Falvors of citrus, peach and pine, aromas of stone fruit and mandarin"
 		},
 		{
-			"id": "hops:a49d646c-676a-4abd-9e47-6884ec9ee7d3",
+			"id": "a49d646c-676a-4abd-9e47-6884ec9ee7d3",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -8923,7 +8923,7 @@
 			"notes": "Intense notes of lime, blossom, and pine"
 		},
 		{
-			"id": "hops:2aae093f-9c33-4260-ad77-01e5799355e3",
+			"id": "2aae093f-9c33-4260-ad77-01e5799355e3",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -8959,7 +8959,7 @@
 			"notes": "Spicy, woody aroma and flavor with an undernote of citrus"
 		},
 		{
-			"id": "hops:67202528-26c9-4da9-8999-95e592989974",
+			"id": "67202528-26c9-4da9-8999-95e592989974",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -9000,7 +9000,7 @@
 			"notes": "Clean bittering, light citrus flavor"
 		},
 		{
-			"id": "hops:3c403564-7613-405e-b599-9ded2c7dac8c",
+			"id": "3c403564-7613-405e-b599-9ded2c7dac8c",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -9041,7 +9041,7 @@
 			"name": "Zenith"
 		},
 		{
-			"id": "hops:867600c6-3ca2-4119-b844-4a84c2c89404",
+			"id": "867600c6-3ca2-4119-b844-4a84c2c89404",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -9086,7 +9086,7 @@
 			"notes": "Citrus, Artichoke, Spicy, Woodruff, Gingerbread"
 		},
 		{
-			"id": "hops:e4a492cc-29f7-4797-9ea1-c48398fac2e1",
+			"id": "e4a492cc-29f7-4797-9ea1-c48398fac2e1",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -9131,7 +9131,7 @@
 			"notes": "Pleasant continental-style aroma"
 		},
 		{
-			"id": "hops:f8a0c5f6-8083-4c8d-a0c4-f6c5ce3f37b6",
+			"id": "f8a0c5f6-8083-4c8d-a0c4-f6c5ce3f37b6",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -9174,7 +9174,7 @@
 			"origin": "Slovenia"
 		},
 		{
-			"id": "hops:f29db17f-10a5-4ac6-9b8e-76c7cda3b97d",
+			"id": "f29db17f-10a5-4ac6-9b8e-76c7cda3b97d",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -9219,7 +9219,7 @@
 			"notes": "Citrus, peach and passionfruit aromas"
 		},
 		{
-			"id": "hops:588f2f98-9078-47a1-8964-e841df6c7073",
+			"id": "588f2f98-9078-47a1-8964-e841df6c7073",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -9265,7 +9265,7 @@
 			"notes": "Lavender, Lovage, Leather, Tobacco"
 		},
 		{
-			"id": "hops:1e6dbf0c-42a4-4c9e-ae0b-84d41c25157e",
+			"id": "1e6dbf0c-42a4-4c9e-ae0b-84d41c25157e",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -9309,7 +9309,7 @@
 			"substitutes": "Outeniqua"
 		},
 		{
-			"id": "hops:95dd3137-7d4a-40c5-9d3f-6b3de821c486",
+			"id": "95dd3137-7d4a-40c5-9d3f-6b3de821c486",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -9354,7 +9354,7 @@
 			"notes": "Earthy, spicy bitterness, citrus zing"
 		},
 		{
-			"id": "hops:558df913-98cc-4454-8f77-aca863ad163f",
+			"id": "558df913-98cc-4454-8f77-aca863ad163f",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -9396,7 +9396,7 @@
 			"notes": "Continental-style aroma"
 		},
 		{
-			"id": "hops:1aee048e-9049-4224-8b0b-ffa61241e809",
+			"id": "1aee048e-9049-4224-8b0b-ffa61241e809",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -9440,7 +9440,7 @@
 			"notes": "Lemon and grapefruit notes"
 		},
 		{
-			"id": "hops:922e8f55-9b52-4548-8dd9-163f520fce89",
+			"id": "922e8f55-9b52-4548-8dd9-163f520fce89",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -9485,7 +9485,7 @@
 			"notes": "Pleasant European aroma, mildly fruity"
 		},
 		{
-			"id": "hops:76b20754-564c-476e-ae38-e260b534eaa6",
+			"id": "76b20754-564c-476e-ae38-e260b534eaa6",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -9532,7 +9532,7 @@
 			"notes": "Citrus, Woody, Black tea, Camomile blossom"
 		},
 		{
-			"id": "hops:137fda6c-c609-4d77-b4e4-533b8f4f72b1",
+			"id": "137fda6c-c609-4d77-b4e4-533b8f4f72b1",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -9576,7 +9576,7 @@
 			"notes": "Pleasing continental-style aroma"
 		},
 		{
-			"id": "hops:a9a245f8-eee2-4686-95b3-00b4aea7e6d5",
+			"id": "a9a245f8-eee2-4686-95b3-00b4aea7e6d5",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -9620,7 +9620,7 @@
 			"notes": "Plum, Elderflower, Artichoke, Vanilla, Blackberry"
 		},
 		{
-			"id": "hops:23f7ebef-efe9-4b5e-b9ab-aefab3e00ff3",
+			"id": "23f7ebef-efe9-4b5e-b9ab-aefab3e00ff3",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -9664,7 +9664,7 @@
 			"notes": "Pleasant continental-style aroma"
 		},
 		{
-			"id": "hops:9b2a194c-d9e7-4c06-a4dc-4bb42cdac0b2",
+			"id": "9b2a194c-d9e7-4c06-a4dc-4bb42cdac0b2",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -9703,7 +9703,7 @@
 			"notes": "Mellow aroma of citrus and pine. Heady floral and herbal notes."
 		},
 		{
-			"id": "hops:2e1c348a-9621-44b0-825f-337048071763",
+			"id": "2e1c348a-9621-44b0-825f-337048071763",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -9747,7 +9747,7 @@
 			"notes": "Saaz-like aroma"
 		},
 		{
-			"id": "hops:07f67df0-3086-4b97-be56-f46c8c45ada0",
+			"id": "07f67df0-3086-4b97-be56-f46c8c45ada0",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -9794,7 +9794,7 @@
 			"notes": "Jasmine, Spicy, Gooseberry, Lychee, Geranium"
 		},
 		{
-			"id": "hops:22d1207a-44fb-4a8b-812c-f0c381d63a98",
+			"id": "22d1207a-44fb-4a8b-812c-f0c381d63a98",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -9832,7 +9832,7 @@
 			"notes": "Notes of blackberry, black currant, orange and grapefruit. Floral and spicy."
 		},
 		{
-			"id": "hops:afb4b2db-2a03-4fe4-946d-7766fb98fdbc",
+			"id": "afb4b2db-2a03-4fe4-946d-7766fb98fdbc",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -9877,7 +9877,7 @@
 			"notes": "Distinct lime ‘zing’, delicately floral, clean tasting"
 		},
 		{
-			"id": "hops:383a4bdd-660d-479f-9ee4-737e60dc2970",
+			"id": "383a4bdd-660d-479f-9ee4-737e60dc2970",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -9922,7 +9922,7 @@
 			"notes": "Pleasing continental aroma"
 		},
 		{
-			"id": "hops:704bac5f-ec41-4888-939a-da99e286d3fc",
+			"id": "704bac5f-ec41-4888-939a-da99e286d3fc",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -9966,7 +9966,7 @@
 			"notes": "Tropical fruit, grapefruit, blackcurrant, hints of lychee"
 		},
 		{
-			"id": "hops:b6a9829f-c1c0-469b-80a2-b773105d6571",
+			"id": "b6a9829f-c1c0-469b-80a2-b773105d6571",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -10010,7 +10010,7 @@
 			"notes": "Pleasing continental aroma"
 		},
 		{
-			"id": "hops:35b3c1b2-d844-497b-8667-db66a46d32b4",
+			"id": "35b3c1b2-d844-497b-8667-db66a46d32b4",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -10054,7 +10054,7 @@
 			"substitutes": "East Kent Golding"
 		},
 		{
-			"id": "hops:fe38cc95-382a-4bbd-a127-76c4208fcb66",
+			"id": "fe38cc95-382a-4bbd-a127-76c4208fcb66",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -10099,7 +10099,7 @@
 			"notes": "Orange citrus flavor"
 		},
 		{
-			"id": "hops:5eb3f7bd-81b3-4d65-a16a-f7cf1701f8dc",
+			"id": "5eb3f7bd-81b3-4d65-a16a-f7cf1701f8dc",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -10144,7 +10144,7 @@
 			"notes": "Aniseed, Citrus, Floral"
 		},
 		{
-			"id": "hops:9a98ba42-90fc-4a99-a982-eef63aabe84c",
+			"id": "9a98ba42-90fc-4a99-a982-eef63aabe84c",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -10189,7 +10189,7 @@
 			"notes": "Sharp, clean bittering, grapefruit notes"
 		},
 		{
-			"id": "hops:8c38c0fc-49d0-4467-873f-7824c06c361c",
+			"id": "8c38c0fc-49d0-4467-873f-7824c06c361c",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -10231,7 +10231,7 @@
 			"origin": "US"
 		},
 		{
-			"id": "hops:a612d777-750a-441f-951d-ba2cb7090403",
+			"id": "a612d777-750a-441f-951d-ba2cb7090403",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -10275,7 +10275,7 @@
 			"notes": "Intensely fruity, flavors and aromas of honeydew melon, strawberry"
 		},
 		{
-			"id": "hops:1f6ab5da-96f6-4850-aa61-e66a0df133f6",
+			"id": "1f6ab5da-96f6-4850-aa61-e66a0df133f6",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -10318,7 +10318,7 @@
 			"substitutes": "Fuggle"
 		},
 		{
-			"id": "hops:4b1632fd-9254-456d-8a43-cac1ec656e16",
+			"id": "4b1632fd-9254-456d-8a43-cac1ec656e16",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -10363,7 +10363,7 @@
 			"notes": "Spicy with notes of melon and citrus"
 		},
 		{
-			"id": "hops:772faa68-d0d6-49a4-8a7f-e687ae4812d2",
+			"id": "772faa68-d0d6-49a4-8a7f-e687ae4812d2",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -10408,7 +10408,7 @@
 			"notes": "Clean bittering, aromas of citrus, lemon, grapefruit, herbs and cedar"
 		},
 		{
-			"id": "hops:07951902-3d80-4cab-afad-afa8abf1b6ad",
+			"id": "07951902-3d80-4cab-afad-afa8abf1b6ad",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -10453,7 +10453,7 @@
 			"notes": "Strawberry, Yoghurt, Cream"
 		},
 		{
-			"id": "hops:812596d1-2c83-4b42-9b31-c7cc90b9d93c",
+			"id": "812596d1-2c83-4b42-9b31-c7cc90b9d93c",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -10498,7 +10498,7 @@
 			"notes": "Clean bitterness, subtle citrus flavors"
 		},
 		{
-			"id": "hops:20c4aba1-4050-427d-b5e8-10e7bd2c74c4",
+			"id": "20c4aba1-4050-427d-b5e8-10e7bd2c74c4",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -10541,7 +10541,7 @@
 			"origin": "UK"
 		},
 		{
-			"id": "hops:3d4da36d-e107-47d0-9fa1-801b10cfefeb",
+			"id": "3d4da36d-e107-47d0-9fa1-801b10cfefeb",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -10584,7 +10584,7 @@
 			"notes": "Pleasing noble characteristics"
 		},
 		{
-			"id": "hops:1addb3b9-925b-4a44-ae33-734fbc525e25",
+			"id": "1addb3b9-925b-4a44-ae33-734fbc525e25",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -10628,7 +10628,7 @@
 			"notes": "Noble aroma characteristics"
 		},
 		{
-			"id": "hops:9f2b36ce-e3d0-4aab-8fc8-08d57b2269c8",
+			"id": "9f2b36ce-e3d0-4aab-8fc8-08d57b2269c8",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -10673,7 +10673,7 @@
 			"notes": "Mildly resinous, floral character"
 		},
 		{
-			"id": "hops:a2af97a0-74e8-4b5c-8196-5d2b66ea1411",
+			"id": "a2af97a0-74e8-4b5c-8196-5d2b66ea1411",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -10718,7 +10718,7 @@
 			"notes": "Lemon grass, Vanilla, Orange peel, Curry"
 		},
 		{
-			"id": "hops:ff4d6552-196d-4206-b435-b25beb99bc1b",
+			"id": "ff4d6552-196d-4206-b435-b25beb99bc1b",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -10763,7 +10763,7 @@
 			"notes": "Use for bittering only, has no notable aroma"
 		},
 		{
-			"id": "hops:5f932dd1-d7b3-4405-8555-848705c1fd2d",
+			"id": "5f932dd1-d7b3-4405-8555-848705c1fd2d",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -10806,7 +10806,7 @@
 			"substitutes": "Southern Promise"
 		},
 		{
-			"id": "hops:a4a9aa6f-82de-415e-959c-6f6943cb5f0a",
+			"id": "a4a9aa6f-82de-415e-959c-6f6943cb5f0a",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -10843,7 +10843,7 @@
 			"notes": "Delicate flavor"
 		},
 		{
-			"id": "hops:a1f4f476-6698-4216-a3d0-8ef569c8287b",
+			"id": "a1f4f476-6698-4216-a3d0-8ef569c8287b",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -10883,7 +10883,7 @@
 			"notes": "Notes of lemon and lime citrus, fruits like papaya and apple, green peppers and herbs"
 		},
 		{
-			"id": "hops:9733d3ad-caaa-493d-81ba-b686e1a269a5",
+			"id": "9733d3ad-caaa-493d-81ba-b686e1a269a5",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -10926,7 +10926,7 @@
 			"origin": "Slovenia"
 		},
 		{
-			"id": "hops:b6cd4cc9-f417-4857-9906-ba3f93e62081",
+			"id": "b6cd4cc9-f417-4857-9906-ba3f93e62081",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -10970,7 +10970,7 @@
 			"notes": "Banana, Woodruff, Bergamot, Pineapple, Mint"
 		},
 		{
-			"id": "hops:d5c9e42d-e25a-41bc-b5fe-960bbfa9bbb8",
+			"id": "d5c9e42d-e25a-41bc-b5fe-960bbfa9bbb8",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -11014,7 +11014,7 @@
 			"notes": "Delicate tropical flavors and a unique fruit-forward aroma"
 		},
 		{
-			"id": "hops:7c0ca579-3b09-455d-b814-cf3c6c95180a",
+			"id": "7c0ca579-3b09-455d-b814-cf3c6c95180a",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -11058,7 +11058,7 @@
 			"notes": "Pleasant aroma"
 		},
 		{
-			"id": "hops:5196d83a-6584-4dc8-8086-3519c3fe70ef",
+			"id": "5196d83a-6584-4dc8-8086-3519c3fe70ef",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -11101,7 +11101,7 @@
 			"origin": "UK"
 		},
 		{
-			"id": "hops:d04e6e74-cdb5-4334-a7b2-adf79b8f20c7",
+			"id": "d04e6e74-cdb5-4334-a7b2-adf79b8f20c7",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -11145,7 +11145,7 @@
 			"substitutes": "Pioneer"
 		},
 		{
-			"id": "hops:a597752c-8ce6-4c86-bf28-86aebe5aa6bd",
+			"id": "a597752c-8ce6-4c86-bf28-86aebe5aa6bd",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -11188,7 +11188,7 @@
 			"origin": "UK"
 		},
 		{
-			"id": "hops:049b63c0-904d-41dd-8525-6a91f92a4a16",
+			"id": "049b63c0-904d-41dd-8525-6a91f92a4a16",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -11229,7 +11229,7 @@
 			"notes": "Goldings-style aroma"
 		},
 		{
-			"id": "hops:ae2d3358-1958-402f-bd84-73386284ad54",
+			"id": "ae2d3358-1958-402f-bd84-73386284ad54",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -11272,7 +11272,7 @@
 			"origin": "Slovenia"
 		},
 		{
-			"id": "hops:9155c8a6-5d0f-4733-a894-23dc9a070b81",
+			"id": "9155c8a6-5d0f-4733-a894-23dc9a070b81",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -11316,7 +11316,7 @@
 			"notes": "Red Berries, Fennel, Basil, Elderberry, Lychee"
 		},
 		{
-			"id": "hops:6d4287f7-e6d1-4aa5-9e48-c9742da6fd4e",
+			"id": "6d4287f7-e6d1-4aa5-9e48-c9742da6fd4e",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -11359,7 +11359,7 @@
 			"origin": "Germany"
 		},
 		{
-			"id": "hops:58710e91-bff2-4cc8-aa89-b8459d3843f3",
+			"id": "58710e91-bff2-4cc8-aa89-b8459d3843f3",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -11402,7 +11402,7 @@
 			"origin": "Slovenia"
 		},
 		{
-			"id": "hops:6e3088ee-1198-4cd5-85ae-e63289a128c6",
+			"id": "6e3088ee-1198-4cd5-85ae-e63289a128c6",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -11446,7 +11446,7 @@
 			"notes": "Similar delicate aroma profile to other Saaz hops"
 		},
 		{
-			"id": "hops:3f16b948-80c8-4b6f-b5b5-5517d39daa5d",
+			"id": "3f16b948-80c8-4b6f-b5b5-5517d39daa5d",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -11487,7 +11487,7 @@
 			"notes": "Pleasant European aroma"
 		},
 		{
-			"id": "hops:8d23bbfa-354a-4e5d-8f50-0682c28ca5de",
+			"id": "8d23bbfa-354a-4e5d-8f50-0682c28ca5de",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -11532,7 +11532,7 @@
 			"notes": "Same as Cascade (US) but with notes of grapefruit"
 		},
 		{
-			"id": "hops:9b66ca88-88a8-4e6c-8181-862dbddf4e37",
+			"id": "9b66ca88-88a8-4e6c-8181-862dbddf4e37",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -11577,7 +11577,7 @@
 			"notes": "Noble hop aroma"
 		},
 		{
-			"id": "hops:77ca0274-a4d1-4f63-9ea4-b4ab3c17d783",
+			"id": "77ca0274-a4d1-4f63-9ea4-b4ab3c17d783",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -11614,7 +11614,7 @@
 			"notes": "Fruit, noble aromas, cream, caramel"
 		},
 		{
-			"id": "hops:4ef84016-b784-469c-ac50-6e507ed31274",
+			"id": "4ef84016-b784-469c-ac50-6e507ed31274",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -11655,7 +11655,7 @@
 			"notes": "Plum, Juniper, Honey, Strawberries"
 		},
 		{
-			"id": "hops:8221743e-7352-4ac9-b32a-b37d63924ee6",
+			"id": "8221743e-7352-4ac9-b32a-b37d63924ee6",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -11695,7 +11695,7 @@
 			"notes": "Grapefruit, Cream, Cassis, Tabacco"
 		},
 		{
-			"id": "hops:2b31cfd5-e849-455d-9ee9-dd90c665dd4f",
+			"id": "2b31cfd5-e849-455d-9ee9-dd90c665dd4f",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -11735,7 +11735,7 @@
 			"notes": "Black tea with lemon, Melon, Apricot, Grapefruit"
 		},
 		{
-			"id": "hops:41e82b9d-d79c-493a-8ea1-fdd2593a1b97",
+			"id": "41e82b9d-d79c-493a-8ea1-fdd2593a1b97",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -11776,7 +11776,7 @@
 			"notes": "Blackberry, Grapefruit, Blueberry, Passion fruit, Spicy"
 		},
 		{
-			"id": "hops:b945097b-a9c6-48a5-b13f-eb1f5b4e42a2",
+			"id": "b945097b-a9c6-48a5-b13f-eb1f5b4e42a2",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -11814,7 +11814,7 @@
 			"origin": "United States"
 		},
 		{
-			"id": "hops:b1600b0c-6397-4aba-9f29-8c6a75964f83",
+			"id": "b1600b0c-6397-4aba-9f29-8c6a75964f83",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -11856,7 +11856,7 @@
 			"notes": "Apple, Lemon, Mint, Chocolate, Green peppers"
 		},
 		{
-			"id": "hops:c82f01dd-91f1-4219-90e4-f0168b2dbbf8",
+			"id": "c82f01dd-91f1-4219-90e4-f0168b2dbbf8",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -11897,7 +11897,7 @@
 			"notes": "Nutmeg, Passion fruit, Red currant, Camomile, Rose hip"
 		},
 		{
-			"id": "hops:5937fadb-1e08-4ef9-ae02-386fe2f0b58a",
+			"id": "5937fadb-1e08-4ef9-ae02-386fe2f0b58a",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -11937,7 +11937,7 @@
 			"notes": "Gooseberry, Pear, Mandarin, Lime, Peach"
 		},
 		{
-			"id": "hops:21383198-2092-42b9-88b9-95eba5d33f6e",
+			"id": "21383198-2092-42b9-88b9-95eba5d33f6e",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -11978,7 +11978,7 @@
 			"notes": "Juniper, Orange, Wild garlic, Pear"
 		},
 		{
-			"id": "hops:ec97a8a6-8a5a-4393-b68a-2792de1c834d",
+			"id": "ec97a8a6-8a5a-4393-b68a-2792de1c834d",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -12018,7 +12018,7 @@
 			"notes": "Wild garlic, Aniseed, Gooseberry, Incense, Pepper"
 		},
 		{
-			"id": "hops:f4028503-670b-48f4-a928-644e8fa663ba",
+			"id": "f4028503-670b-48f4-a928-644e8fa663ba",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -12059,7 +12059,7 @@
 			"notes": "Curry, Celeriac, Green tea, Hay"
 		},
 		{
-			"id": "hops:888c2141-2efb-40d0-9b05-9681e869802f",
+			"id": "888c2141-2efb-40d0-9b05-9681e869802f",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -12095,7 +12095,7 @@
 			"notes": "Fennel, Lavender, Citrus"
 		},
 		{
-			"id": "hops:e13976d7-b672-415a-a943-b1289433886b",
+			"id": "e13976d7-b672-415a-a943-b1289433886b",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -12137,7 +12137,7 @@
 			"notes": "Citrus, Black tea, Melissa, Marjoram"
 		},
 		{
-			"id": "hops:dd388703-bfaa-4c6e-92c0-5e22adf9cf88",
+			"id": "dd388703-bfaa-4c6e-92c0-5e22adf9cf88",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -12177,7 +12177,7 @@
 			"notes": "Pink Grapefruit, Pine, Resin, Dried Roses"
 		},
 		{
-			"id": "hops:69f4cdbf-6a5e-4b3a-97c0-dd5d13455fdc",
+			"id": "69f4cdbf-6a5e-4b3a-97c0-dd5d13455fdc",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -12218,7 +12218,7 @@
 			"notes": "Citrus, Lavender, Bergamot oil, Sage, Melissa"
 		},
 		{
-			"id": "hops:7be83a9d-484b-4e6b-9c93-09f0fefa9f89",
+			"id": "7be83a9d-484b-4e6b-9c93-09f0fefa9f89",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -12259,7 +12259,7 @@
 			"notes": "Lemon tea, Curry, Dill, Juniper, Floral"
 		},
 		{
-			"id": "hops:a758f607-eee8-4011-a66e-8cc2601dfd52",
+			"id": "a758f607-eee8-4011-a66e-8cc2601dfd52",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -12299,7 +12299,7 @@
 			"notes": "Gooseberry, Celeriac, Grapefruit, Pineapple, Peach"
 		},
 		{
-			"id": "hops:cb67a96c-2ee0-4f6d-a6af-560b71c083c1",
+			"id": "cb67a96c-2ee0-4f6d-a6af-560b71c083c1",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -12341,7 +12341,7 @@
 			"notes": "Bergamot, Honey, Woody, Camomile tea, Spicy"
 		},
 		{
-			"id": "hops:dd223ce1-dc7b-4466-9444-168c9b6daa42",
+			"id": "dd223ce1-dc7b-4466-9444-168c9b6daa42",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -12381,7 +12381,7 @@
 			"origin": "United States"
 		},
 		{
-			"id": "hops:b2aa900d-8b7a-4244-a7a5-9e3dedbd3063",
+			"id": "b2aa900d-8b7a-4244-a7a5-9e3dedbd3063",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -12421,7 +12421,7 @@
 			"notes": "Banana, Gingerbread, Cognac"
 		},
 		{
-			"id": "hops:2f476df5-8824-445f-8898-36abfc99e769",
+			"id": "2f476df5-8824-445f-8898-36abfc99e769",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -12463,7 +12463,7 @@
 			"notes": "Raspberry, Peach, Orange, Passion fruit, Chocolate"
 		},
 		{
-			"id": "hops:c62a9f2c-dea9-4aa7-9a38-8fa000c5a9bf",
+			"id": "c62a9f2c-dea9-4aa7-9a38-8fa000c5a9bf",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -12504,7 +12504,7 @@
 			"notes": "Cognac, Lychee, Rose hip, Lavender, Leather"
 		},
 		{
-			"id": "hops:6d4e4d97-e22d-4ef1-ac9e-b392b2e94f39",
+			"id": "6d4e4d97-e22d-4ef1-ac9e-b392b2e94f39",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -12546,7 +12546,7 @@
 			"notes": "Aniseed, Blackberry, Liquorice, Citrus fruits, Bergamot"
 		},
 		{
-			"id": "hops:349e038b-89e2-4f11-948f-edbbe1513b1a",
+			"id": "349e038b-89e2-4f11-948f-edbbe1513b1a",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -12586,7 +12586,7 @@
 			"notes": "Blackberry, Bergamot, Gingerbread, Lemon, Watermelon"
 		},
 		{
-			"id": "hops:c7ccd90c-1838-46cb-a414-228360bd798a",
+			"id": "c7ccd90c-1838-46cb-a414-228360bd798a",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -12627,7 +12627,7 @@
 			"notes": "Honey, Tarragon, Lemon tea, Lemon cake, Fennel"
 		},
 		{
-			"id": "hops:0bc311de-4b7d-411c-b919-830e6f7e7900",
+			"id": "0bc311de-4b7d-411c-b919-830e6f7e7900",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -12667,7 +12667,7 @@
 			"notes": "Earth, Pepper, Plum, Resin"
 		},
 		{
-			"id": "hops:b0b1f282-0c5a-473e-bd06-58011071f315",
+			"id": "b0b1f282-0c5a-473e-bd06-58011071f315",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -12708,7 +12708,7 @@
 			"notes": "Peach, Blackberries, Blueberries, Cassis, Aniseed"
 		},
 		{
-			"id": "hops:d758e165-d5b8-457d-8524-66bf238ca279",
+			"id": "d758e165-d5b8-457d-8524-66bf238ca279",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -12748,7 +12748,7 @@
 			"notes": "Fig, Banana, Liquorice, Apricot"
 		},
 		{
-			"id": "hops:6882f325-9a11-4311-85ee-7977dd6939b9",
+			"id": "6882f325-9a11-4311-85ee-7977dd6939b9",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -12785,7 +12785,7 @@
 			"notes": "Chocolate, Bergamot, Straw, Gerbera, Wild garlic"
 		},
 		{
-			"id": "hops:fb471782-1745-4827-ae49-e1aa5c7e3bb5",
+			"id": "fb471782-1745-4827-ae49-e1aa5c7e3bb5",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -12827,7 +12827,7 @@
 			"notes": "Banana, Creamy, Green tea, Apricot, Caramel"
 		},
 		{
-			"id": "hops:c769b3d9-e124-4b99-99d9-e79d018a2451",
+			"id": "c769b3d9-e124-4b99-99d9-e79d018a2451",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -12868,7 +12868,7 @@
 			"notes": "Chocolate, Orange, Gingerbread, Barrique, Tobacco"
 		},
 		{
-			"id": "hops:6ba29090-8b9b-458d-9d2f-500873860c55",
+			"id": "6ba29090-8b9b-458d-9d2f-500873860c55",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -12908,7 +12908,7 @@
 			"notes": "Citrus, Woody, Camomile blossom, Kitchenherbs, Lemon cake"
 		},
 		{
-			"id": "hops:776e4b06-5bb2-4fc0-a8fb-06af1ca4cbfb",
+			"id": "776e4b06-5bb2-4fc0-a8fb-06af1ca4cbfb",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -12948,7 +12948,7 @@
 			"notes": "Strawberry, Lemon tea, Apricot, Creamy, Grapefruit"
 		},
 		{
-			"id": "hops:0661d5da-6921-4b10-869f-811c98bc164d",
+			"id": "0661d5da-6921-4b10-869f-811c98bc164d",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -12990,7 +12990,7 @@
 			"notes": "Floral, Bergamot, Lily of the Valley, Cognac, Chocolate"
 		},
 		{
-			"id": "hops:e2736cb2-99fd-4c31-ac75-e23fd72f74c4",
+			"id": "e2736cb2-99fd-4c31-ac75-e23fd72f74c4",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -13032,7 +13032,7 @@
 			"notes": "Tea, Barrique, Ripe banana, Tonka beans, Woodruff"
 		},
 		{
-			"id": "hops:ff1aaf4f-bf6a-41a0-8e92-c3a425440b80",
+			"id": "ff1aaf4f-bf6a-41a0-8e92-c3a425440b80",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -13073,7 +13073,7 @@
 			"notes": "Strawberry, Pear, Caramel, Passion fruit, Orange"
 		},
 		{
-			"id": "hops:932d8db7-28b3-4ed7-865b-692babc6788a",
+			"id": "932d8db7-28b3-4ed7-865b-692babc6788a",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -13115,7 +13115,7 @@
 			"notes": "Passion fruit, Pineapple, Quince, Jasmine, Tangerine"
 		},
 		{
-			"id": "hops:7a2115cc-78d3-466a-8825-72d05235e8a2",
+			"id": "7a2115cc-78d3-466a-8825-72d05235e8a2",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -13156,7 +13156,7 @@
 			"notes": "Lemon tea, Peppermint, Lemon grass"
 		},
 		{
-			"id": "hops:ff42103e-c0f7-40ca-89c3-a5ccb2712dfa",
+			"id": "ff42103e-c0f7-40ca-89c3-a5ccb2712dfa",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -13197,7 +13197,7 @@
 			"notes": "Tobacco, Elderberry, Caramel, Vanilla, Cognac"
 		},
 		{
-			"id": "hops:ba91ea89-865c-4a32-a108-0aa948775439",
+			"id": "ba91ea89-865c-4a32-a108-0aa948775439",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -13236,7 +13236,7 @@
 			"notes": "Strawberry, Passion fruit, Cherry, Red currant, Plum"
 		},
 		{
-			"id": "hops:c7200d7a-182e-4322-9d1a-6e9995fd49f7",
+			"id": "c7200d7a-182e-4322-9d1a-6e9995fd49f7",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -13278,7 +13278,7 @@
 			"notes": "Passion fruit, Lemon, Raspberry, Blackberry, Camomile tea"
 		},
 		{
-			"id": "hops:0159e3dc-a6ae-4457-bd24-4eb0a0b60406",
+			"id": "0159e3dc-a6ae-4457-bd24-4eb0a0b60406",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -13320,7 +13320,7 @@
 			"notes": "Wild strawberry, Geranium, Peach iced tea, Aniseed"
 		},
 		{
-			"id": "hops:0226e425-2ee9-46d3-9c3d-b15109d98c86",
+			"id": "0226e425-2ee9-46d3-9c3d-b15109d98c86",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -13360,7 +13360,7 @@
 			"notes": "Lemon, Redcurrant, Melissa, Spices"
 		},
 		{
-			"id": "hops:40d0ad5b-ef63-4764-b86c-18c5a0d13a40",
+			"id": "40d0ad5b-ef63-4764-b86c-18c5a0d13a40",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -13401,7 +13401,7 @@
 			"notes": "Strawberry, Citrus, Blackberry, Lychee, Toffee"
 		},
 		{
-			"id": "hops:d666e93e-3eb2-40e6-9437-b261880a0e32",
+			"id": "d666e93e-3eb2-40e6-9437-b261880a0e32",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -13440,7 +13440,7 @@
 			"origin": "United States"
 		},
 		{
-			"id": "hops:2e19e7cb-80eb-487d-b185-5acc7bac6d57",
+			"id": "2e19e7cb-80eb-487d-b185-5acc7bac6d57",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -13480,7 +13480,7 @@
 			"notes": "Apricot, Orange, Passion fruit, Honey, Yoghurt"
 		},
 		{
-			"id": "hops:4d93ec8c-af71-43ed-8684-79c104572a2d",
+			"id": "4d93ec8c-af71-43ed-8684-79c104572a2d",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
@@ -13520,7 +13520,7 @@
 			"notes": "Lemon, Lemon blam, Gooseberry, Oregano, Elderflower"
 		},
 		{
-			"id": "hops:d2141755-d941-41ee-90c6-21b5b5cec47b",
+			"id": "d2141755-d941-41ee-90c6-21b5b5cec47b",
 			"inventory": {},
 			"oilContent": {
 				"polyphenols": {
