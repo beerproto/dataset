@@ -38,9 +38,9 @@ type Hop struct {
 	Description          string   `csv:"Description"`
 }
 
-func (s *Hop) ToVarietyInformation() *beerproto.VarietyInformation {
+func (s *Hop) ToVarietyInformation(partition string) *beerproto.VarietyInformation {
 	return &beerproto.VarietyInformation{
-		Id:        s.ID,
+		Id:        partition + s.ID,
 		Inventory: &beerproto.HopInventoryType{},
 		Type:      s.ToType(),
 		OilContent: s.ToOilContentType(),

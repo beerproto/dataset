@@ -12,7 +12,7 @@ import (
 	"github.com/golang/protobuf/jsonpb"
 )
 
-func ParseHops(hopItemsPath string, output Output, file string) {
+func ParseHops(hopItemsPath string, output Output, file, partition string) {
 	fmt.Println(fmt.Sprintf("Step 1/1 : Loading %s", hopItemsPath))
 
 	hopsItemsFile, err := loadFile(hopItemsPath)
@@ -29,9 +29,13 @@ func ParseHops(hopItemsPath string, output Output, file string) {
 
 	fmt.Println("Successfully parased")
 
+	if partition != "" {
+		partition = partition + ":"
+	}
+
 	var arr []*beerproto.VarietyInformation
 	for _, e := range hops {
-		arr = append(arr, e.ToVarietyInformation())
+		arr = append(arr, e.ToVarietyInformation(partition))
 	}
 
 	recipe := &beerproto.Recipe{

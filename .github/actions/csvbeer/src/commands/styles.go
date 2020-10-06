@@ -23,7 +23,7 @@ const (
 	FILE = Output("file")
 )
 
-func ParseStyle(stylePath string, output Output, file string) {
+func ParseStyle(stylePath string, output Output, file, partition string) {
 	fmt.Println(fmt.Sprintf("Step 1/1 : Loading %s", stylePath))
 
 	stylesFile, err := loadFile(stylePath)
@@ -40,9 +40,13 @@ func ParseStyle(stylePath string, output Output, file string) {
 
 	fmt.Println("Successfully parased")
 
+	if partition != "" {
+		partition = partition + ":"
+	}
+
 	var arr []*beerproto.StyleType
 	for _, style := range styles {
-		arr = append(arr, style.ToStyleType())
+		arr = append(arr, style.ToStyleType(partition))
 	}
 
 	recipe := &beerproto.Recipe{
