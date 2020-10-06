@@ -37,7 +37,7 @@ jobs:
         with:
           command: 'hops'
           inputFile: '/github/workspace/hops/hops.csv'
-          outputFile: '/github/workspace/partition/hops.json'
+          outputFile: '/github/workspace/partitioned/hops.json'
           partition: 'hops'
 
       - name: equipmentsPartition
@@ -46,7 +46,7 @@ jobs:
           command: 'equipments'
           inputFile: '/github/workspace/equipment/equipmentItems.csv'
           index: '/github/workspace/equipment/equipment.csv'
-          outputFile: '/github/workspace/partition/equipment.json'
+          outputFile: '/github/workspace/partitioned/equipment.json'
           partition: 'equipments'
 
       - name: stylesPartition
@@ -54,7 +54,7 @@ jobs:
         with:
           command: 'styles'
           inputFile: '/github/workspace/styles/styles.csv'
-          outputFile: '/github/workspace/partition/styles.json'
+          outputFile: '/github/workspace/partitioned/styles.json'
           partition: 'styles'
 
       - name: Git Commit on Workflow
