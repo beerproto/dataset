@@ -20,13 +20,13 @@ var (
 	indexEFilePtr     = equipmentsCommand.StringP("index", "i", "equipments.csv", "Name of the index file to identify 'Equipment ID's")
 	outputEPtr        = equipmentsCommand.StringP("output", "o", "tty", "Output processed from CSV to (file, tty)")
 	outputFileEPtr    = equipmentsCommand.String("file", "f", "File output name")
-	partitionEFilePtr     = stylesCommand.StringP("partition", "p", "", "Partition key for id")
+	partitionEFilePtr     = equipmentsCommand.StringP("partition", "p", "", "Partition key for id")
 
 	hopsCommand    = flag.NewFlagSet("hops", flag.ExitOnError)
 	outputHPtr     = hopsCommand.StringP("output", "o", "tty", "Output processed from CSV to (file, tty)")
 	outputFileHPtr = hopsCommand.String("file", "f", "File output name")
 	indexHFilePtr     = hopsCommand.String("index", "i", "")
-	partitionHFilePtr     = stylesCommand.StringP("partition", "p", "", "Partition key for id")
+	partitionHFilePtr     = hopsCommand.StringP("partition", "p", "", "Partition key for id")
 
 )
 
