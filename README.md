@@ -1,3 +1,3 @@
-# Data set
+# Dataset
 
-A collection of common data sets used for brewing.
+A collection of common datasets used for brewing.
