@@ -2,23 +2,23 @@
 name: 'csvbeer'
 description: 'Generate BeerProto canonical encoded JSON from CSV'
 inputs:
-  command:  # id of input
+  command:
     description: 'Command to run, (hops, equipments, styles)'
     required: true
     default: 'hops'
-  inputFile:  # id of input
+  inputFile:
     description: 'File for the command to run, (e.g. hops.csv, equipments.csv, styles.csv)'
     required: true
     default: 'hops.csv'
-  output:  # id of input
+  output:
     description: 'Output processed from CSV to (file, tty)'
     required: false
     default: 'file'
-  outputFile:  # id of input
+  outputFile:
     description: 'File output name'
     required: false
     default: 'hops.json'
-  index: # id of input
+  index:
       description: 'Name of the index file to identify (Equipment IDs)'
       required: false
       default: ''

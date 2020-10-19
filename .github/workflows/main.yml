@@ -31,6 +31,15 @@ jobs:
           command: 'styles'
           inputFile: '/github/workspace/styles/styles.csv'
           outputFile: '/github/workspace/json/styles.json'
+
+      - name: mash
+        uses: ./.github/actions/csvbeer
+        with:
+          command: 'mash'
+          inputFile: '/github/workspace/mash/mashSteps.csv'
+          index: '/github/workspace/mash/mash.csv'
+          outputFile: '/github/workspace/json/mash.json'
+
       - name: Git Commit on Workflow
         uses: matheusalbino/git-commit@v1.0.1
         with:

@@ -12,53 +12,53 @@ import (
 	"github.com/golang/protobuf/jsonpb"
 )
 
-func ParseEquipments(equipmentItemsPath, indexPath string, output Output, file string) {
-	fmt.Println(fmt.Sprintf("Step 1/2 : Loading %s", indexPath))
+func ParseMash(mashPath, mashStepPath string, output Output, file string) {
+	fmt.Println(fmt.Sprintf("Step 1/2 : Loading %s", mashStepPath))
 
-	indexFile, err := loadFile(indexPath)
+	indexFile, err := loadFile(mashStepPath)
 	if err != nil {
-		panic(fmt.Errorf("failed to load file %v: %w", indexPath, err))
+		panic(fmt.Errorf("failed to load file %v: %w", mashStepPath, err))
 	}
 	defer indexFile.Close()
 
-	var equipments []*csv.Equipment
+	var mashes []*csv.Mash
 
-	if err := gocsv.UnmarshalFile(indexFile, &equipments); err != nil {
-		panic(fmt.Errorf("%v does not match Index %v format: %w", indexPath, CsvExt, err))
+	if err := gocsv.UnmarshalFile(indexFile, &mashes); err != nil {
+		panic(fmt.Errorf("%v does not match Index %v format: %w", mashStepPath, CsvExt, err))
 	}
 
-	fmt.Println(fmt.Sprintf("Step 2/2 : Loading %s", equipmentItemsPath))
+	fmt.Println(fmt.Sprintf("Step 2/2 : Loading %s", mashPath))
 
-	equipmentItemsFile, err := loadFile(equipmentItemsPath)
+	mashStepsFile, err := loadFile(mashPath)
 	if err != nil {
-		panic(fmt.Errorf("failed to load file %v: %w", equipmentItemsPath, err))
+		panic(fmt.Errorf("failed to load file %v: %w", mashPath, err))
 	}
-	defer equipmentItemsFile.Close()
+	defer mashStepsFile.Close()
 
-	var equipmentItems []*csv.EquipmentItems
+	var mashSteps []*csv.MashStep
 
-	if err := gocsv.UnmarshalFile(equipmentItemsFile, &equipmentItems); err != nil {
-		panic(fmt.Errorf("%v does not match EquipmentItems %v format: %w", equipmentItemsPath, CsvExt, err))
+	if err := gocsv.UnmarshalFile(mashStepsFile, &mashSteps); err != nil {
+		panic(fmt.Errorf("%v does not match MashSteps %v format: %w", mashPath, CsvExt, err))
 	}
 
 	fmt.Println("Successfully parased")
 
-	items := map[string][]*beerproto.EquipmentItemType{}
-	for _, item := range equipmentItems {
+	items := map[string][]*beerproto.MashStepType{}
+	for _, item := range mashSteps {
 		arr := items[item.EquipmentID]
-		arr = append(arr, item.ToEquipmentItems())
+		arr = append(arr, item.ToMashStepType())
 		items[item.EquipmentID] = arr
 	}
 
-	var arr []*beerproto.EquipmentType
-	for _, e := range equipments {
+	var arr []*beerproto.MashProcedureType
+	for _, e := range mashes {
 		if equipmentItems, ok := items[e.ID]; ok {
-			arr = append(arr, e.ToEquipmentType(equipmentItems))
+			arr = append(arr, e.ToMashProcedureType(equipmentItems))
 		}
 	}
 
 	recipe := &beerproto.Recipe{
-		Equipments: arr,
+		Mashes: arr,
 	}
 
 	var w io.Writer
@@ -78,7 +78,7 @@ func ParseEquipments(equipmentItemsPath, indexPath string, output Output, file s
 			w = f
 
 		} else {
-			jsonPath := equipmentItemsPath[0:len(equipmentItemsPath)-len(CsvExt)] + JsonExt
+			jsonPath := mashPath[0:len(mashPath)-len(CsvExt)] + JsonExt
 			f, err := os.Create(jsonPath)
 			if err != nil {
 				panic(fmt.Errorf("failed to create file %s: %w", jsonPath, err))

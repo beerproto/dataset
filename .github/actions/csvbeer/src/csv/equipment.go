@@ -91,3 +91,4 @@ func (s *EquipmentItems) toVolumeType(value *float64) *beerproto.VolumeType {
 		Value: *value,
 	}
 }
+

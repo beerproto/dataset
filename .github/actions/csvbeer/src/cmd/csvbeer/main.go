@@ -24,6 +24,12 @@ var (
 	outputHPtr     = hopsCommand.StringP("output", "o", "tty", "Output processed from CSV to (file, tty)")
 	outputFileHPtr = hopsCommand.String("file", "f", "File output name")
 	indexHFilePtr     = hopsCommand.String("index", "i", "")
+
+
+	mashCommand    = flag.NewFlagSet("mash", flag.ExitOnError)
+	outputMashPtr     = mashCommand.StringP("output", "o", "tty", "Output processed from CSV to (file, tty)")
+	outputFileMashPtr = mashCommand.String("file", "f", "File output name")
+	indexMashFilePtr     = mashCommand.String("index", "i", "")
 )
 
 func main() {
@@ -44,6 +50,8 @@ func main() {
 		err = equipmentsCommand.Parse(os.Args[2:])
 	case "hops":
 		err = hopsCommand.Parse(os.Args[2:])
+	case "mash":
+		err = mashCommand.Parse(os.Args[2:])
 	default:
 		flag.PrintDefaults()
 		os.Exit(1)
@@ -89,5 +97,21 @@ func main() {
 		}
 
 		commands.ParseHops(hopsCommand.Arg(0), output, *outputFileHPtr)
+	}
+
+	if mashCommand.Parsed() {
+		if *indexMashFilePtr == "" {
+			mashCommand.PrintDefaults()
+			os.Exit(1)
+		}
+
+		output := commands.Output(strings.ToLower(*outputMashPtr))
+		outputChoices := map[commands.Output]bool{commands.FILE: true, commands.TTY: true}
+		if _, validChoice := outputChoices[output]; !validChoice {
+			mashCommand.PrintDefaults()
+			os.Exit(1)
+		}
+
+		commands.ParseMash(mashCommand.Arg(0), *indexMashFilePtr, output, *outputFileMashPtr)
 	}
 }

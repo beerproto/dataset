@@ -48,3 +48,21 @@ services:
           "--file",
           "/json/styles.json",
       ]
+  mash:
+    build:
+      context: ".github/actions/csvbeer"
+    volumes:
+      - "./mash/mashSteps.csv:/data/mashSteps.csv"
+      - "./mash/mash.csv:/data/mash.csv"
+      - "./json/:/json"
+    command:
+      [
+          "mash",
+          "/data/mashSteps.csv",
+          "--index",
+          "/data/mash.csv",
+          "--output",
+          "file",
+          "--file",
+          "/json/mash.json",
+      ]

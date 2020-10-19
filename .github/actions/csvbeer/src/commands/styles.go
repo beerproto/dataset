@@ -110,7 +110,13 @@ func indexToMap(indexs []*csv.Index) map[int]string {
 }
 
 func loadFile(filePath string) (*os.File, error) {
-	_, err := os.Stat(filePath)
+
+	filePath, err := filepath.Abs(filePath)
+	if err != nil {
+		return nil, fmt.Errorf("file not found %v: %w", filePath, err)
+	}
+
+	_, err = os.Stat(filePath)
 	if err != nil {
 		return nil, fmt.Errorf("file not found %v: %w", filePath, err)
 	}
