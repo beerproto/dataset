@@ -45,7 +45,7 @@ jobs:
         with:
           command: 'fermentation'
           inputFile: '/github/workspace/fermentation/fermentationSteps.csv'
-          index: '/github/workspace/mash/fermentation.csv'
+          index: '/github/workspace/fermentation/fermentation.csv'
           outputFile: '/github/workspace/json/fermentation.json'
 
       - name: Git Commit on Workflow
