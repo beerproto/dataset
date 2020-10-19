@@ -40,6 +40,14 @@ jobs:
           index: '/github/workspace/mash/mash.csv'
           outputFile: '/github/workspace/json/mash.json'
 
+      - name: fermentation
+        uses: ./.github/actions/csvbeer
+        with:
+          command: 'fermentation'
+          inputFile: '/github/workspace/fermentation/fermentationSteps.csv'
+          index: '/github/workspace/mash/fermentation.csv'
+          outputFile: '/github/workspace/json/fermentation.json'
+
       - name: Git Commit on Workflow
         uses: matheusalbino/git-commit@v1.0.1
         with:

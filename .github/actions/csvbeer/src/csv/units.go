@@ -6,6 +6,12 @@ import (
 
 func toTemperature(value *float64) *beerproto.TemperatureType {
 
+	if value == nil {
+		return &beerproto.TemperatureType{
+			Unit: beerproto.TemperatureUnitType_C,
+		}
+	}
+
 	return &beerproto.TemperatureType{
 		Unit: beerproto.TemperatureUnitType_C,
 		Value: *value,
@@ -14,9 +20,15 @@ func toTemperature(value *float64) *beerproto.TemperatureType {
 
 
 func toTimeType(value *int64) *beerproto.TimeType {
-
 	return &beerproto.TimeType{
 		Unit: beerproto.TimeType_MIN,
+		Value: *value,
+	}
+}
+
+func toTimeTypeDays(value *int64) *beerproto.TimeType {
+	return &beerproto.TimeType{
+		Unit: beerproto.TimeType_DAY,
 		Value: *value,
 	}
 }

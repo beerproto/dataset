@@ -30,6 +30,11 @@ var (
 	outputMashPtr     = mashCommand.StringP("output", "o", "tty", "Output processed from CSV to (file, tty)")
 	outputFileMashPtr = mashCommand.String("file", "f", "File output name")
 	indexMashFilePtr     = mashCommand.String("index", "i", "")
+
+	fermentationCommand    = flag.NewFlagSet("mash", flag.ExitOnError)
+	outputFermentationPtr     = fermentationCommand.StringP("output", "o", "tty", "Output processed from CSV to (file, tty)")
+	outputFileFermentationPtr = fermentationCommand.String("file", "f", "File output name")
+	indexFermentationFilePtr     = fermentationCommand.String("index", "i", "")
 )
 
 func main() {
@@ -52,6 +57,8 @@ func main() {
 		err = hopsCommand.Parse(os.Args[2:])
 	case "mash":
 		err = mashCommand.Parse(os.Args[2:])
+	case "fermentation":
+		err = fermentationCommand.Parse(os.Args[2:])
 	default:
 		flag.PrintDefaults()
 		os.Exit(1)
@@ -113,5 +120,21 @@ func main() {
 		}
 
 		commands.ParseMash(mashCommand.Arg(0), *indexMashFilePtr, output, *outputFileMashPtr)
+	}
+
+	if fermentationCommand.Parsed() {
+		if *indexFermentationFilePtr == "" {
+			fermentationCommand.PrintDefaults()
+			os.Exit(1)
+		}
+
+		output := commands.Output(strings.ToLower(*outputFermentationPtr))
+		outputChoices := map[commands.Output]bool{commands.FILE: true, commands.TTY: true}
+		if _, validChoice := outputChoices[output]; !validChoice {
+			fermentationCommand.PrintDefaults()
+			os.Exit(1)
+		}
+
+		commands.ParseFermentation(fermentationCommand.Arg(0), *indexFermentationFilePtr, output, *outputFileFermentationPtr)
 	}
 }

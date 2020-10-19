@@ -66,3 +66,21 @@ services:
           "--file",
           "/json/mash.json",
       ]
+  fermentation:
+    build:
+      context: ".github/actions/csvbeer"
+    volumes:
+      - "./fermentation/fermentationSteps.csv:/data/fermentationSteps.csv"
+      - "./fermentation/fermentation.csv:/data/fermentation.csv"
+      - "./json/:/json"
+    command:
+      [
+          "fermentation",
+          "/data/fermentationSteps.csv",
+          "--index",
+          "/data/fermentation.csv",
+          "--output",
+          "file",
+          "--file",
+          "/json/fermentation.json",
+      ]
