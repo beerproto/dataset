@@ -84,3 +84,18 @@ services:
           "--file",
           "/json/fermentation.json",
       ]
+  water:
+    build:
+      context: ".github/actions/csvbeer"
+    volumes:
+      - "./water/profiles.csv:/data/profiles.csv"
+      - "./json/:/json"
+    command:
+      [
+          "water",
+          "/data/profiles.csv",
+          "--output",
+          "file",
+          "--file",
+          "/json/water.json",
+      ]

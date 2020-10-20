@@ -48,6 +48,13 @@ jobs:
           index: '/github/workspace/fermentation/fermentation.csv'
           outputFile: '/github/workspace/json/fermentation.json'
 
+      - name: water
+        uses: ./.github/actions/csvbeer
+        with:
+          command: 'water'
+          inputFile: '/github/workspace/water/profiles.csv'
+          outputFile: '/github/workspace/json/water.json'
+          
       - name: Git Commit on Workflow
         uses: matheusalbino/git-commit@v1.0.1
         with:

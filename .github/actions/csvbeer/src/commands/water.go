@@ -11,31 +11,31 @@ import (
 	"os"
 )
 
-func ParseStyle(stylePath string, output Output, file string) {
-	fmt.Println(fmt.Sprintf("Step 1/1 : Loading %s", stylePath))
+func ParseWater(waterPath string, output Output, file string) {
+	fmt.Println(fmt.Sprintf("Step 1/1 : Loading %s", waterPath))
 
-	stylesFile, err := loadFile(stylePath)
+	waterFile, err := loadFile(waterPath)
 	if err != nil {
-		panic(fmt.Errorf("failed to load file %v: %w", stylePath, err))
+		panic(fmt.Errorf("failed to load file %v: %w", waterPath, err))
 	}
-	defer stylesFile.Close()
+	defer waterFile.Close()
 
-	var styles []*csv.Style
+	var styles []*csv.Water
 
-	if err := gocsv.UnmarshalFile(stylesFile, &styles); err != nil {
-		panic(fmt.Errorf("%v does not match Style %v format: %w", stylePath, CsvExt, err))
+	if err := gocsv.UnmarshalFile(waterFile, &styles); err != nil {
+		panic(fmt.Errorf("%v does not match Style %v format: %w", waterPath, CsvExt, err))
 	}
 
 	fmt.Println("Successfully parased")
 
 
-	var arr []*beerproto.StyleType
+	var arr []*beerproto.WaterBase
 	for _, style := range styles {
-		arr = append(arr, style.ToStyleType())
+		arr = append(arr, style.ToWaterBase())
 	}
 
 	recipe := &beerproto.Recipe{
-		Styles: arr,
+		Profiles: arr,
 	}
 
 	var w io.Writer
@@ -55,7 +55,7 @@ func ParseStyle(stylePath string, output Output, file string) {
 			w = f
 
 		} else {
-			jsonPath := stylePath[0:len(stylePath)-len(CsvExt)] + JsonExt
+			jsonPath := waterPath[0:len(waterPath)-len(CsvExt)] + JsonExt
 			f, err := os.Create(jsonPath)
 			if err != nil {
 				panic(fmt.Errorf("failed to create file %s: %w", jsonPath, err))
@@ -86,13 +86,4 @@ func ParseStyle(stylePath string, output Output, file string) {
 	}
 
 	fmt.Println("\nDone")
-}
-
-func indexToMap(indexs []*csv.Index) map[int]string {
-	indexMap := map[int]string{}
-	for _, i := range indexs {
-		indexMap[i.ID] = i.Style
-	}
-
-	return indexMap
 }

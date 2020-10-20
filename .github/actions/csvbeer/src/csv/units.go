@@ -32,3 +32,14 @@ func toTimeTypeDays(value *int64) *beerproto.TimeType {
 		Value: *value,
 	}
 }
+
+func toConcentrationType(value *float64) *beerproto.ConcentrationType {
+	if value == nil {
+		return nil
+	}
+
+	return &beerproto.ConcentrationType{
+		Unit: beerproto.ConcentrationUnitType_MGL,
+		Value: *value,
+	}
+}

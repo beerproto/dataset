@@ -1,0 +1,647 @@
+{
+	"profiles": [
+		{
+			"id": "c1063779-1393-4047-9337-c3f99c76f6fb",
+			"calcium": {
+				"value": 80,
+				"unit": "MGL"
+			},
+			"nitrite": {
+				"unit": "MGL"
+			},
+			"chloride": {
+				"value": 75,
+				"unit": "MGL"
+			},
+			"name": "Balanced Profile",
+			"potassium": {
+				"unit": "MGL"
+			},
+			"iron": {
+				"unit": "MGL"
+			},
+			"flouride": {
+				"unit": "MGL"
+			},
+			"sulfate": {
+				"value": 80,
+				"unit": "MGL"
+			},
+			"magnesium": {
+				"value": 5,
+				"unit": "MGL"
+			},
+			"bicarbonate": {
+				"value": 100,
+				"unit": "MGL"
+			},
+			"nitrate": {
+				"unit": "MGL"
+			},
+			"sodium": {
+				"value": 25,
+				"unit": "MGL"
+			}
+		},
+		{
+			"id": "a211cd97-9e48-4ca2-bbe3-c77dea4519f9",
+			"calcium": {
+				"value": 150,
+				"unit": "MGL"
+			},
+			"nitrite": {
+				"unit": "MGL"
+			},
+			"chloride": {
+				"value": 150,
+				"unit": "MGL"
+			},
+			"name": "Balanced Profile 2",
+			"potassium": {
+				"unit": "MGL"
+			},
+			"iron": {
+				"unit": "MGL"
+			},
+			"flouride": {
+				"unit": "MGL"
+			},
+			"sulfate": {
+				"value": 160,
+				"unit": "MGL"
+			},
+			"magnesium": {
+				"value": 10,
+				"unit": "MGL"
+			},
+			"bicarbonate": {
+				"value": 220,
+				"unit": "MGL"
+			},
+			"nitrate": {
+				"unit": "MGL"
+			},
+			"sodium": {
+				"value": 80,
+				"unit": "MGL"
+			}
+		},
+		{
+			"id": "988a1772-0992-41b3-a62e-230933f6e31e",
+			"calcium": {
+				"value": 60,
+				"unit": "MGL"
+			},
+			"nitrite": {
+				"unit": "MGL"
+			},
+			"chloride": {
+				"value": 95,
+				"unit": "MGL"
+			},
+			"name": "Light colored and malty",
+			"potassium": {
+				"unit": "MGL"
+			},
+			"iron": {
+				"unit": "MGL"
+			},
+			"flouride": {
+				"unit": "MGL"
+			},
+			"sulfate": {
+				"value": 55,
+				"unit": "MGL"
+			},
+			"magnesium": {
+				"value": 5,
+				"unit": "MGL"
+			},
+			"bicarbonate": {
+				"unit": "MGL"
+			},
+			"nitrate": {
+				"unit": "MGL"
+			},
+			"sodium": {
+				"value": 10,
+				"unit": "MGL"
+			}
+		},
+		{
+			"id": "1f3c02f8-98c2-47b3-8361-b9cd7d46aa31",
+			"calcium": {
+				"value": 75,
+				"unit": "MGL"
+			},
+			"nitrite": {
+				"unit": "MGL"
+			},
+			"chloride": {
+				"value": 50,
+				"unit": "MGL"
+			},
+			"name": "Light colored and hoppy",
+			"potassium": {
+				"unit": "MGL"
+			},
+			"iron": {
+				"unit": "MGL"
+			},
+			"flouride": {
+				"unit": "MGL"
+			},
+			"sulfate": {
+				"value": 150,
+				"unit": "MGL"
+			},
+			"magnesium": {
+				"value": 5,
+				"unit": "MGL"
+			},
+			"bicarbonate": {
+				"unit": "MGL"
+			},
+			"nitrate": {
+				"unit": "MGL"
+			},
+			"sodium": {
+				"value": 10,
+				"unit": "MGL"
+			}
+		},
+		{
+			"id": "e392053c-3757-4b49-9145-74feffeed5be",
+			"calcium": {
+				"value": 270,
+				"unit": "MGL"
+			},
+			"nitrite": {
+				"unit": "MGL"
+			},
+			"chloride": {
+				"value": 85,
+				"unit": "MGL"
+			},
+			"name": "Burton on Trent (historic)",
+			"potassium": {
+				"unit": "MGL"
+			},
+			"iron": {
+				"unit": "MGL"
+			},
+			"flouride": {
+				"unit": "MGL"
+			},
+			"sulfate": {
+				"value": 720,
+				"unit": "MGL"
+			},
+			"magnesium": {
+				"value": 41,
+				"unit": "MGL"
+			},
+			"bicarbonate": {
+				"value": 270,
+				"unit": "MGL"
+			},
+			"nitrate": {
+				"unit": "MGL"
+			},
+			"sodium": {
+				"value": 113,
+				"unit": "MGL"
+			}
+		},
+		{
+			"id": "c206275c-59d6-4af7-9e09-b8a97caf0735",
+			"calcium": {
+				"value": 187,
+				"unit": "MGL"
+			},
+			"nitrite": {
+				"unit": "MGL"
+			},
+			"chloride": {
+				"value": 85,
+				"unit": "MGL"
+			},
+			"name": "Burton on Trent (historic and decarbonated)",
+			"potassium": {
+				"unit": "MGL"
+			},
+			"iron": {
+				"unit": "MGL"
+			},
+			"flouride": {
+				"unit": "MGL"
+			},
+			"sulfate": {
+				"value": 720,
+				"unit": "MGL"
+			},
+			"magnesium": {
+				"value": 41,
+				"unit": "MGL"
+			},
+			"bicarbonate": {
+				"value": 20,
+				"unit": "MGL"
+			},
+			"nitrate": {
+				"unit": "MGL"
+			},
+			"sodium": {
+				"value": 113,
+				"unit": "MGL"
+			}
+		},
+		{
+			"id": "a8fe7f7a-9e31-4b7a-86ab-2b79ec4f3499",
+			"calcium": {
+				"value": 250,
+				"unit": "MGL"
+			},
+			"nitrite": {
+				"unit": "MGL"
+			},
+			"chloride": {
+				"value": 100,
+				"unit": "MGL"
+			},
+			"name": "Dortmund (historic)",
+			"potassium": {
+				"unit": "MGL"
+			},
+			"iron": {
+				"unit": "MGL"
+			},
+			"flouride": {
+				"unit": "MGL"
+			},
+			"sulfate": {
+				"value": 300,
+				"unit": "MGL"
+			},
+			"magnesium": {
+				"value": 20,
+				"unit": "MGL"
+			},
+			"bicarbonate": {
+				"value": 340,
+				"unit": "MGL"
+			},
+			"nitrate": {
+				"unit": "MGL"
+			},
+			"sodium": {
+				"value": 10,
+				"unit": "MGL"
+			}
+		},
+		{
+			"id": "f5cfa90d-c211-4fa1-bb95-5bd06c03b5e7",
+			"calcium": {
+				"value": 155,
+				"unit": "MGL"
+			},
+			"nitrite": {
+				"unit": "MGL"
+			},
+			"chloride": {
+				"value": 100,
+				"unit": "MGL"
+			},
+			"name": "Dortmund (historic and decarbonated)",
+			"potassium": {
+				"unit": "MGL"
+			},
+			"iron": {
+				"unit": "MGL"
+			},
+			"flouride": {
+				"unit": "MGL"
+			},
+			"sulfate": {
+				"value": 300,
+				"unit": "MGL"
+			},
+			"magnesium": {
+				"value": 23,
+				"unit": "MGL"
+			},
+			"bicarbonate": {
+				"value": 53,
+				"unit": "MGL"
+			},
+			"nitrate": {
+				"unit": "MGL"
+			},
+			"sodium": {
+				"value": 10,
+				"unit": "MGL"
+			}
+		},
+		{
+			"id": "0b1b59e8-be51-431b-9930-0d763ee40bdc",
+			"calcium": {
+				"value": 110,
+				"unit": "MGL"
+			},
+			"nitrite": {
+				"unit": "MGL"
+			},
+			"chloride": {
+				"value": 19,
+				"unit": "MGL"
+			},
+			"name": "Dublin (Dry Stout)",
+			"potassium": {
+				"unit": "MGL"
+			},
+			"iron": {
+				"unit": "MGL"
+			},
+			"flouride": {
+				"unit": "MGL"
+			},
+			"sulfate": {
+				"value": 53,
+				"unit": "MGL"
+			},
+			"magnesium": {
+				"value": 4,
+				"unit": "MGL"
+			},
+			"bicarbonate": {
+				"value": 280,
+				"unit": "MGL"
+			},
+			"nitrate": {
+				"unit": "MGL"
+			},
+			"sodium": {
+				"value": 12,
+				"unit": "MGL"
+			}
+		},
+		{
+			"id": "78c00a8b-9d4d-4542-a812-2024c4e32522",
+			"calcium": {
+				"value": 100,
+				"unit": "MGL"
+			},
+			"nitrite": {
+				"unit": "MGL"
+			},
+			"chloride": {
+				"value": 45,
+				"unit": "MGL"
+			},
+			"name": "Edinburgh (Scottish Ale)",
+			"potassium": {
+				"unit": "MGL"
+			},
+			"iron": {
+				"unit": "MGL"
+			},
+			"flouride": {
+				"unit": "MGL"
+			},
+			"sulfate": {
+				"value": 105,
+				"unit": "MGL"
+			},
+			"magnesium": {
+				"value": 18,
+				"unit": "MGL"
+			},
+			"bicarbonate": {
+				"value": 235,
+				"unit": "MGL"
+			},
+			"nitrate": {
+				"unit": "MGL"
+			},
+			"sodium": {
+				"value": 20,
+				"unit": "MGL"
+			}
+		},
+		{
+			"id": "10757524-48f7-4fb0-9e8a-d615415c9f51",
+			"calcium": {
+				"value": 100,
+				"unit": "MGL"
+			},
+			"nitrite": {
+				"unit": "MGL"
+			},
+			"chloride": {
+				"value": 60,
+				"unit": "MGL"
+			},
+			"name": "London (Porter, dark ales)",
+			"potassium": {
+				"unit": "MGL"
+			},
+			"iron": {
+				"unit": "MGL"
+			},
+			"flouride": {
+				"unit": "MGL"
+			},
+			"sulfate": {
+				"value": 50,
+				"unit": "MGL"
+			},
+			"magnesium": {
+				"value": 5,
+				"unit": "MGL"
+			},
+			"bicarbonate": {
+				"value": 265,
+				"unit": "MGL"
+			},
+			"nitrate": {
+				"unit": "MGL"
+			},
+			"sodium": {
+				"value": 35,
+				"unit": "MGL"
+			}
+		},
+		{
+			"id": "572c0eb9-1423-4129-aaa5-265815a0b155",
+			"calcium": {
+				"value": 82,
+				"unit": "MGL"
+			},
+			"nitrite": {
+				"unit": "MGL"
+			},
+			"chloride": {
+				"value": 2,
+				"unit": "MGL"
+			},
+			"name": "Munich (Dark Lager)",
+			"potassium": {
+				"unit": "MGL"
+			},
+			"iron": {
+				"unit": "MGL"
+			},
+			"flouride": {
+				"unit": "MGL"
+			},
+			"sulfate": {
+				"value": 16,
+				"unit": "MGL"
+			},
+			"magnesium": {
+				"value": 20,
+				"unit": "MGL"
+			},
+			"bicarbonate": {
+				"value": 320,
+				"unit": "MGL"
+			},
+			"nitrate": {
+				"unit": "MGL"
+			},
+			"sodium": {
+				"value": 4,
+				"unit": "MGL"
+			}
+		},
+		{
+			"id": "c8edc089-a16b-4a25-9c9b-98de6d60f643",
+			"calcium": {
+				"value": 40,
+				"unit": "MGL"
+			},
+			"nitrite": {
+				"unit": "MGL"
+			},
+			"chloride": {
+				"value": 75,
+				"unit": "MGL"
+			},
+			"name": "Munich (decarbonated)",
+			"potassium": {
+				"unit": "MGL"
+			},
+			"iron": {
+				"unit": "MGL"
+			},
+			"flouride": {
+				"unit": "MGL"
+			},
+			"sulfate": {
+				"value": 52,
+				"unit": "MGL"
+			},
+			"magnesium": {
+				"value": 20,
+				"unit": "MGL"
+			},
+			"bicarbonate": {
+				"value": 29,
+				"unit": "MGL"
+			},
+			"nitrate": {
+				"unit": "MGL"
+			},
+			"sodium": {
+				"value": 4,
+				"unit": "MGL"
+			}
+		},
+		{
+			"id": "1c836cda-bd5f-4426-81f1-81bd566141e6",
+			"calcium": {
+				"value": 7,
+				"unit": "MGL"
+			},
+			"nitrite": {
+				"unit": "MGL"
+			},
+			"chloride": {
+				"value": 5,
+				"unit": "MGL"
+			},
+			"name": "Pilsen (Light Lager)",
+			"potassium": {
+				"unit": "MGL"
+			},
+			"iron": {
+				"unit": "MGL"
+			},
+			"flouride": {
+				"unit": "MGL"
+			},
+			"sulfate": {
+				"value": 5,
+				"unit": "MGL"
+			},
+			"magnesium": {
+				"value": 3,
+				"unit": "MGL"
+			},
+			"bicarbonate": {
+				"value": 25,
+				"unit": "MGL"
+			},
+			"nitrate": {
+				"unit": "MGL"
+			},
+			"sodium": {
+				"value": 2,
+				"unit": "MGL"
+			}
+		},
+		{
+			"id": "8fd97c3c-c527-4e51-9f05-dcb072c346c3",
+			"calcium": {
+				"value": 90,
+				"unit": "MGL"
+			},
+			"nitrite": {
+				"unit": "MGL"
+			},
+			"chloride": {
+				"value": 82,
+				"unit": "MGL"
+			},
+			"name": "Düsseldorf (Altbier)",
+			"potassium": {
+				"unit": "MGL"
+			},
+			"iron": {
+				"unit": "MGL"
+			},
+			"flouride": {
+				"unit": "MGL"
+			},
+			"sulfate": {
+				"value": 65,
+				"unit": "MGL"
+			},
+			"magnesium": {
+				"value": 12,
+				"unit": "MGL"
+			},
+			"bicarbonate": {
+				"value": 223,
+				"unit": "MGL"
+			},
+			"nitrate": {
+				"unit": "MGL"
+			},
+			"sodium": {
+				"value": 45,
+				"unit": "MGL"
+			}
+		}
+	]
+}
