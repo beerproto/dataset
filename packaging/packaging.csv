@@ -1,0 +1,28 @@
+ID,Name,Type,Volume (ml),Description
+38590cc3-18c6-42e3-ac99-ba7b4876b71b,Steinie / Stubby ,Bottle,330,Similar to a ISB bottle with a slightly smaller neck
+638e1421-5c2b-4d1d-982e-5fc2ff8371ad,Longneck ,Bottle,330,Industry Standard Bottle (ISB)
+8b213633-6679-4313-b2e1-50d20c5af8ef,Belgian,Bottle,375,Commonly used for lambic and gueuze-style beers
+ad736723-c5a6-4d83-afaa-9ba6b8775675,British,Bottle,500,Standard beer bottle size in the U.K.
+cab13f8d-e820-4cb0-bb95-38b9182b52bc,Bomber,Bottle,650,Used by brewers for special limited-release beers and barrel-aged beers 
+151d8a23-2ede-4ab5-aaad-e0468e263272,Growler,Bottle,1893,Used by brewers for takeaway beers
+e5cbac4f-11fb-4e7d-befa-aaf3c0b78acb,Magnum,Bottle,1499,Used for special occasions and holidays beers
+3b431846-52f9-4a9c-aa4b-1c486da2add5,Forty,Bottle,1183,Commonly used for Malt liquor beers
+6b426f82-da16-427d-9f1e-ebbe5e0423fa,Howler,Bottle,946,"Half-growler, commonly called Growler in the U.S."
+a74819fd-104d-45fb-986e-b4b8781ad2c1,Caguama / Ballena,Bottle,940,Commonly used by Mexican beers
+a56d2d68-cab6-4928-9c64-e14fe5e59426,Large Format,Bottle,750,Used by brewers for special limited-release beers and barrel-aged beers 
+bcbc1393-8dc7-4404-9b90-7316c4a2f559,Nip ,Can,248,Miniature can
+b446c265-18a0-402b-9841-8c4a331cd952,12 OZ,Can,355,Standard Can
+2a18ef8c-36c9-46be-98e8-3462a7d2031a,Tallboy,Can,473,
+8c7edaa4-fd52-4213-8b6b-f7212dda8352,Stovepipe,Can,568,
+187106da-d020-41f2-b6e2-15bca94a5d51,Crowler,Can,946,Hybrid can-growler found in the U.S.
+70fc4df2-0067-4a7c-955c-55ba249515f9,Cornelius 9l,Keg,9000,Also known as a Corny keg or soda keg
+1733fda3-e2b3-466a-9f26-c1ff8df0e281,Cornelius 3 US gal,Keg,11400,Also known as a Corny keg or soda keg
+a9e4c218-4ba8-4833-8edb-481ca00f7364,Cornelius 5 US gal,Keg,19000,Also known as a Corny keg or soda keg
+24ae7e50-719c-45d0-b3d5-d0524cbd6c5f,Cornelius 10 US gal,Keg,38000,Also known as a Corny keg or soda keg
+495962eb-bf60-4a25-a1ba-c04d849150c6,Mini Keg,Keg,5000,Also known as a Bubba and Party Keg
+1e5f5427-e5d5-4ea8-b9fb-be13903acd3a,Eighth Barrel ,Keg,14670,
+6c3b524a-4a42-4d83-8b20-7fa99b7861ae,Sixth Barrel,Keg,19800,"Also known as Torpedo Keg, Sixtel or Log "
+64984738-7967-43dc-b981-ca9d522d690a,Half Barrel European,Keg,25000,
+7919be45-6e80-46fb-9270-305c6f183d27,Quarter Barrel,Keg,29300,Also known as Pony Keg 
+5ee80e96-5677-41b4-aa17-ec737bfdd270,Import Keg,Keg,50000,"Standard European ""Barrel"""
+6829741f-0446-42a4-a583-f43324647384,Half Barrel ,Keg,58660,Also known as Full Keg 

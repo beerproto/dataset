@@ -54,7 +54,14 @@ jobs:
           command: 'water'
           inputFile: '/github/workspace/water/profiles.csv'
           outputFile: '/github/workspace/json/water.json'
-          
+
+      - name: packaging
+        uses: ./.github/actions/csvbeer
+        with:
+          command: 'packaging'
+          inputFile: '/github/workspace/packaging/packaging.csv'
+          outputFile: '/github/workspace/json/packaging.json'
+
       - name: Git Commit on Workflow
         uses: matheusalbino/git-commit@v1.0.1
         with:

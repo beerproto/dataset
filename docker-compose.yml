@@ -99,3 +99,18 @@ services:
           "--file",
           "/json/water.json",
       ]
+  packaging:
+    build:
+      context: ".github/actions/csvbeer"
+    volumes:
+      - "./packaging/packaging.csv:/data/packaging.csv"
+      - "./json/:/json"
+    command:
+      [
+          "packaging",
+          "/data/packaging.csv",
+          "--output",
+          "file",
+          "--file",
+          "/json/packaging.json",
+      ]

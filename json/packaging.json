@@ -1,0 +1,454 @@
+{
+	"packaging": [
+		{
+			"id": "38590cc3-18c6-42e3-ac99-ba7b4876b71b",
+			"name": "Steinie / Stubby ",
+			"packagingVessels": [
+				{
+					"id": "38590cc3-18c6-42e3-ac99-ba7b4876b71b",
+					"type": "BOTTLE",
+					"name": "Steinie / Stubby ",
+					"vesselVolume": {
+						"value": 330,
+						"unit": "L"
+					},
+					"vesselQuantity": 1,
+					"description": "Similar to a ISB bottle with a slightly smaller neck"
+				}
+			]
+		},
+		{
+			"id": "638e1421-5c2b-4d1d-982e-5fc2ff8371ad",
+			"name": "Longneck ",
+			"packagingVessels": [
+				{
+					"id": "638e1421-5c2b-4d1d-982e-5fc2ff8371ad",
+					"type": "BOTTLE",
+					"name": "Longneck ",
+					"vesselVolume": {
+						"value": 330,
+						"unit": "L"
+					},
+					"vesselQuantity": 1,
+					"description": "Industry Standard Bottle (ISB)"
+				}
+			]
+		},
+		{
+			"id": "8b213633-6679-4313-b2e1-50d20c5af8ef",
+			"name": "Belgian",
+			"packagingVessels": [
+				{
+					"id": "8b213633-6679-4313-b2e1-50d20c5af8ef",
+					"type": "BOTTLE",
+					"name": "Belgian",
+					"vesselVolume": {
+						"value": 375,
+						"unit": "L"
+					},
+					"vesselQuantity": 1,
+					"description": "Commonly used for lambic and gueuze-style beers"
+				}
+			]
+		},
+		{
+			"id": "ad736723-c5a6-4d83-afaa-9ba6b8775675",
+			"name": "British",
+			"packagingVessels": [
+				{
+					"id": "ad736723-c5a6-4d83-afaa-9ba6b8775675",
+					"type": "BOTTLE",
+					"name": "British",
+					"vesselVolume": {
+						"value": 500,
+						"unit": "L"
+					},
+					"vesselQuantity": 1,
+					"description": "Standard beer bottle size in the U.K."
+				}
+			]
+		},
+		{
+			"id": "cab13f8d-e820-4cb0-bb95-38b9182b52bc",
+			"name": "Bomber",
+			"packagingVessels": [
+				{
+					"id": "cab13f8d-e820-4cb0-bb95-38b9182b52bc",
+					"type": "BOTTLE",
+					"name": "Bomber",
+					"vesselVolume": {
+						"value": 650,
+						"unit": "L"
+					},
+					"vesselQuantity": 1,
+					"description": "Used by brewers for special limited-release beers and barrel-aged beers "
+				}
+			]
+		},
+		{
+			"id": "151d8a23-2ede-4ab5-aaad-e0468e263272",
+			"name": "Growler",
+			"packagingVessels": [
+				{
+					"id": "151d8a23-2ede-4ab5-aaad-e0468e263272",
+					"type": "BOTTLE",
+					"name": "Growler",
+					"vesselVolume": {
+						"value": 1893,
+						"unit": "L"
+					},
+					"vesselQuantity": 1,
+					"description": "Used by brewers for takeaway beers"
+				}
+			]
+		},
+		{
+			"id": "e5cbac4f-11fb-4e7d-befa-aaf3c0b78acb",
+			"name": "Magnum",
+			"packagingVessels": [
+				{
+					"id": "e5cbac4f-11fb-4e7d-befa-aaf3c0b78acb",
+					"type": "BOTTLE",
+					"name": "Magnum",
+					"vesselVolume": {
+						"value": 1499,
+						"unit": "L"
+					},
+					"vesselQuantity": 1,
+					"description": "Used for special occasions and holidays beers"
+				}
+			]
+		},
+		{
+			"id": "3b431846-52f9-4a9c-aa4b-1c486da2add5",
+			"name": "Forty",
+			"packagingVessels": [
+				{
+					"id": "3b431846-52f9-4a9c-aa4b-1c486da2add5",
+					"type": "BOTTLE",
+					"name": "Forty",
+					"vesselVolume": {
+						"value": 1183,
+						"unit": "L"
+					},
+					"vesselQuantity": 1,
+					"description": "Commonly used for Malt liquor beers"
+				}
+			]
+		},
+		{
+			"id": "6b426f82-da16-427d-9f1e-ebbe5e0423fa",
+			"name": "Howler",
+			"packagingVessels": [
+				{
+					"id": "6b426f82-da16-427d-9f1e-ebbe5e0423fa",
+					"type": "BOTTLE",
+					"name": "Howler",
+					"vesselVolume": {
+						"value": 946,
+						"unit": "L"
+					},
+					"vesselQuantity": 1,
+					"description": "Half-growler, commonly called Growler in the U.S."
+				}
+			]
+		},
+		{
+			"id": "a74819fd-104d-45fb-986e-b4b8781ad2c1",
+			"name": "Caguama / Ballena",
+			"packagingVessels": [
+				{
+					"id": "a74819fd-104d-45fb-986e-b4b8781ad2c1",
+					"type": "BOTTLE",
+					"name": "Caguama / Ballena",
+					"vesselVolume": {
+						"value": 940,
+						"unit": "L"
+					},
+					"vesselQuantity": 1,
+					"description": "Commonly used by Mexican beers"
+				}
+			]
+		},
+		{
+			"id": "a56d2d68-cab6-4928-9c64-e14fe5e59426",
+			"name": "Large Format",
+			"packagingVessels": [
+				{
+					"id": "a56d2d68-cab6-4928-9c64-e14fe5e59426",
+					"type": "BOTTLE",
+					"name": "Large Format",
+					"vesselVolume": {
+						"value": 750,
+						"unit": "L"
+					},
+					"vesselQuantity": 1,
+					"description": "Used by brewers for special limited-release beers and barrel-aged beers "
+				}
+			]
+		},
+		{
+			"id": "bcbc1393-8dc7-4404-9b90-7316c4a2f559",
+			"name": "Nip ",
+			"packagingVessels": [
+				{
+					"id": "bcbc1393-8dc7-4404-9b90-7316c4a2f559",
+					"name": "Nip ",
+					"vesselVolume": {
+						"value": 248,
+						"unit": "L"
+					},
+					"vesselQuantity": 1,
+					"description": "Miniature can"
+				}
+			]
+		},
+		{
+			"id": "b446c265-18a0-402b-9841-8c4a331cd952",
+			"name": "12 OZ",
+			"packagingVessels": [
+				{
+					"id": "b446c265-18a0-402b-9841-8c4a331cd952",
+					"name": "12 OZ",
+					"vesselVolume": {
+						"value": 355,
+						"unit": "L"
+					},
+					"vesselQuantity": 1,
+					"description": "Standard Can"
+				}
+			]
+		},
+		{
+			"id": "2a18ef8c-36c9-46be-98e8-3462a7d2031a",
+			"name": "Tallboy",
+			"packagingVessels": [
+				{
+					"id": "2a18ef8c-36c9-46be-98e8-3462a7d2031a",
+					"name": "Tallboy",
+					"vesselVolume": {
+						"value": 473,
+						"unit": "L"
+					},
+					"vesselQuantity": 1
+				}
+			]
+		},
+		{
+			"id": "8c7edaa4-fd52-4213-8b6b-f7212dda8352",
+			"name": "Stovepipe",
+			"packagingVessels": [
+				{
+					"id": "8c7edaa4-fd52-4213-8b6b-f7212dda8352",
+					"name": "Stovepipe",
+					"vesselVolume": {
+						"value": 568,
+						"unit": "L"
+					},
+					"vesselQuantity": 1
+				}
+			]
+		},
+		{
+			"id": "187106da-d020-41f2-b6e2-15bca94a5d51",
+			"name": "Crowler",
+			"packagingVessels": [
+				{
+					"id": "187106da-d020-41f2-b6e2-15bca94a5d51",
+					"name": "Crowler",
+					"vesselVolume": {
+						"value": 946,
+						"unit": "L"
+					},
+					"vesselQuantity": 1,
+					"description": "Hybrid can-growler found in the U.S."
+				}
+			]
+		},
+		{
+			"id": "70fc4df2-0067-4a7c-955c-55ba249515f9",
+			"name": "Cornelius 9l",
+			"packagingVessels": [
+				{
+					"id": "70fc4df2-0067-4a7c-955c-55ba249515f9",
+					"type": "KEG",
+					"name": "Cornelius 9l",
+					"vesselVolume": {
+						"value": 9000,
+						"unit": "L"
+					},
+					"vesselQuantity": 1,
+					"description": "Also known as a Corny keg or soda keg"
+				}
+			]
+		},
+		{
+			"id": "1733fda3-e2b3-466a-9f26-c1ff8df0e281",
+			"name": "Cornelius 3 US gal",
+			"packagingVessels": [
+				{
+					"id": "1733fda3-e2b3-466a-9f26-c1ff8df0e281",
+					"type": "KEG",
+					"name": "Cornelius 3 US gal",
+					"vesselVolume": {
+						"value": 11400,
+						"unit": "L"
+					},
+					"vesselQuantity": 1,
+					"description": "Also known as a Corny keg or soda keg"
+				}
+			]
+		},
+		{
+			"id": "a9e4c218-4ba8-4833-8edb-481ca00f7364",
+			"name": "Cornelius 5 US gal",
+			"packagingVessels": [
+				{
+					"id": "a9e4c218-4ba8-4833-8edb-481ca00f7364",
+					"type": "KEG",
+					"name": "Cornelius 5 US gal",
+					"vesselVolume": {
+						"value": 19000,
+						"unit": "L"
+					},
+					"vesselQuantity": 1,
+					"description": "Also known as a Corny keg or soda keg"
+				}
+			]
+		},
+		{
+			"id": "24ae7e50-719c-45d0-b3d5-d0524cbd6c5f",
+			"name": "Cornelius 10 US gal",
+			"packagingVessels": [
+				{
+					"id": "24ae7e50-719c-45d0-b3d5-d0524cbd6c5f",
+					"type": "KEG",
+					"name": "Cornelius 10 US gal",
+					"vesselVolume": {
+						"value": 38000,
+						"unit": "L"
+					},
+					"vesselQuantity": 1,
+					"description": "Also known as a Corny keg or soda keg"
+				}
+			]
+		},
+		{
+			"id": "495962eb-bf60-4a25-a1ba-c04d849150c6",
+			"name": "Mini Keg",
+			"packagingVessels": [
+				{
+					"id": "495962eb-bf60-4a25-a1ba-c04d849150c6",
+					"type": "KEG",
+					"name": "Mini Keg",
+					"vesselVolume": {
+						"value": 5000,
+						"unit": "L"
+					},
+					"vesselQuantity": 1,
+					"description": "Also known as a Bubba and Party Keg"
+				}
+			]
+		},
+		{
+			"id": "1e5f5427-e5d5-4ea8-b9fb-be13903acd3a",
+			"name": "Eighth Barrel ",
+			"packagingVessels": [
+				{
+					"id": "1e5f5427-e5d5-4ea8-b9fb-be13903acd3a",
+					"type": "KEG",
+					"name": "Eighth Barrel ",
+					"vesselVolume": {
+						"value": 14670,
+						"unit": "L"
+					},
+					"vesselQuantity": 1
+				}
+			]
+		},
+		{
+			"id": "6c3b524a-4a42-4d83-8b20-7fa99b7861ae",
+			"name": "Sixth Barrel",
+			"packagingVessels": [
+				{
+					"id": "6c3b524a-4a42-4d83-8b20-7fa99b7861ae",
+					"type": "KEG",
+					"name": "Sixth Barrel",
+					"vesselVolume": {
+						"value": 19800,
+						"unit": "L"
+					},
+					"vesselQuantity": 1,
+					"description": "Also known as Torpedo Keg, Sixtel or Log "
+				}
+			]
+		},
+		{
+			"id": "64984738-7967-43dc-b981-ca9d522d690a",
+			"name": "Half Barrel European",
+			"packagingVessels": [
+				{
+					"id": "64984738-7967-43dc-b981-ca9d522d690a",
+					"type": "KEG",
+					"name": "Half Barrel European",
+					"vesselVolume": {
+						"value": 25000,
+						"unit": "L"
+					},
+					"vesselQuantity": 1
+				}
+			]
+		},
+		{
+			"id": "7919be45-6e80-46fb-9270-305c6f183d27",
+			"name": "Quarter Barrel",
+			"packagingVessels": [
+				{
+					"id": "7919be45-6e80-46fb-9270-305c6f183d27",
+					"type": "KEG",
+					"name": "Quarter Barrel",
+					"vesselVolume": {
+						"value": 29300,
+						"unit": "L"
+					},
+					"vesselQuantity": 1,
+					"description": "Also known as Pony Keg "
+				}
+			]
+		},
+		{
+			"id": "5ee80e96-5677-41b4-aa17-ec737bfdd270",
+			"name": "Import Keg",
+			"packagingVessels": [
+				{
+					"id": "5ee80e96-5677-41b4-aa17-ec737bfdd270",
+					"type": "KEG",
+					"name": "Import Keg",
+					"vesselVolume": {
+						"value": 50000,
+						"unit": "L"
+					},
+					"vesselQuantity": 1,
+					"description": "Standard European \"Barrel\""
+				}
+			]
+		},
+		{
+			"id": "6829741f-0446-42a4-a583-f43324647384",
+			"name": "Half Barrel ",
+			"packagingVessels": [
+				{
+					"id": "6829741f-0446-42a4-a583-f43324647384",
+					"type": "KEG",
+					"name": "Half Barrel ",
+					"vesselVolume": {
+						"value": 58660,
+						"unit": "L"
+					},
+					"vesselQuantity": 1,
+					"description": "Also known as Full Keg "
+				}
+			]
+		}
+	]
+}

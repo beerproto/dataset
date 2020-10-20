@@ -43,3 +43,50 @@ func toConcentrationType(value *float64) *beerproto.ConcentrationType {
 		Value: *value,
 	}
 }
+
+
+func toVolumeType(value *float64) *beerproto.VolumeType {
+	if value == nil {
+		return nil
+	}
+
+	return &beerproto.VolumeType{
+		Unit:  beerproto.VolumeType_L,
+		Value: *value,
+	}
+}
+
+
+func toMassType(value *float64) *beerproto.MassType {
+	if value == nil {
+		return nil
+	}
+
+	return &beerproto.MassType{
+		Unit:  beerproto.MassUnitType_KG,
+		Value: *value,
+	}
+}
+
+func toSpecificVolumeType(value *float64) *beerproto.SpecificVolumeType {
+	if value == nil {
+		return nil
+	}
+
+	return &beerproto.SpecificVolumeType{
+		Unit:  beerproto.SpecificVolumeType_LKG,
+		Value: *value,
+	}
+}
+
+func toSpecificHeatType(value *float64) *beerproto.SpecificHeatType {
+	if value == nil {
+		return nil
+	}
+
+	return &beerproto.SpecificHeatType{
+		Unit:  beerproto.SpecificHeatUnitType_CALGC,
+		Value: *value,
+	}
+}
+

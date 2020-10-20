@@ -37,58 +37,13 @@ func (s *EquipmentItems) ToEquipmentItems() *beerproto.EquipmentItemType {
 	return &beerproto.EquipmentItemType{
 		Id:                  s.ID,
 		Name:                s.Name,
-		BoilRatePerHour:     s.toVolumeType(s.BoilRatePerHour),
-		MaximumVolume:       s.toVolumeType(s.MaximumVolume),
-		DrainRatePerMinute:  s.toVolumeType(s.DrainRatePerMinute),
-		SpecificHeat:        s.toSpecificHeatType(s.SpecificHeat),
-		GrainAbsorptionRate: s.toSpecificVolumeType(s.GrainAbsorptionRate),
-		Loss:                s.toVolumeType(s.Loss),
-		Weight:              s.toMassType(s.Weight),
+		BoilRatePerHour:     toVolumeType(s.BoilRatePerHour),
+		MaximumVolume:       toVolumeType(s.MaximumVolume),
+		DrainRatePerMinute:  toVolumeType(s.DrainRatePerMinute),
+		SpecificHeat:        toSpecificHeatType(s.SpecificHeat),
+		GrainAbsorptionRate: toSpecificVolumeType(s.GrainAbsorptionRate),
+		Loss:                toVolumeType(s.Loss),
+		Weight:              toMassType(s.Weight),
 		Form:                beerproto.EquipmentItemType_EquipmentBaseForm(s.Form),
 	}
 }
-
-func (s *EquipmentItems) toMassType(value *float64) *beerproto.MassType {
-	if value == nil {
-		return nil
-	}
-
-	return &beerproto.MassType{
-		Unit:  beerproto.MassUnitType_KG,
-		Value: *value,
-	}
-}
-
-func (s *EquipmentItems) toSpecificVolumeType(value *float64) *beerproto.SpecificVolumeType {
-	if value == nil {
-		return nil
-	}
-
-	return &beerproto.SpecificVolumeType{
-		Unit:  beerproto.SpecificVolumeType_LKG,
-		Value: *value,
-	}
-}
-
-func (s *EquipmentItems) toSpecificHeatType(value *float64) *beerproto.SpecificHeatType {
-	if value == nil {
-		return nil
-	}
-
-	return &beerproto.SpecificHeatType{
-		Unit:  beerproto.SpecificHeatUnitType_CALGC,
-		Value: *value,
-	}
-}
-
-func (s *EquipmentItems) toVolumeType(value *float64) *beerproto.VolumeType {
-	if value == nil {
-		return nil
-	}
-
-	return &beerproto.VolumeType{
-		Unit:  beerproto.VolumeType_L,
-		Value: *value,
-	}
-}
-
