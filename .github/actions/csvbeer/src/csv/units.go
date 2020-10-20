@@ -45,13 +45,13 @@ func toConcentrationType(value *float64) *beerproto.ConcentrationType {
 }
 
 
-func toVolumeType(value *float64) *beerproto.VolumeType {
+func toVolumeType(value *float64, t beerproto.VolumeType_VolumeUnitType) *beerproto.VolumeType {
 	if value == nil {
 		return nil
 	}
 
 	return &beerproto.VolumeType{
-		Unit:  beerproto.VolumeType_L,
+		Unit: t,
 		Value: *value,
 	}
 }

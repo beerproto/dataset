@@ -24,7 +24,7 @@ func (s Packaging) ToPackagingProcedureType() *beerproto.PackagingProcedureType 
 				Description: s.Description,
 				VesselQuantity: 1,
 				Type: s.ToPackagingVesselType(),
-				VesselVolume: toVolumeType(s.Volume),
+				VesselVolume: toVolumeType(s.Volume, beerproto.VolumeType_ML),
 			},
 		},
 	}

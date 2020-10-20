@@ -37,12 +37,12 @@ func (s *EquipmentItems) ToEquipmentItems() *beerproto.EquipmentItemType {
 	return &beerproto.EquipmentItemType{
 		Id:                  s.ID,
 		Name:                s.Name,
-		BoilRatePerHour:     toVolumeType(s.BoilRatePerHour),
-		MaximumVolume:       toVolumeType(s.MaximumVolume),
-		DrainRatePerMinute:  toVolumeType(s.DrainRatePerMinute),
+		BoilRatePerHour:     toVolumeType(s.BoilRatePerHour, beerproto.VolumeType_L),
+		MaximumVolume:       toVolumeType(s.MaximumVolume, beerproto.VolumeType_L),
+		DrainRatePerMinute:  toVolumeType(s.DrainRatePerMinute, beerproto.VolumeType_L),
 		SpecificHeat:        toSpecificHeatType(s.SpecificHeat),
 		GrainAbsorptionRate: toSpecificVolumeType(s.GrainAbsorptionRate),
-		Loss:                toVolumeType(s.Loss),
+		Loss:                toVolumeType(s.Loss, beerproto.VolumeType_L),
 		Weight:              toMassType(s.Weight),
 		Form:                beerproto.EquipmentItemType_EquipmentBaseForm(s.Form),
 	}
