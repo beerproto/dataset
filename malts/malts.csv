@@ -1,66 +1,130 @@
-Name,Potential,Yield,SRM,Mash Req.,Aromatic,Biscuit,Body,Burnt,Caramel,Chocolate,Coffee,Grainy,Head,Malty,Nutty,Roasted,Smoked,Sweet,Toasted
-CaraFoam,,,1,,,,X,,,,,,X,,,,,,
-UK Pilsner 2-Row,1.036,77.90%,1,X,,,,,,,,,,,,,,,
-Malted Oats,1.037,80.00%,1,,,,X,,,,,,X,,,,,,
-2-Row Malt,1.036,77.90%,2,X,,,,,,,,,,,,,,,
-6-Row Malt,1.035,75.70%,2,X,,,,,,,,,,,,,,,
-Golden Promise,,,2,X,,,,,,,,,,,,,,X,
-Belgian Pilsner 2-Row,1.036,77.90%,2,X,,,,,,,,,,,,,,,
-German Pilsner 2-Row,1.037,80.00%,2,X,,,,,,,,,,,,,,,
-Lager Malt,1.038,82.20%,2,X,,,,,,,,,,,,,,,
-Belgian Wheat,1.037,80.00%,2,X,,,,,,,,,,,,,,,
-German Wheat,1.039,84.40%,2,X,,,,,,,,,,,,,,,
-White Wheat,1.04,86.70%,2,X,,,,,,,,,,X,,,,,
-CaraPils,1.033,71.40%,2,,,,X,,,,,,X,,,,,,
-Dextrine Malt,1.033,71.40%,2,,,,X,,,,,,X,,,,,,
-Acid Malt,1.027,58.40%,3,X,,,,,,,,,X,,,,,,
-Peated Malt,1.034,73.60%,3,,,,,,,,,,,,,,,,
-Maris Otter,1.038,82.20%,3,X,,,,,,,,,,,X,,,,
-Optic,,,3,X,X,,,,,,,,,,,,,X,
-Briess Pale Ale Malt,,,4,X,,,,,,,,,,X,,,,,
-English Mild,1.037,80.00%,4,X,,,,,,,,,,,,,,,
-Vienna Malt,1.036,77.90%,4,X,,,,,,,,,,,,,,,
-Toasted Malt,1.029,62.80%,5,,X,,X,,,,,,,,,,,,
-Dark Wheat,1.039,84.40%,9,X,,,,,,,,,,,,,,,
-Munich Malt,1.037,80.00%,9,X,,,,,,,,,,X,,,,X,
-Smoked Malt,1.037,80.00%,9,X,,,,,,,,,,,,,X,,
-Crystal 10,1.033 - 1.035,71.4 - 75.7%,10,,,,X,,X,,,,X,,,,,X,
-Name,Potential,Yield,SRM,Mash Req.,Aromatic,Biscuit,Body,Burnt,Caramel,Chocolate,Coffee,Grainy,Head,Malty,Nutty,Roasted,Smoked,Sweet,Toasted
-Carastan 15,1.033 - 1.035,71.4 - 75.7%,15,,,,X,,X,,,,X,,,,,X,
-Munich 10,1.035,75.70%,10,X,,,,,,,,,,X,,,,X,
-Crystal 20,1.033 - 1.035,71.4 - 75.7%,20,,,,X,,X,,,,X,,,,,X,
-Munich 20,1.035,75.70%,20,X,,,,,,,,,,X,,,,X,
-CaraRed,1.035,75.70%,20,,,,X,,,,,,X,,,,,,
-Melanoidin Malt,1.037,80.00%,20,,X,,,,,,,,,X,,,,,
-Amber Malt,1.035,75.70%,22,X,,X,,,,,,,,,,,,,
-CaraVienna,1.034,73.60%,22,,,,,,,,,,,,,,,,
-Belgian Biscuit Malt,1.036,77.90%,23,X,X,X,,,,,,,,,,,,,
-Brumalt,1.033,71.40%,23,X,,,,,,,,,,X,,,,,
-Gambrinus Honey Malt,1.037,80.00%,25,X,,,,,,,,,,X,,,,X,
-Belgian Aromatic,1.036,77.90%,26,X,X,,,,,,,,,X,,,,,
-Victory Malt,1.034,73.60%,28,X,X,X,,,,,,,,,X,,,,X
-Crystal 30,1.033 - 1.035,71.4 - 75.7%,30,,,,X,,X,,,,X,,,,,X,
-Carastan 35,1.033 - 1.035,71.4 - 75.7%,35,,,,X,,X,,,,X,,,,,X,
-Crystal 40,1.033 - 1.035,71.4 - 75.7%,40,,,,X,,X,,,,X,,,,,X,
-Caramel Wheat Malt,1.035,75.70%,46,,X,,,,,,,,,,,,,,
-Special Roast,1.033,71.40%,50,,X,X,,,,,,,,,,,,,X
-CaraMunich,1.033,71.40%,56,,,,,,X,,,,,,,,,,
-Name,Potential,Yield,SRM,Mash Req.,Aromatic,Biscuit,Body,Burnt,Caramel,Chocolate,Coffee,Grainy,Head,Malty,Nutty,Roasted,Smoked,Sweet,Toasted
-Crystal 60,1.033 - 1.035,71.4 - 75.7%,60,,,,X,,X,,,,X,,,,,X,
-Brown Malt,1.032,69.20%,65,X,,X,,,,,,,,,,,,,
-Crystal 80,1.033 - 1.035,71.4 - 75.7%,80,,,,X,,X,,,,X,,,,,X,
-Crystal 90,1.033 - 1.035,71.4 - 75.7%,90,,,,X,,X,,,,X,,,,,X,
-Crystal 120,1.033 - 1.035,71.4 - 75.7%,120,,,,X,,X,,,,X,,,,,X,
-CaraAroma,1.035,75.70%,130,,,,X,,X,,,,X,X,,,,,
-Crystal 150,1.035,75.70%,150,,,,X,,X,,,,X,,,,,X,
-Special B,1.03,64.90%,180,,X,,,,X,,,,,,,,,,
-Chocolate Rye Malt,1.031,67.10%,250,,,,,,,,,,,,,,,,
-Roasted Barley,1.025,54.10%,300,,,,,X,,,X,X,,,X,X,,,
-Carafa I,1.032,69.20%,337,,X,,,,,,,,,,,,,,
-Chocolate Malt,1.034,73.60%,350,,,,,,,X,X,,,,X,,,,X
-Coffee Malt,1.034,74.00%,165,,,,,,,,X,,,,,,,,X
-Chocolate Wheat Malt,1.033,71.40%,400,,X,,,,,,,,,,,,,,
-Carafa II,1.032,69.20%,412,,X,,,,,,,,,,,,,,
-Black Patent Malt,1.025,54.10%,500,,,,,X,,,,,,,,X,,,
-Black Barley,1.025,54.10%,500,,,,,,,,X,,,,,,,,
-Carafa III,1.032,69.20%,525,,X,,,,,,,,,,,,,,
+ID,Producer,Name,Group,Moisture (%),Yield (%),Color (EBC),Beta Glucans (mg/l),Viscosity (mPa.s),Diastatic power (ºWK),Protein (%),Protein (TN),FAN (mg / 100g),Max in Batch (%),Country,DMS-P,Kolbach Index,Wort ph,Recommend In Mash,Notes
+,Agraria,Pilsen Malt,,4.8,76.6,7,180,1.6,245,11.8,1.888,140,100,Brazil,,,,,Used for all types of light beers and base for special beers.
+,Agraria,Pale Ale Malt,,4.5,,7,150,1.6,200,11.5,1.84,,100,Brazil,,,,,"Produced with two-row barley 100% national. Malt traditionally used for British high fermentation beers, currently used for Ales, Porter, Sout, Lager and Belgian. With high modification, ideal for the ""mash"" mash technique."
+,Agraria,Vienna Malt,,4.5,,10,180,1.6,200,11.5,1.84,,100,Brazil,,,,,"Base malt made from 100% domestic two-row barley. Higher protein content, suitable for the manufacture of most Golden / Brown Lagers. Used to correct the color of very light malts or to produce golden beers with a fuller body. Used in Märzen, Festbier, Vienna Lager and other light beers."
+,Agraria,Munich Malt,,4.5,,25,220,1.6,150,12.5,2,,100,Brazil,,,,,"Base malt made from 100% domestic two-row barley. It highlights the malty aroma and obtaining more intense colorings. For dark beers, like Munich, Black and Bock. Exceptional result, in small doses, for Pilsen type beers."
+,,,,,,,,,,,0,,,,,,,,
+,Atelier Do Malte,Terroir Paulista Vienna,specialty,6,78,10,200,1.6,200,12,1.92,120,80,Brazil,5,41,,TRUE,"It is considered a special dark malt but can be used as a base malt or in combination with other types of malt, Vienna  is a well-modified malt, and has enough enzymes for use in high percentages in the recipe. The curing time and temperature are not extreme, just above Pale Ale malt. Its degree of modification and more intense roasting provides intense flavor and color to the beer . "
+,Atelier Do Malte,Terroir Paulista Pale Ale,specialty,4,79,6,200,1.6,200,12,1.92,120,100,Brazil,5,41,,TRUE,"Generally used as a base malt or in combination with other types of malt, Pale Ale  is considered a special malt because it is more modified, that is, because it presents a greater degree of degradation of b-Glucans and greater production of enzymes, providing a more pronounced flavor and color than that of Pilsen malt. The curing time and temperature are not extreme, which allows the enzymes to support  the use of special non-enzymatic malts such as caramel or roasted."
+,Atelier Do Malte,Terroir Paulista Pilsen,base,6,79,3.5,200,1.6,200,12,1.92,120,100,Brazil,5,41,,TRUE,"It is considered a base malt because it has an excellent enzymatic power and that even together with portions of other malts of lower enzymatic power (caramels and / or roasted) it is able to “digest” all the starch in smaller sugars providing an excellent amount of simple sugars for yeast , that is, extract. For the maintenance of a light color and with a high level of enzymes, pilsen malt does not force its modification and must be taken care during drying so that the curing temperature is sufficient for elimination of DMS precursors and inactivation of oxidative enzymes and development of flavor without, however, compromising the proteolytic and amylolytic enzymes needed in brazing."
+,Atelier Do Malte,Terroir Paulista Carapálida ,specialty,6,78,6.5,200,1.6,150,5.4,0.864,120,30,Brazil,5,41,,,"Caramel malt is a special well-modified malt where, at the beginning of drying, it is ""stuffed"" for gelatinization and saccharification of starch and formation of dextrins, responsible for the increase in the body of the beer. The curing temperature, different from the other caramels, is not very high which causes a very mild caramelization, but a strong sweet flavor. Due to the fact that it is subjected to high humidity temperatures, the enzymatic loss is considerable and, therefore, it must be used in mixture with base malts."
+,Atelier Do Malte,Terroir Paulista Munich,specialty,6,75,20,200,1.6,150,12,1.92,120,40,Brazil,5,41,,TRUE,"Munich malt is a special, well-modified malt that undergoes a short “stuffing” process at low temperature for the action of proteases and the production of precursors to the flavor of “toasted bread”. Drying is done at low temperatures and during curing it is subjected to high temperatures to gain color. There is a loss of mild enzymatic power due to high curing temperatures and should therefore be used in mixture with base malts. "
+,Atelier Do Malte,Terroir Paulista Biscoito / Melanoidina,specialty,6,72,55,200,1.6,150,12,1.92,120,25,Brazil,5,41,,TRUE,"The biscuit malt is a special well modified malt and in the same way that the caramel goes through a ""stewing"" process at low temperatures for the action of proteases and production of the precursors of the ""toasted bread"" flavor. This malt is longer to cure at higher temperatures for the development of intense color and flavor. Due to the fact that it is subjected to high temperatures with high humidity, the enzymatic loss is considerable and, therefore, it must be used in mixture with base malts. "
+,Atelier Do Malte,Terroir Paulista Caramelo 1,caramel,6,75,35,200,1.6,150,12,1.92,120,30,Brazil,5,41,,TRUE,"Caramel malt is a special well-modified malt where, at the beginning of drying, it is ""stuffed"" for gelatinization and saccharification of starch and a higher curing temperature for caramelization of sugars. Due to the fact that it is subjected to high temperatures with high humidity, the enzymatic loss is considerable and, therefore, it must be used in mixture with base malts. "
+,Atelier Do Malte,Terroir Paulista Caramelo 2,caramel,6,75,55,200,1.6,150,12,1.92,120,25,Brazil,5,41,,,"Caramel 2 malt is a special well-modified malt and in the same way that caramel goes through a “stuffing” process at higher temperatures for the action of amylases and the production of precursors of the “caramel” flavor. This malt is longer to cure at higher temperatures for the development of intense color and flavor. Due to the fact that it is subjected to high temperatures with high humidity, the enzymatic loss is considerable and, therefore, it must be used in mixture with base malts. "
+,Atelier Do Malte,Terroir Paulista Caramelo 3,caramel,6,75,100,200,1.6,150,12,1.92,120,20,Brazil,5,41,,,"Caramel 3 malt is a special well-modified malt and in the same way that caramel goes through a ""stuffing"" process at higher temperatures for the action of amylases and the production of precursors of ""caramel"" flavor. Curing of this malt is longer at higher temperatures for the development of the desired intense color and flavor. Due to the fact that it is subjected to high temperatures with high humidity, the enzymatic loss is considerable and, therefore, it must be used in mixture with base malts. "
+,Atelier Do Malte,Terroir Paulista Caramelo 130 EBC,caramel,6,74,140,200,1.6,150,12,1.92,120,20,Brazil,5,41,,TRUE,"Darker caramelized malt. Provides a strong sweet taste of caramel and baked bread, as well as a darker golden color to your beer. It is a malt that goes through the ""stuffing"" process to produce sugars and caramelize causing vitrification of part of the starch, which contributes to providing more body to the beer like other caramel malts, and also good production and retention of foam."
+,Atelier Do Malte,Terroir Paulista IAC-600 Black Rice Malt,specialty,6,74,0,0,,120,9,1.44,,40,Brazil,,,,TRUE,"Black rice malt is a novelty at Atelier do Malte, which, in partnership with the producers of Alto do Marins, has been developing rice malt options to supply microbrewers and homemade brewers with gluten-free malt options and other national products for whom has creativity and likes news. The rice has the highest gelatinization temperature, and a test of the best brewing ramp is recommended to obtain a good enzymatic power and greater extract. Rice has extract and enzymatic power slightly below traditional barley, behaving like a caramelized malt in this regard . "
+,Atelier Do Malte,White Rice Malt TERROIR PAULISTA,specialty,7,62,5,0.2,,,10,1.6,125,80,Brazil,,46,,,"WHITE RICE MALT is a novelty from Atelier Do Malte. We have been developing malt options to supply microbrewers and home-made adventurers with new options of GLUTEN-FREE MALT and different NATIONAL products for those with creativity and looking for novelties. A disadvantage of working with uncooked rice as an adjunct to beer is its high gelatinization temperature, making it difficult to break down starch in sugars, generating a low extract, and also the lack of enzymes to guarantee the breakdown of numerous substances in rice and needing a separate decoction process. However, we offer you RICE MALT. During the malting process, several substances break down, such as proteins, beta glucans and polysaccharides, as well as the production and release of enzymes that will break these substances evenly during mashing. For this reason, RICE MALT has a lower gelatinization temperature and has enzymes that will assist in the production of a must suitable for the growth of yeast and the production of your beer, which can be called gluten-free beer."
+,Atelier Do Malte,Light Wheat Malt,base,6,82.1,6,,1.9,105,13.5,2.16,,100,Brazil,,,,TRUE,"Because it has a slightly higher percentage of protein than barley, wheat malt is famous for leaving the characteristic of greater turbidity in beer, but this characteristic is very appreciated in Weiss and Wit beers.     In order to maintain a light color and with a high level of enzymes, light wheat malt does not force its modification and is taken care of during drying and roasting so that the curing temperature is sufficient to eliminate DMS precursors and inactivate oxidative enzymes. and for the development of flavor without, however, compromising the proteolytic and amylolytic enzymes of the malt.  "
+,Atelier Do Malte,Munich Wheat Malt,specialty,6,82,25,,1.9,,13.5,2.16,,30,Brazil,,,,,"For having a slightly higher percentage of protein than barley, wheat malt is famous for leaving the characteristic of greater turbidity in beer, but this characteristic is very appreciated in some beers for increasing the retention of the foam and the body of the beer.     For the development of color, Munich wheat malt forces its modification (higher moisture in the maceration and germination time). At the beginning of drying, it is stewed to produce free amino acids that will facilitate the browning reactions. Care is taken during drying and roasting so that the curing temperature is sufficient to eliminate DMS precursors, inactivate oxidative enzymes and to develop the desired color and flavor.   "
+,,,,,,,,,,,0,,,,,,,,
+,Avangard,Pilsener Malt,base,4.5,81,4,300,1.6,220,11,1.76,120,,Germany,,,5.8,,
+,Avangard,Pilsener Malt 6 row winter,,4.5,80,4,300,1.6,250,11.2,1.792,120,,Germany,,,5.8,,
+,Avangard,Pilsener Malt 2 row winter,,4.5,79,4,350,1.6,300,11.5,1.84,120,,Germany,,,5.8,,
+,Avangard,Pale Ale Malt,base,4.5,80,8,300,1.6,200,11.5,1.84,120,,Germany,,,5.8,,
+,Avangard,Vienna Malt,base,4.5,80,12,350,1.65,200,11.5,1.84,120,,Germany,,,5.8,,
+,Avangard,Munich Malt,base,4.5,80.5,32,350,1.65,200,11,1.76,120,,Germany,,,5.5,,
+,Avangard,Light Caramel Malt,,5,78,25,,,,11.5,1.84,120,,Germany,,,5.5,,
+,Avangard,Dark Caramel Malt,,5,78,65,,,,11.5,1.84,,,Germany,,,5.5,,
+,Avangard,Wheat Malt,base,5,83,5,,,,13.5,2.16,90,,Germany,,,5.8,,
+,,,,,,,,,,,0,,,,,,,,
+,Bairds,Lager Malt,base,4.5,80.08,4,,,215,10.6,1.696,,100,UK,,40,,,European style pilsener malt used for brewing premium lagers.  Imparts light golden colour and sweet wort flavours.
+,Bairds,Pale Ale Malt,base,4.5,81.5,7,,,215,10.3,1.648,,100,UK,,42.5,,,Can be used in pale ale beers or even Porters and Stouts. Imparts a golden colour and rich malty flavour notes.
+,Bairds,Pale Ale Low Colour Malt,base,4.5,81.5,4,,,140,10.3,1.648,,100,UK,,39,,,Can be used in pale ale beers or even porters and stouts. Imparts a golden colour and rich malty flavour notes.
+,Bairds,Winter Pale Ale Malt,base,4,81.5,4,,,140,9.7,1.552,,100,UK,,42.5,,,Can be used in pale ale beers or even porters and stouts. Imparts a golden colour and rich malty flavour notes.
+,Bairds,Winter Pale Ale Low Colour Malt,base,4,81.5,4,,,140,9.7,1.552,,100,UK,,42.5,,,Can be used in pale ale beers or even porters and stouts. Imparts a golden colour and rich malty flavour notes.
+,Bairds,Maris Otter Pale Ale Malt,base,4,81.5,7,,,140,10,1.6,,100,UK,,42.5,,,"Best Ale Type Beers, Imparts sweet, complex biscuit type notes to Best Ale type beers."
+,Bairds,Maris Otter Low Colour Malt,base,4.5,81.5,4.5,,,140,10,1.6,,100,UK,,42.5,,,"Best Ale Type Beers, Imparts sweet, complex biscuit type notes to Best Ale type beers."
+,Bairds,Scottish Golden Promise Malt,base,4.5,79.5,4.5,,,215,10.3,1.648,,100,UK,,37,,,"Perfect for IPAs, Scotch and English ales, Imparts light golden colour and sweet wort flavours."
+,Bairds,Scottish Ale Malt,base,4,81.5,4.5,,,140,9.7,1.552,,100,UK,,42.5,,,Can be used in pale ale beers or even porters and stouts. Imparts light golden colour and sweet wort flavours.
+,Bairds,Vienna Malt,roasted,3.5,80.05,10,,,145,11.3,1.808,,15,UK,,43,,,Used for making dark lager beer of the Vienna or Märzen style. Provides sweet worts and light golden to orange hues.
+,Bairds,Munich Malt,roasted,3.5,80,15,,,120,11.3,1.808,,15,UK,,42,,,Used in the production of dark Dunkel lagers. Provides sweet worts and light golden to orange hues.
+,Bairds,Hi-Dry Malt,roasted,4.5,80,50,,,120,11,1.76,,15,UK,,42,,,"Perfect for a bock beer, Bready and Malty in flavour."
+,Bairds,Greenwich Crystal Malt,caramel,4.5,78,160,,,,,0,,10,UK,,,,,"Best Ale Type Beers, A complex range of sweet caramel, toffee flavours and enhanced mouthfeel."
+,Bairds,1823 London Lager Malt,specialty,4.5,80.8,4,,,245,10.6,1.696,,100,UK,,40,,,"Lager or low coloured ales, Provides a malty and honeyed flavour."
+,Bairds,Maris Otter Finest Ale Malt,specialty,4,82,7,,,165,9.7,1.552,,100,UK,,42.5,,,"Best Ale type beers,  Imparts sweet, complex biscuit type notes to Best Ale type beers."
+,Bairds,Maris Otter Crystal Malt,specialty,4.5,78,160,,,,,0,,10,UK,,,,,"Best Ale Type Beers, Excentuated biscuity notes with very sweet honey and caramel flavours yet and a slightly bitter finish."
+,,,,,,,,,,,0,,,,,,,,
+,Barrett Burston Malting,Pale Malt,base,4.8,80,4.5,,,230,,1.84,,,Australia,,42.5,,,
+,Barrett Burston Malting,Ale Malt,base,4.5,80,7,,,200,,1.84,,,Australia,,43,,,
+,Barrett Burston Malting,Wheat Malt,base,5.5,77,5.5,,,250,,1.85,,,Australia,,41,,,
+,Barrett Burston Malting,Vienna Malt,base,,,12,,,,,,,,Australia,,,,,
+,Barrett Burston Malting,Munich Malt,base,,,20,,,,,,,,Australia,,,,,
+,Barrett Burston Malting,Dark Munich Malt,base,4.5,,28,,,,,,,,Australia,,,,,
+,Barrett Burston Malting,Caramalt Malt,specialty,5,75,60,,,,,,,,Australia,,,,,
+,Barrett Burston Malting,Medium Crystal Malt,specialty,,,180,,,,,,,,Australia,,,,,
+,Barrett Burston Malting,Dark Crystal Malt,specialty,,,280,,,,,,,,Australia,,,,,
+,Barrett Burston Malting,Amber Malt,roasted,,,80,,,,,,,,Australia,,,,,
+,Barrett Burston Malting,Chocolate Malt,roasted,,,500,,,,,,,,Australia,,,,,
+,Barrett Burston Malting,Roasted Malt,roasted,,,1150,,,,,,,,Australia,,,,,
+,Barrett Burston Malting,Roasted Barley,roasted,,,1000,,,,,,,,Australia,,,,,
+,Barrett Burston Malting,Dark Roast Malt,roasted,,,1400,,,,,,,,Australia,,,,,
+,,,,,,,,,,,,,,,,,,,
+,BestMalz,BEST Heidelberg,base,4.9,80.5,2.9,,1.6,250,11.5,1.84,,100,Germany,,39.5,5.9,,"Base malt for Pale Ales, Pale Premium Pilsner and Pilsner beers, ‘light’ beers, as emzyme-rich and light-colored basis for all beer styles."
+,,BEST Pilsen Malt ,base,4.9,80.5,4.9,,1.6,250,11.5,1.84,,100,,,40.5,5.9,,"Base malt for all beers, Premium Pilsner ans Pilsner beers, Export, Kölsch, Lager, Helles, light beers, and as a base malt for almost all beer styles."
+,,BEST Organic Pilsen Malt,base,4.9,80.5,4.9,,,,,0,,,,,,,,
+,,,base,,,,,,,,0,,,,,,,,
+,,,base,,,,,,,,0,,,,,,,,
+,,,base,,,,,,,,0,,,,,,,,
+,,,base,,,,,,,,0,,,,,,,,
+,,,base,,,,,,,,0,,,,,,,,
+,,,base,,,,,,,,0,,,,,,,,
+,,,,,,,,,,,0,,,,,,,,
+,,,,,,,,,,,0,,,,,,,,
+,,,,,,,,,,,0,,,,,,,,
+,,,,,,,,,,,0,,,,,,,,
+,,,,,,,,,,,0,,,,,,,,
+,,,,,,,,,,,0,,,,,,,,
+,,,,,,,,,,,0,,,,,,,,
+,,,,,,,,,,,0,,,,,,,,
+,,,,,,,,,,,0,,,,,,,,
+,,,,,,,,,,,0,,,,,,,,
+,,,,,,,,,,,0,,,,,,,,
+,,,,,,,,,,,0,,,,,,,,
+,Bindewald,,,,,,,,,,0,,,,,,,,
+, Bonsak Gårdsmalteri,,,,,,,,,,0,,,,,,,,
+, Briess,,,,,,,,,,0,,,,,,,,
+, Candi Syrup,,,,,,,,,,0,,,,,,,,
+, Cargill,,,,,,,,,,0,,,,,,,,
+, Cargill (Gambrinus),,,,,,,,,,0,,,,,,,,
+, Cascade Beer Candi Company,,,,,,,,,,0,,,,,,,,
+, Castle Malting,,,,,,,,,,0,,,,,,,,
+, Coopers,,,,,,,,,,0,,,,,,,,
+, Crisp,,,,,,,,,,0,,,,,,,,
+, DURST MALZ,,,,,,,,,,0,,,,,,,,
+, Dingemans,,,,,,,,,,0,,,,,,,,
+, Double Eagle,,,,,,,,,,0,,,,,,,,
+, Fruits Rouges & Co,,,,,,,,,,0,,,,,,,,
+, Fuglsang,,,,,,,,,,0,,,,,,,,
+, Gambrinus,,,,,,,,,,0,,,,,,,,
+, Gladfield,,,,,,,,,,0,,,,,,,,
+, Great Western,,,,,,,,,,0,,,,,,,,
+, Harraway's,,,,,,,,,,0,,,,,,,,
+, Hoepfner,,,,,,,,,,0,,,,,,,,
+, International Malting Company,,,,,,,,,,0,,,,,,,,
+, Ireks,,,,,,,,,,0,,,,,,,,
+, Joe White Maltings,,,,,,,,,,0,,,,,,,,
+, Lyle's,Golden Syrup,,,,,,,,,0,,,,,,,,
+, Maltear,,,,,,,,,,0,,,,,,,,
+, Malteria Blumenau,,,,,,,,,,,,,,,,,,
+, Maris Otter,,,,,,,,,,,,,,,,,,
+, Mecca Grade Estate Malt,,,,,,,,,,,,,,,,,,
+, Muntons,,,,,,,,,,,,,,,,,,
+, Norsk Malt,,,,,,,,,,,,,,,,,,
+, Patagonia,,,,,,,,,,,,,,,,,,
+, Rahr,,,,,,,,,,,,,,,,,,
+, Raisio,,,,,,,,,,,,,,,,,,
+, Rhoen Malz,,,,,,,,,,,,,,,,,,
+,SAB,,,,,,,,,,,,,,,,,,
+, Schreier,,,,,,,,,,,,,,,,,,
+, Sekado,,,,,,,,,,,,,,,,,,
+, Simpsons,,,,,,,,,,,,,,,,,,
+, Skagit Valley Malting,,,,,,,,,,,,,,,,,,
+, Steinbach Malzerei,,,,,,,,,,,,,,,,,,
+, The Swaen,,,,,,,,,,,,,,,,,,
+, Thomas Fawcett,,,,,,,,,,,,,,,,,,
+, Two Track Malting Company,,,,,,,,,,,,,,,,,,
+, Viking Malt,,,,,,,,,,,,,,,,,,
+, Warminster,,,,,,,,,,,,,,,,,,
+, Weyermann,,,,,,,,,,,,,,,,,,
