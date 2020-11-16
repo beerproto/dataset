@@ -18,12 +18,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 5,
-					"unit": "SRM"
+					"value": 10,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 12,
-					"unit": "SRM"
+					"value": 24,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -79,12 +79,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 6,
-					"unit": "SRM"
+					"value": 12,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 14,
-					"unit": "SRM"
+					"value": 28,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -140,12 +140,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 8,
-					"unit": "SRM"
+					"value": 16,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 17,
-					"unit": "SRM"
+					"value": 34,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -201,12 +201,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 6,
-					"unit": "SRM"
+					"value": 12,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 15,
-					"unit": "SRM"
+					"value": 30,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -262,12 +262,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 8,
-					"unit": "SRM"
+					"value": 16,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 30,
-					"unit": "SRM"
+					"value": 60,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -323,12 +323,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 9,
-					"unit": "SRM"
+					"value": 18,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 19,
-					"unit": "SRM"
+					"value": 38,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -384,12 +384,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 3,
-					"unit": "SRM"
+					"value": 6,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 6,
-					"unit": "SRM"
+					"value": 12,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -445,12 +445,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 5,
-					"unit": "SRM"
+					"value": 10,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 12,
-					"unit": "SRM"
+					"value": 24,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -506,12 +506,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 6,
-					"unit": "SRM"
+					"value": 12,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 14,
-					"unit": "SRM"
+					"value": 28,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -567,12 +567,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 8,
-					"unit": "SRM"
+					"value": 16,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 21,
-					"unit": "SRM"
+					"value": 42,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -628,12 +628,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 12,
-					"unit": "SRM"
+					"value": 24,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 30,
-					"unit": "SRM"
+					"value": 60,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -689,12 +689,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 6,
-					"unit": "SRM"
+					"value": 12,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 9,
-					"unit": "SRM"
+					"value": 18,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -750,12 +750,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 17,
-					"unit": "SRM"
+					"value": 34,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 34,
-					"unit": "SRM"
+					"value": 68,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -811,12 +811,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 12,
-					"unit": "SRM"
+					"value": 24,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 24,
-					"unit": "SRM"
+					"value": 48,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -872,12 +872,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 20,
-					"unit": "SRM"
+					"value": 40,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 35,
-					"unit": "SRM"
+					"value": 70,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -933,8 +933,8 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 30,
-					"unit": "SRM"
+					"value": 60,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -990,8 +990,8 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 40,
-					"unit": "SRM"
+					"value": 80,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -1047,8 +1047,8 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 20,
-					"unit": "SRM"
+					"value": 40,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -1104,12 +1104,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 15,
-					"unit": "SRM"
+					"value": 30,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 30,
-					"unit": "SRM"
+					"value": 60,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -1165,12 +1165,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 20,
-					"unit": "SRM"
+					"value": 40,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 35,
-					"unit": "SRM"
+					"value": 70,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -1226,12 +1226,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 11,
-					"unit": "SRM"
+					"value": 22,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 36,
-					"unit": "SRM"
+					"value": 72,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -1287,12 +1287,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 11,
-					"unit": "SRM"
+					"value": 22,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 18,
-					"unit": "SRM"
+					"value": 36,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -1348,8 +1348,8 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 40,
-					"unit": "SRM"
+					"value": 80,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -1405,8 +1405,8 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 40,
-					"unit": "SRM"
+					"value": 80,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -1462,12 +1462,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 3,
-					"unit": "SRM"
+					"value": 6,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 7,
-					"unit": "SRM"
+					"value": 14,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -1523,12 +1523,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 11,
-					"unit": "SRM"
+					"value": 22,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 18,
-					"unit": "SRM"
+					"value": 36,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -1584,12 +1584,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 4,
-					"unit": "SRM"
+					"value": 8,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 7,
-					"unit": "SRM"
+					"value": 14,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -1645,12 +1645,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 3,
-					"unit": "SRM"
+					"value": 6,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 7,
-					"unit": "SRM"
+					"value": 14,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -1706,12 +1706,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 4,
-					"unit": "SRM"
+					"value": 8,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 14,
-					"unit": "SRM"
+					"value": 28,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -1767,12 +1767,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 3,
-					"unit": "SRM"
+					"value": 6,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 7,
-					"unit": "SRM"
+					"value": 14,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -1828,12 +1828,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 6,
-					"unit": "SRM"
+					"value": 12,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 12,
-					"unit": "SRM"
+					"value": 24,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -1889,12 +1889,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 3,
-					"unit": "SRM"
+					"value": 6,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 7,
-					"unit": "SRM"
+					"value": 14,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -1966,12 +1966,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 15,
-					"unit": "SRM"
+					"value": 30,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 26,
-					"unit": "SRM"
+					"value": 52,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -2027,8 +2027,8 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 35,
-					"unit": "SRM"
+					"value": 70,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -2084,8 +2084,8 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 40,
-					"unit": "SRM"
+					"value": 80,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -2141,8 +2141,8 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 40,
-					"unit": "SRM"
+					"value": 80,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -2198,8 +2198,8 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 40,
-					"unit": "SRM"
+					"value": 80,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -2255,12 +2255,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 10,
-					"unit": "SRM"
+					"value": 20,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 17,
-					"unit": "SRM"
+					"value": 34,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -2316,12 +2316,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 10,
-					"unit": "SRM"
+					"value": 20,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 17,
-					"unit": "SRM"
+					"value": 34,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -2377,12 +2377,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 2,
-					"unit": "SRM"
+					"value": 4,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 9,
-					"unit": "SRM"
+					"value": 18,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -2438,12 +2438,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 3,
-					"unit": "SRM"
+					"value": 6,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 7,
-					"unit": "SRM"
+					"value": 14,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -2499,12 +2499,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 11,
-					"unit": "SRM"
+					"value": 22,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 18,
-					"unit": "SRM"
+					"value": 36,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -2560,8 +2560,8 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 5,
-					"unit": "SRM"
+					"value": 10,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -2617,8 +2617,8 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 20,
-					"unit": "SRM"
+					"value": 40,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -2706,12 +2706,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 3,
-					"unit": "SRM"
+					"value": 6,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 6,
-					"unit": "SRM"
+					"value": 12,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -2767,12 +2767,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 11,
-					"unit": "SRM"
+					"value": 22,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 19,
-					"unit": "SRM"
+					"value": 38,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -2828,12 +2828,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 2,
-					"unit": "SRM"
+					"value": 4,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 4,
-					"unit": "SRM"
+					"value": 8,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -2889,12 +2889,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 2,
-					"unit": "SRM"
+					"value": 4,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 7,
-					"unit": "SRM"
+					"value": 14,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -2950,12 +2950,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 3,
-					"unit": "SRM"
+					"value": 6,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 9,
-					"unit": "SRM"
+					"value": 18,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -3011,12 +3011,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 3,
-					"unit": "SRM"
+					"value": 6,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 9,
-					"unit": "SRM"
+					"value": 18,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -3072,12 +3072,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 3,
-					"unit": "SRM"
+					"value": 6,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 9,
-					"unit": "SRM"
+					"value": 18,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -3133,12 +3133,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 3,
-					"unit": "SRM"
+					"value": 7,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 15,
-					"unit": "SRM"
+					"value": 30,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -3194,12 +3194,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 9,
-					"unit": "SRM"
+					"value": 18,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 13,
-					"unit": "SRM"
+					"value": 26,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -3255,12 +3255,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 10,
-					"unit": "SRM"
+					"value": 20,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 25,
-					"unit": "SRM"
+					"value": 50,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -3316,12 +3316,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 4,
-					"unit": "SRM"
+					"value": 9,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 30,
-					"unit": "SRM"
+					"value": 60,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -3377,12 +3377,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 4,
-					"unit": "SRM"
+					"value": 8,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 25,
-					"unit": "SRM"
+					"value": 50,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -3438,12 +3438,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 4,
-					"unit": "SRM"
+					"value": 8,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 18,
-					"unit": "SRM"
+					"value": 36,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -3499,12 +3499,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 4,
-					"unit": "SRM"
+					"value": 8,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 7,
-					"unit": "SRM"
+					"value": 14,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -3560,12 +3560,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 6,
-					"unit": "SRM"
+					"value": 12,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 12,
-					"unit": "SRM"
+					"value": 24,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -3621,12 +3621,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 3,
-					"unit": "SRM"
+					"value": 7,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 10,
-					"unit": "SRM"
+					"value": 20,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -3682,12 +3682,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 9,
-					"unit": "SRM"
+					"value": 18,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 35,
-					"unit": "SRM"
+					"value": 70,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -3743,12 +3743,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 16,
-					"unit": "SRM"
+					"value": 32,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 36,
-					"unit": "SRM"
+					"value": 72,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -3804,12 +3804,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 4,
-					"unit": "SRM"
+					"value": 8,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 7,
-					"unit": "SRM"
+					"value": 14,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -3865,12 +3865,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 16,
-					"unit": "SRM"
+					"value": 32,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 36,
-					"unit": "SRM"
+					"value": 72,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -3926,12 +3926,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 2,
-					"unit": "SRM"
+					"value": 4,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 4,
-					"unit": "SRM"
+					"value": 8,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -3987,12 +3987,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 3,
-					"unit": "SRM"
+					"value": 6,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 7,
-					"unit": "SRM"
+					"value": 14,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -4048,12 +4048,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 3,
-					"unit": "SRM"
+					"value": 6,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 20,
-					"unit": "SRM"
+					"value": 40,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -4109,12 +4109,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 7,
-					"unit": "SRM"
+					"value": 14,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 16,
-					"unit": "SRM"
+					"value": 32,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -4170,12 +4170,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 12,
-					"unit": "SRM"
+					"value": 24,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 25,
-					"unit": "SRM"
+					"value": 50,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -4231,12 +4231,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 6,
-					"unit": "SRM"
+					"value": 12,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 13,
-					"unit": "SRM"
+					"value": 26,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -4292,12 +4292,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 6,
-					"unit": "SRM"
+					"value": 12,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 13,
-					"unit": "SRM"
+					"value": 26,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -4353,12 +4353,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 6,
-					"unit": "SRM"
+					"value": 12,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 40,
-					"unit": "SRM"
+					"value": 80,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -4482,12 +4482,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 5,
-					"unit": "SRM"
+					"value": 10,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 50,
-					"unit": "SRM"
+					"value": 100,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -4543,12 +4543,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 3,
-					"unit": "SRM"
+					"value": 6,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 6,
-					"unit": "SRM"
+					"value": 12,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -4604,12 +4604,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 15,
-					"unit": "SRM"
+					"value": 30,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 35,
-					"unit": "SRM"
+					"value": 70,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -4665,12 +4665,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 5,
-					"unit": "SRM"
+					"value": 10,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 12,
-					"unit": "SRM"
+					"value": 25,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -4726,12 +4726,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 3,
-					"unit": "SRM"
+					"value": 6,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 10,
-					"unit": "SRM"
+					"value": 20,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -4787,12 +4787,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 3,
-					"unit": "SRM"
+					"value": 6,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 9,
-					"unit": "SRM"
+					"value": 18,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -4848,12 +4848,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 5,
-					"unit": "SRM"
+					"value": 10,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 12,
-					"unit": "SRM"
+					"value": 24,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -4909,12 +4909,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 4,
-					"unit": "SRM"
+					"value": 8,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 12,
-					"unit": "SRM"
+					"value": 24,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -4970,12 +4970,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 4,
-					"unit": "SRM"
+					"value": 8,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 12,
-					"unit": "SRM"
+					"value": 24,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -5031,12 +5031,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 2,
-					"unit": "SRM"
+					"value": 4,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 40,
-					"unit": "SRM"
+					"value": 80,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -5092,12 +5092,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 2,
-					"unit": "SRM"
+					"value": 4,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 40,
-					"unit": "SRM"
+					"value": 80,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -5153,12 +5153,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 3,
-					"unit": "SRM"
+					"value": 6,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 6,
-					"unit": "SRM"
+					"value": 12,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -5214,12 +5214,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 4,
-					"unit": "SRM"
+					"value": 8,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 5,
-					"unit": "SRM"
+					"value": 11,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -5275,12 +5275,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 3,
-					"unit": "SRM"
+					"value": 6,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 6,
-					"unit": "SRM"
+					"value": 12,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -5336,12 +5336,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 10,
-					"unit": "SRM"
+					"value": 20,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 18,
-					"unit": "SRM"
+					"value": 36,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -5397,12 +5397,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 13,
-					"unit": "SRM"
+					"value": 26,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 23,
-					"unit": "SRM"
+					"value": 46,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -5458,12 +5458,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 4,
-					"unit": "SRM"
+					"value": 8,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 15,
-					"unit": "SRM"
+					"value": 30,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -5519,12 +5519,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 3,
-					"unit": "SRM"
+					"value": 6,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 5,
-					"unit": "SRM"
+					"value": 10,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -5580,12 +5580,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 15,
-					"unit": "SRM"
+					"value": 30,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 17,
-					"unit": "SRM"
+					"value": 34,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -5641,12 +5641,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 15,
-					"unit": "SRM"
+					"value": 30,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 24,
-					"unit": "SRM"
+					"value": 48,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -5702,12 +5702,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 2,
-					"unit": "SRM"
+					"value": 4,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 4,
-					"unit": "SRM"
+					"value": 8,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -5763,12 +5763,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 4,
-					"unit": "SRM"
+					"value": 8,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 5,
-					"unit": "SRM"
+					"value": 11,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -5824,12 +5824,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 4,
-					"unit": "SRM"
+					"value": 8,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 15,
-					"unit": "SRM"
+					"value": 30,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -5885,12 +5885,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 20,
-					"unit": "SRM"
+					"value": 40,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 30,
-					"unit": "SRM"
+					"value": 60,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -5946,12 +5946,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 4,
-					"unit": "SRM"
+					"value": 8,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 9,
-					"unit": "SRM"
+					"value": 18,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -6007,12 +6007,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 20,
-					"unit": "SRM"
+					"value": 40,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 30,
-					"unit": "SRM"
+					"value": 60,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -6068,12 +6068,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 12,
-					"unit": "SRM"
+					"value": 24,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 30,
-					"unit": "SRM"
+					"value": 60,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -6120,12 +6120,12 @@
 			"finalGravity": {},
 			"color": {
 				"minimum": {
-					"value": 15,
-					"unit": "SRM"
+					"value": 30,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 50,
-					"unit": "SRM"
+					"value": 100,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -6181,12 +6181,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 2,
-					"unit": "SRM"
+					"value": 4,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 4,
-					"unit": "SRM"
+					"value": 8,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -6242,12 +6242,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 2,
-					"unit": "SRM"
+					"value": 4,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 4,
-					"unit": "SRM"
+					"value": 8,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -6303,12 +6303,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 1,
-					"unit": "SRM"
+					"value": 3,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 4,
-					"unit": "SRM"
+					"value": 8,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -6364,12 +6364,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 1,
-					"unit": "SRM"
+					"value": 3,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 12,
-					"unit": "SRM"
+					"value": 24,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -6425,12 +6425,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 3,
-					"unit": "SRM"
+					"value": 6,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 6,
-					"unit": "SRM"
+					"value": 12,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -6486,12 +6486,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 3,
-					"unit": "SRM"
+					"value": 6,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 6,
-					"unit": "SRM"
+					"value": 12,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -6547,12 +6547,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 3,
-					"unit": "SRM"
+					"value": 6,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 6,
-					"unit": "SRM"
+					"value": 12,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -6608,12 +6608,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 2,
-					"unit": "SRM"
+					"value": 4,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 6,
-					"unit": "SRM"
+					"value": 12,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -6669,12 +6669,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 6,
-					"unit": "SRM"
+					"value": 12,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 14,
-					"unit": "SRM"
+					"value": 28,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -6730,12 +6730,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 4,
-					"unit": "SRM"
+					"value": 8,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 15,
-					"unit": "SRM"
+					"value": 30,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -6791,12 +6791,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 14,
-					"unit": "SRM"
+					"value": 28,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 25,
-					"unit": "SRM"
+					"value": 50,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -6904,12 +6904,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 2,
-					"unit": "SRM"
+					"value": 4,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 5,
-					"unit": "SRM"
+					"value": 10,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -6965,12 +6965,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 3,
-					"unit": "SRM"
+					"value": 6,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 4,
-					"unit": "SRM"
+					"value": 8,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -7026,8 +7026,8 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 2,
-					"unit": "SRM"
+					"value": 4,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -7083,12 +7083,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 3,
-					"unit": "SRM"
+					"value": 6,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 12,
-					"unit": "SRM"
+					"value": 24,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -7144,12 +7144,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 2,
-					"unit": "SRM"
+					"value": 4,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 5,
-					"unit": "SRM"
+					"value": 10,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -7205,12 +7205,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 8,
-					"unit": "SRM"
+					"value": 16,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 15,
-					"unit": "SRM"
+					"value": 30,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -7266,12 +7266,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 2,
-					"unit": "SRM"
+					"value": 4,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 10,
-					"unit": "SRM"
+					"value": 20,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -7343,12 +7343,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 5,
-					"unit": "SRM"
+					"value": 10,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 50,
-					"unit": "SRM"
+					"value": 100,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -7405,11 +7405,11 @@
 			"color": {
 				"minimum": {
 					"value": 2,
-					"unit": "SRM"
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 10,
-					"unit": "SRM"
+					"value": 20,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -7465,12 +7465,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 5,
-					"unit": "SRM"
+					"value": 10,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 50,
-					"unit": "SRM"
+					"value": 100,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -7526,12 +7526,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 5,
-					"unit": "SRM"
+					"value": 10,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 50,
-					"unit": "SRM"
+					"value": 100,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -7587,12 +7587,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 5,
-					"unit": "SRM"
+					"value": 10,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 50,
-					"unit": "SRM"
+					"value": 100,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -7648,12 +7648,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 5,
-					"unit": "SRM"
+					"value": 10,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 50,
-					"unit": "SRM"
+					"value": 100,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -7741,12 +7741,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 5,
-					"unit": "SRM"
+					"value": 10,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 50,
-					"unit": "SRM"
+					"value": 100,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -7802,12 +7802,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 5,
-					"unit": "SRM"
+					"value": 10,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 50,
-					"unit": "SRM"
+					"value": 100,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -7863,12 +7863,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 1,
-					"unit": "SRM"
+					"value": 2,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 100,
-					"unit": "SRM"
+					"value": 200,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -7924,12 +7924,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 1,
-					"unit": "SRM"
+					"value": 2,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 100,
-					"unit": "SRM"
+					"value": 200,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -8033,12 +8033,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 4,
-					"unit": "SRM"
+					"value": 8,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 20,
-					"unit": "SRM"
+					"value": 40,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
@@ -8174,12 +8174,12 @@
 			},
 			"color": {
 				"minimum": {
-					"value": 4,
-					"unit": "SRM"
+					"value": 8,
+					"unit": "EBC"
 				},
 				"maximum": {
-					"value": 40,
-					"unit": "SRM"
+					"value": 80,
+					"unit": "EBC"
 				}
 			},
 			"originalGravity": {
