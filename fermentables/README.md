@@ -1,4 +1,4 @@
-All malt data is stored as EBC 
+All fermentable data is stored as EBC 
 
 To convert between EBC and ASBC you can use the following methods.
 

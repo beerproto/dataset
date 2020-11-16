@@ -138,15 +138,15 @@ func (s *Style) toColor() *beerproto.ColorRangeType {
 		if value == nil {
 			return nil
 		}
-		return &beerproto.ColorType{
-			Unit:  beerproto.ColorUnitType_SRM,
-			Value: float64(*value),
-		}
+
+		f := float64(*value)
+
+		return toColor(&f)
 	}
 
 	return &beerproto.ColorRangeType{
-		Minimum: toColor(s.ColorLowSRM),
-		Maximum: toColor(s.ColorHighSRM),
+		Minimum: toColor(s.ColorLowEBC),
+		Maximum: toColor(s.ColorHighEBC),
 	}
 }
 

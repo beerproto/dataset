@@ -45,6 +45,11 @@ var (
 	outputPackagingPtr     = packagingCommand.StringP("output", "o", "tty", "Output processed from CSV to (file, tty)")
 	outputFilePackagingPtr = packagingCommand.String("file", "f", "File output name")
 	indexPackagingFilePtr     = packagingCommand.String("index", "i", "")
+
+	fermentableCommand    = flag.NewFlagSet("fermentable", flag.ExitOnError)
+	outputFermentablePtr     = fermentableCommand.StringP("output", "o", "tty", "Output processed from CSV to (file, tty)")
+	outputFileFermentablePtr = fermentableCommand.String("file", "f", "File output name")
+	indexFermentableFilePtr     = fermentableCommand.String("index", "i", "")
 )
 
 func main() {
@@ -59,6 +64,7 @@ func main() {
 	hopsCommand.MarkHidden("index")
 	waterCommand.MarkHidden("index")
 	packagingCommand.MarkHidden("index")
+	fermentableCommand.MarkHidden("index")
 
 	switch strings.ToLower(os.Args[1]) {
 	case "styles":
@@ -75,6 +81,8 @@ func main() {
 		err = waterCommand.Parse(os.Args[2:])
 	case "packaging":
 		err = packagingCommand.Parse(os.Args[2:])
+	case "fermentable":
+		err = fermentableCommand.Parse(os.Args[2:])
 	default:
 		flag.PrintDefaults()
 		os.Exit(1)
@@ -174,5 +182,16 @@ func main() {
 		}
 
 		commands.ParsePackaging(packagingCommand.Arg(0), output, *outputFilePackagingPtr)
+	}
+
+	if fermentableCommand.Parsed() {
+		output := commands.Output(strings.ToLower(*outputFermentablePtr))
+		outputChoices := map[commands.Output]bool{commands.FILE: true, commands.TTY: true}
+		if _, validChoice := outputChoices[output]; !validChoice {
+			fermentableCommand.PrintDefaults()
+			os.Exit(1)
+		}
+
+		commands.ParseFermentables(fermentableCommand.Arg(0), output, *outputFileFermentablePtr)
 	}
 }

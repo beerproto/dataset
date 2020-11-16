@@ -73,38 +73,7 @@ func (s *Hop) ToOilContentType() *beerproto.OilContentType {
 	}
 }
 
-func total(low, high *float64) float64 {
-	if low == nil {
-		return 0
-	}
-	if high == nil {
-		return *low
-	}
 
-	sum := *low + *high
-	avg := (float64(sum)) / (float64(2))
-	return avg
-}
-
-
-func averagePercent(low, high *float64) *beerproto.PercentType {
-	if low == nil {
-		return nil
-	}
-	if high == nil || *high == 0{
-		return &beerproto.PercentType{
-			Value: *low,
-			Unit: beerproto.PercentType_PERCENT_SIGN,
-		}
-	}
-
-	sum := *low + *high
-	avg := (float64(sum)) / (float64(2))
-	return &beerproto.PercentType{
-		Value: avg,
-		Unit: beerproto.PercentType_PERCENT_SIGN,
-	}
-}
 
 func (s *Hop) ToType() beerproto.VarietyInformation_VarietyInformationType {
 
