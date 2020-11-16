@@ -25,7 +25,6 @@ Dark Wheat,1.039,84.40%,9,X,,,,,,,,,,,,,,,
 Munich Malt,1.037,80.00%,9,X,,,,,,,,,,X,,,,X,
 Smoked Malt,1.037,80.00%,9,X,,,,,,,,,,,,,X,,
 Crystal 10,1.033 - 1.035,71.4 - 75.7%,10,,,,X,,X,,,,X,,,,,X,
-Name,Potential,Yield,SRM,Mash Req.,Aromatic,Biscuit,Body,Burnt,Caramel,Chocolate,Coffee,Grainy,Head,Malty,Nutty,Roasted,Smoked,Sweet,Toasted
 Carastan 15,1.033 - 1.035,71.4 - 75.7%,15,,,,X,,X,,,,X,,,,,X,
 Munich 10,1.035,75.70%,10,X,,,,,,,,,,X,,,,X,
 Crystal 20,1.033 - 1.035,71.4 - 75.7%,20,,,,X,,X,,,,X,,,,,X,
@@ -45,7 +44,6 @@ Crystal 40,1.033 - 1.035,71.4 - 75.7%,40,,,,X,,X,,,,X,,,,,X,
 Caramel Wheat Malt,1.035,75.70%,46,,X,,,,,,,,,,,,,,
 Special Roast,1.033,71.40%,50,,X,X,,,,,,,,,,,,,X
 CaraMunich,1.033,71.40%,56,,,,,,X,,,,,,,,,,
-Name,Potential,Yield,SRM,Mash Req.,Aromatic,Biscuit,Body,Burnt,Caramel,Chocolate,Coffee,Grainy,Head,Malty,Nutty,Roasted,Smoked,Sweet,Toasted
 Crystal 60,1.033 - 1.035,71.4 - 75.7%,60,,,,X,,X,,,,X,,,,,X,
 Brown Malt,1.032,69.20%,65,X,,X,,,,,,,,,,,,,
 Crystal 80,1.033 - 1.035,71.4 - 75.7%,80,,,,X,,X,,,,X,,,,,X,
