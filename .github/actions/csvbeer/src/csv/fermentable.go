@@ -60,6 +60,14 @@ func (s Fermentable) ToFermentableType() *beerproto.FermentableType {
 		Fan:            toConcentrationType(s.FAN),
 		BetaGlucan:     toConcentrationType(s.BetaGlucans),
 		Notes:          s.Notes,
+		Inventory: &beerproto.FermentableInventoryType{
+			Amount: &beerproto.FermentableInventoryType_Mass{
+				Mass: &beerproto.MassType{
+					Value: 0,
+					Unit: beerproto.MassUnitType_KG,
+				},
+			},
+		},
 	}
 }
 

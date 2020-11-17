@@ -41,7 +41,14 @@ type Hop struct {
 func (s *Hop) ToVarietyInformation() *beerproto.VarietyInformation {
 	return &beerproto.VarietyInformation{
 		Id:        s.ID,
-		Inventory: &beerproto.HopInventoryType{},
+		Inventory: &beerproto.HopInventoryType{
+			Amount: &beerproto.HopInventoryType_Mass{
+				Mass: &beerproto.MassType{
+					Value: 0,
+					Unit: beerproto.MassUnitType_KG,
+				},
+			},
+		},
 		Type:      s.ToType(),
 		OilContent: s.ToOilContentType(),
 		//PercentLost:
