@@ -4,19 +4,13 @@ github.com/beerproto/beerproto_go
 # github.com/gocarina/gocsv v0.0.0-20200827134620-49f5c3fa2b3e
 ## explicit
 github.com/gocarina/gocsv
-# github.com/gocolly/colly/v2 v2.1.0
-## explicit
 # github.com/golang/protobuf v1.4.2
 ## explicit
 github.com/golang/protobuf/jsonpb
 github.com/golang/protobuf/proto
-# github.com/google/uuid v1.1.2
-## explicit
 # github.com/spf13/pflag v1.0.5
 ## explicit
 github.com/spf13/pflag
-# golang.org/x/tools v0.0.0-20190606124116-d0a3d012864b
-## explicit
 # google.golang.org/protobuf v1.25.0
 google.golang.org/protobuf/encoding/protojson
 google.golang.org/protobuf/encoding/prototext
