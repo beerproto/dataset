@@ -2,7 +2,11 @@
 	"hopVarieties": [
 		{
 			"id": "52edee8f-4b02-464f-9d29-438506597d50",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -46,7 +50,11 @@
 		},
 		{
 			"id": "ee6e54f9-c22d-46f3-ba10-141ac83f5dee",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -87,7 +95,11 @@
 		},
 		{
 			"id": "9bf8fcad-8927-4922-aa4c-141770152692",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -132,7 +144,11 @@
 		},
 		{
 			"id": "d63e7177-b708-42bc-8fb9-3ebd760d89a2",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -177,7 +193,11 @@
 		},
 		{
 			"id": "4daf0238-4cfa-4dea-8d39-ac823981d19d",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -221,7 +241,11 @@
 		},
 		{
 			"id": "704699d9-1a93-4a0c-9690-9c348a276c54",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -260,7 +284,11 @@
 		},
 		{
 			"id": "ba86644b-0ca6-4c09-a45d-92e1fb6a740d",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -305,7 +333,11 @@
 		},
 		{
 			"id": "7b3d32af-cfdf-42d3-a4a3-147137dcf98b",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -343,7 +375,11 @@
 		},
 		{
 			"id": "e658f643-ec75-43d0-b0d9-d672dedcd505",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -386,7 +422,11 @@
 		},
 		{
 			"id": "61ed16ec-86d1-41a7-b46e-6ae4294f9e2b",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -430,7 +470,11 @@
 		},
 		{
 			"id": "0226aef8-0502-4ab3-95b0-6e3bfbac60aa",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -475,7 +519,11 @@
 		},
 		{
 			"id": "24deb247-7885-4eb7-91c5-5bb4c3e097fa",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -517,7 +565,11 @@
 		},
 		{
 			"id": "57fccd1c-aa19-4132-8827-97a389d8bd67",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -561,7 +613,11 @@
 		},
 		{
 			"id": "532675b2-e884-448a-a68e-07e64e484d84",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -605,7 +661,11 @@
 		},
 		{
 			"id": "ed221263-3144-4409-a569-1e1a10a45a2c",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -649,7 +709,11 @@
 		},
 		{
 			"id": "ce3c74df-3d7d-48b2-96ad-f0fb8a324940",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -695,7 +759,11 @@
 		},
 		{
 			"id": "11bf4955-d508-4344-bddc-6f0592bf7d20",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -738,7 +806,11 @@
 		},
 		{
 			"id": "85c8ead3-8990-49f7-b9a8-6bc4001be057",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -783,7 +855,11 @@
 		},
 		{
 			"id": "130c023c-130d-45ee-8999-327675528d63",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -829,7 +905,11 @@
 		},
 		{
 			"id": "4581c3fc-2747-4ccf-ae6c-2c9fbeda2cd6",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -874,7 +954,11 @@
 		},
 		{
 			"id": "5f7979b2-e550-4e41-8c5e-68b2a5cd33aa",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -915,7 +999,11 @@
 		},
 		{
 			"id": "56e106d4-7619-4574-af01-96cb92c8bcaf",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -955,7 +1043,11 @@
 		},
 		{
 			"id": "d85841d6-9245-48bb-8997-ba537aebc390",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -990,7 +1082,11 @@
 		},
 		{
 			"id": "f5fa0ad8-1abb-416d-94ee-35df42a10bc3",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 4,
@@ -1037,7 +1133,11 @@
 		},
 		{
 			"id": "ee89cf17-742e-4c8a-8b84-c17ec12828c7",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -1081,7 +1181,11 @@
 		},
 		{
 			"id": "bd03cde3-f878-4f75-a829-e8523d14994a",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -1120,7 +1224,11 @@
 		},
 		{
 			"id": "a4667a32-3116-4166-a40e-e16e2b47ad6c",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -1165,7 +1273,11 @@
 		},
 		{
 			"id": "8ad8fd16-23ba-4a40-96a6-e1669ebd6b4c",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -1200,7 +1312,11 @@
 		},
 		{
 			"id": "716db1ba-65c9-4062-8c33-5b4b41f16474",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -1244,7 +1360,11 @@
 		},
 		{
 			"id": "d05944c1-b355-45aa-a86a-426c18e83f32",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -1288,7 +1408,11 @@
 		},
 		{
 			"id": "acd326e5-e65a-4237-927e-06b997a8a3a4",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -1333,7 +1457,11 @@
 		},
 		{
 			"id": "c2147d61-d4d9-4872-9255-ef1c719af64a",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -1376,7 +1504,11 @@
 		},
 		{
 			"id": "790491bd-5e43-49ee-b44c-c7ec6ca8254c",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -1420,7 +1552,11 @@
 		},
 		{
 			"id": "84706bcf-5989-463b-9736-339be29ae43a",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -1465,7 +1601,11 @@
 		},
 		{
 			"id": "becc36b2-cea5-4a28-99aa-b5b34b69f200",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -1506,7 +1646,11 @@
 		},
 		{
 			"id": "ec3f339a-2717-4d51-92a6-079ab5f19f1f",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -1551,7 +1695,11 @@
 		},
 		{
 			"id": "6d7b507f-1c9a-434f-b9ce-85d78d9e2187",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -1594,7 +1742,11 @@
 		},
 		{
 			"id": "dd28f84b-37cd-4521-9d7f-14d2980947c2",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -1637,7 +1789,11 @@
 		},
 		{
 			"id": "dae81657-29d1-43c7-aa1a-419086b1cab0",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -1682,7 +1838,11 @@
 		},
 		{
 			"id": "111fdcec-a60b-4cff-bd12-e34dc60eb57a",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -1727,7 +1887,11 @@
 		},
 		{
 			"id": "f061ea7b-1982-49c4-a65e-dd42a1aeb9e5",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -1772,7 +1936,11 @@
 		},
 		{
 			"id": "09c43fa1-2a2c-4693-86c5-f07c48852c6b",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -1816,7 +1984,11 @@
 		},
 		{
 			"id": "5a4e76bb-87f0-47cf-8b12-cc654f687a38",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -1860,7 +2032,11 @@
 		},
 		{
 			"id": "fadceaec-76d0-4e67-b445-6700c2f834b5",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -1904,7 +2080,11 @@
 		},
 		{
 			"id": "aaadc3e7-5d5e-49b6-88ad-5d16d5c44511",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -1949,7 +2129,11 @@
 		},
 		{
 			"id": "68874abd-4e28-43fa-8491-78eba85fd170",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -1991,7 +2175,11 @@
 		},
 		{
 			"id": "01546448-9d52-4ed0-8497-3e2791609356",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -2036,7 +2224,11 @@
 		},
 		{
 			"id": "72e08ee1-7002-4de6-9997-22438c9b3838",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -2080,7 +2272,11 @@
 		},
 		{
 			"id": "f1fd9f23-97c7-4408-8f57-31ea3c1737f5",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -2125,7 +2321,11 @@
 		},
 		{
 			"id": "ecc9c2ed-79c1-411a-a348-a34d25bfe5b1",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -2170,7 +2370,11 @@
 		},
 		{
 			"id": "f90c3b43-71e5-44d4-a054-5dacc3956452",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -2215,7 +2419,11 @@
 		},
 		{
 			"id": "2a1ecac1-4ecc-47d3-9f0f-d0ad1b0015ef",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -2259,7 +2467,11 @@
 		},
 		{
 			"id": "373e8ce3-6510-4215-a9b7-9c3eadaeaba8",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -2304,7 +2516,11 @@
 		},
 		{
 			"id": "d0e08b08-161c-4a87-affb-6fa317709218",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -2349,7 +2565,11 @@
 		},
 		{
 			"id": "6828aa98-3b5b-48b4-a3d8-78a4fca7e751",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -2394,7 +2614,11 @@
 		},
 		{
 			"id": "a29bc605-697b-4f86-a66a-afa16632b1d4",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 4.35,
@@ -2439,7 +2663,11 @@
 		},
 		{
 			"id": "45823549-c1fd-4c07-9e2f-12ba0086dfa5",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -2481,7 +2709,11 @@
 		},
 		{
 			"id": "66c709c9-fbce-4cd0-ba7c-bde353a0f6b0",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -2525,7 +2757,11 @@
 		},
 		{
 			"id": "ed972b2f-fe30-412b-9db0-3e86b0c0de6a",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -2562,7 +2798,11 @@
 		},
 		{
 			"id": "b4d7bca1-6884-4767-acf1-1333ebfaca92",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -2606,7 +2846,11 @@
 		},
 		{
 			"id": "704a0491-47d3-4e10-9ec6-18c770c49a9a",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -2651,7 +2895,11 @@
 		},
 		{
 			"id": "cb0117e5-72fa-4db4-bed2-2132be4e0eef",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -2695,7 +2943,11 @@
 		},
 		{
 			"id": "f31504b2-09f5-47b4-89ef-bf7b07b583e7",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -2740,7 +2992,11 @@
 		},
 		{
 			"id": "f25af93d-9875-4094-8381-75d49b985310",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -2780,7 +3036,11 @@
 		},
 		{
 			"id": "e04f21b9-8ccb-4ff5-9047-ced570b7e754",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -2825,7 +3085,11 @@
 		},
 		{
 			"id": "d4e009e9-8a7f-4bfd-83f2-37f4eac0c3a9",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -2869,7 +3133,11 @@
 		},
 		{
 			"id": "032c5355-dbed-42b6-8f84-346f6129aedc",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -2914,7 +3182,11 @@
 		},
 		{
 			"id": "8a62ca0a-d827-4292-8c8d-d3b9bca0af5e",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -2959,7 +3231,11 @@
 		},
 		{
 			"id": "09163f64-1222-45f8-8606-11e99884ff7b",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -3003,7 +3279,11 @@
 		},
 		{
 			"id": "ef989dcd-5816-4c61-a1de-56313e3d4481",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -3047,7 +3327,11 @@
 		},
 		{
 			"id": "fa407668-c53c-473b-ae7f-ee04aeda9f37",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -3085,7 +3369,11 @@
 		},
 		{
 			"id": "f84ced34-34a1-4cc4-b86e-1a9b5d79710e",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 4.550000000000001,
@@ -3130,7 +3418,11 @@
 		},
 		{
 			"id": "93ae9f9c-d70a-4c30-ba1d-dae53d103012",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -3170,7 +3462,11 @@
 		},
 		{
 			"id": "bae86f4c-08d1-40b8-913e-1266dd9a0a36",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 3.5,
@@ -3217,7 +3513,11 @@
 		},
 		{
 			"id": "866e0bb8-d644-4a93-95e3-28bdf8c6e068",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 2.5,
@@ -3262,7 +3562,11 @@
 		},
 		{
 			"id": "00e3c8ea-3fa1-43a2-9beb-7c4da2aa4caa",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -3307,7 +3611,11 @@
 		},
 		{
 			"id": "f17096fb-f6c9-4698-8ac2-3dcd8762dbb5",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -3352,7 +3660,11 @@
 		},
 		{
 			"id": "df17c96b-841c-486f-bc11-3fab6640402d",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 3.65,
@@ -3399,7 +3711,11 @@
 		},
 		{
 			"id": "5ac32842-e661-4dcf-9e96-8eda8bd8582f",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -3443,7 +3759,11 @@
 		},
 		{
 			"id": "50627f2a-dcd4-48cd-827f-f9d5c4f84d66",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -3487,7 +3807,11 @@
 		},
 		{
 			"id": "e7e851df-52e3-4adc-89f8-16f16807389c",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -3531,7 +3855,11 @@
 		},
 		{
 			"id": "bbe88b25-a24b-465a-9a35-f77979487bbe",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -3576,7 +3904,11 @@
 		},
 		{
 			"id": "8266245a-3044-47a9-a691-b825bf2c9a58",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -3621,7 +3953,11 @@
 		},
 		{
 			"id": "3bc3d825-2599-4d90-9bfb-85622767e8a8",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -3666,7 +4002,11 @@
 		},
 		{
 			"id": "991b1c91-c64c-48a1-af71-6822720fe954",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -3711,7 +4051,11 @@
 		},
 		{
 			"id": "5032f56d-0d8b-4e79-9b65-0ddf27acbace",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -3756,7 +4100,11 @@
 		},
 		{
 			"id": "e67d88cc-247a-4a84-801b-308a695a79e4",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -3800,7 +4148,11 @@
 		},
 		{
 			"id": "46f532e2-944d-4ad3-9224-c9cb032584f8",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -3844,7 +4196,11 @@
 		},
 		{
 			"id": "44ff1b3f-5ad0-456c-a884-bbe3a3f144e6",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -3883,7 +4239,11 @@
 		},
 		{
 			"id": "083bf6f2-dd8d-4d17-bd5c-0b408d53369e",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -3928,7 +4288,11 @@
 		},
 		{
 			"id": "dd97485b-cf98-4b1c-bd31-a32b512068c3",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -3973,7 +4337,11 @@
 		},
 		{
 			"id": "468ce484-6ca4-4f39-af6d-ff3c017eed15",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -4018,7 +4386,11 @@
 		},
 		{
 			"id": "ea00c9ed-9911-4e48-8bca-993f4f2df453",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -4061,7 +4433,11 @@
 		},
 		{
 			"id": "8e758240-ce72-4552-b6d0-45899ff3d5d4",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -4095,7 +4471,11 @@
 		},
 		{
 			"id": "29cfd15e-750c-4b2f-9d68-6152348470b6",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -4139,7 +4519,11 @@
 		},
 		{
 			"id": "eedb0dc7-6de2-4761-b3f8-312b4ece3427",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -4184,7 +4568,11 @@
 		},
 		{
 			"id": "0506654a-9326-46b2-a929-d6cc0b6c0be2",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -4229,7 +4617,11 @@
 		},
 		{
 			"id": "55d93695-325e-4128-a93c-ab2cff163213",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -4274,7 +4666,11 @@
 		},
 		{
 			"id": "6f3c1b43-d102-4758-a594-2ebf3c60589d",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -4319,7 +4715,11 @@
 		},
 		{
 			"id": "bb7c8c7a-5d78-42e6-930d-65f4ad7d0cce",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -4357,7 +4757,11 @@
 		},
 		{
 			"id": "ca3c7c64-9f97-42f8-8557-4134720a7139",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -4402,7 +4806,11 @@
 		},
 		{
 			"id": "d02a05e4-b02d-4e9d-a711-ac66cc1d194f",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -4445,7 +4853,11 @@
 		},
 		{
 			"id": "fae93516-350a-4466-970b-f6e292db3db9",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -4490,7 +4902,11 @@
 		},
 		{
 			"id": "c54765ce-bb95-48f7-a492-f1f21763f6ff",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -4533,7 +4949,11 @@
 		},
 		{
 			"id": "51677e49-dc21-4ca8-ad32-94d3882872b8",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -4577,7 +4997,11 @@
 		},
 		{
 			"id": "d9c3d8d9-f98f-4456-8344-6260e9837afe",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -4620,7 +5044,11 @@
 		},
 		{
 			"id": "82f7cc9f-aca1-47f7-b515-2dd6d0b1b951",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -4665,7 +5093,11 @@
 		},
 		{
 			"id": "10fd4a33-163e-4d90-9334-f5e4a3f64710",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -4710,7 +5142,11 @@
 		},
 		{
 			"id": "6a3f2c76-57bc-44e7-9631-4dbd9ab649c4",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -4751,7 +5187,11 @@
 		},
 		{
 			"id": "6205ac34-3f20-438f-b2ea-c9d7e63d09dd",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -4796,7 +5236,11 @@
 		},
 		{
 			"id": "434db236-eefb-4ded-871d-db08e27feaed",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -4840,7 +5284,11 @@
 		},
 		{
 			"id": "e79e963e-4241-41b3-90e9-984e0e242bd7",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 4.5,
@@ -4887,7 +5335,11 @@
 		},
 		{
 			"id": "c663a293-8ac3-416d-b7e8-f720d6bc39ed",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -4928,7 +5380,11 @@
 		},
 		{
 			"id": "d30c4acd-65b1-462d-9844-d6db87576f71",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -4969,7 +5425,11 @@
 		},
 		{
 			"id": "c909b3dc-9ceb-4bd5-9db7-a2f805031c7b",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -5014,7 +5474,11 @@
 		},
 		{
 			"id": "34811d9f-4ccc-4951-bb2f-84ee91b6d515",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -5058,7 +5522,11 @@
 		},
 		{
 			"id": "ec0f891c-eda8-4716-94cf-63ff458f9769",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -5100,7 +5568,11 @@
 		},
 		{
 			"id": "4f3470bb-3a43-4604-84c3-786d64ca4d17",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -5142,7 +5614,11 @@
 		},
 		{
 			"id": "63780b68-ac6d-4ffd-bfe3-d66ed0be47f2",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -5185,7 +5661,11 @@
 		},
 		{
 			"id": "1ec9c750-6b90-4dc3-a5f2-3035c04de5bf",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -5223,7 +5703,11 @@
 		},
 		{
 			"id": "24d10cbd-2ab1-4bf7-9df8-b2d32d67ffcf",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -5266,7 +5750,11 @@
 		},
 		{
 			"id": "67c40a89-84bc-4b42-b42c-d2ad74f75a05",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -5311,7 +5799,11 @@
 		},
 		{
 			"id": "5849b44e-aae6-4087-8192-de8aebb4c798",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -5355,7 +5847,11 @@
 		},
 		{
 			"id": "305ebf70-da57-41dd-b298-7998bcb049ef",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -5399,7 +5895,11 @@
 		},
 		{
 			"id": "5ff2a2f5-0f58-4c24-865a-621f4eeea209",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -5445,7 +5945,11 @@
 		},
 		{
 			"id": "82abc839-0e94-4048-89fd-925aa91554f4",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -5490,7 +5994,11 @@
 		},
 		{
 			"id": "bffde9a6-8cf1-4c11-b39d-7cae528af606",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -5533,7 +6041,11 @@
 		},
 		{
 			"id": "5de3b060-3fb2-443d-b162-3f68935c99ca",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -5577,7 +6089,11 @@
 		},
 		{
 			"id": "50807ab8-1daf-4acd-9872-7d566d4e9045",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -5622,7 +6138,11 @@
 		},
 		{
 			"id": "f68fa9d7-bd9b-48e7-a743-525233ebde1f",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 3.5,
@@ -5668,7 +6188,11 @@
 		},
 		{
 			"id": "15d6dc9d-b770-485b-8966-830f45958a7b",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -5710,7 +6234,11 @@
 		},
 		{
 			"id": "96bc049d-4848-4567-be30-450e08adca3c",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 4.25,
@@ -5757,7 +6285,11 @@
 		},
 		{
 			"id": "65c8fa99-cd5f-4e09-9374-58680fe8adbe",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -5801,7 +6333,11 @@
 		},
 		{
 			"id": "c39465bd-afea-4aa2-a375-b8a35bde4e26",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 4.05,
@@ -5847,7 +6383,11 @@
 		},
 		{
 			"id": "c6b89d53-7974-473d-9984-24e3ec37987b",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -5889,7 +6429,11 @@
 		},
 		{
 			"id": "c69d9c40-addc-40ab-9c78-e0646dfdedcf",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -5927,7 +6471,11 @@
 		},
 		{
 			"id": "7f78cae3-0fd8-4d93-9863-29a4d3008ed1",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -5971,7 +6519,11 @@
 		},
 		{
 			"id": "336dfdec-c55e-427e-9ce1-9b5be2bf8ce2",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -6012,7 +6564,11 @@
 		},
 		{
 			"id": "4a4eef3b-fde2-4aa1-9dc6-ecaee35b45a3",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -6055,7 +6611,11 @@
 		},
 		{
 			"id": "f81c8524-bc04-4967-814c-de652bf0b9b9",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -6097,7 +6657,11 @@
 		},
 		{
 			"id": "d693c82f-866c-49e1-8e6f-fe41ae6eb847",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -6137,7 +6701,11 @@
 		},
 		{
 			"id": "79cac655-7d4b-4bf3-a831-05d3e73cb0fe",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -6180,7 +6748,11 @@
 		},
 		{
 			"id": "c8358545-d960-448d-9be2-4dbc7617d0f1",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -6224,7 +6796,11 @@
 		},
 		{
 			"id": "1552ad24-bc00-4630-8053-dce17806840d",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 4.5,
@@ -6271,7 +6847,11 @@
 		},
 		{
 			"id": "6d95d548-ba65-4ee5-bb36-c26af15ae52d",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -6316,7 +6896,11 @@
 		},
 		{
 			"id": "6c6f1d42-3793-40db-aab0-f6fe98bb94fc",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 4,
@@ -6358,7 +6942,11 @@
 		},
 		{
 			"id": "6734a5b3-cc90-4bec-90dd-56b5e53c4a34",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -6401,7 +6989,11 @@
 		},
 		{
 			"id": "6bafaac2-dcc5-44e8-a347-b9b1c719048f",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -6438,7 +7030,11 @@
 		},
 		{
 			"id": "5ea58c55-56ea-4cdc-b128-29c2d8792f11",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -6483,7 +7079,11 @@
 		},
 		{
 			"id": "b404e0ad-0f11-4eb9-885a-7b4450777a78",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -6528,7 +7128,11 @@
 		},
 		{
 			"id": "f5433833-7e3e-43b4-b140-2db935d36f07",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -6571,7 +7175,11 @@
 		},
 		{
 			"id": "78f60b5e-dcb4-4e89-8e1c-6f97bf458dde",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -6616,7 +7224,11 @@
 		},
 		{
 			"id": "d2789438-7333-4281-93a8-4e18360c53f4",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -6660,7 +7272,11 @@
 		},
 		{
 			"id": "064e3123-204b-4f0b-9c82-42cd3c37bb3c",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -6702,7 +7318,11 @@
 		},
 		{
 			"id": "86a826b5-677c-4775-819a-bc1d54638a9e",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -6747,7 +7367,11 @@
 		},
 		{
 			"id": "4d8cfccc-0447-414a-bf3a-7e16ff944fc6",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -6784,7 +7408,11 @@
 		},
 		{
 			"id": "fdd6aa2a-78f2-4e08-84de-4c139ec55830",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -6830,7 +7458,11 @@
 		},
 		{
 			"id": "6b270527-dd03-4fec-b640-35a488fd6f82",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -6874,7 +7506,11 @@
 		},
 		{
 			"id": "58f98a65-23e3-4677-8097-94b394bfcfc9",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -6920,7 +7556,11 @@
 		},
 		{
 			"id": "7e6c4822-bf81-456a-943a-3dc1b66da81d",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -6963,7 +7603,11 @@
 		},
 		{
 			"id": "b056f752-0c76-4c47-83d1-c4a077bcd4ed",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -7003,7 +7647,11 @@
 		},
 		{
 			"id": "c3783354-370e-4b42-969e-896b139c47d0",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -7040,7 +7688,11 @@
 		},
 		{
 			"id": "f8c01f2d-e003-4753-9382-83f4abab2bba",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -7085,7 +7737,11 @@
 		},
 		{
 			"id": "2d4a7026-8ff5-4d50-b236-94d97d57d391",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -7130,7 +7786,11 @@
 		},
 		{
 			"id": "f4166418-cc1e-422a-9137-f7fa234e9e72",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -7174,7 +7834,11 @@
 		},
 		{
 			"id": "48c537c4-a211-40cf-b4e0-2422c63cc252",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -7219,7 +7883,11 @@
 		},
 		{
 			"id": "7e0feca7-da89-4807-817c-8d34ce771ec7",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -7262,7 +7930,11 @@
 		},
 		{
 			"id": "dd810cb5-79d7-490d-bd09-6e390528ff0e",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -7307,7 +7979,11 @@
 		},
 		{
 			"id": "965f436a-88d1-49e5-8ccf-e571bcedf9ed",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -7351,7 +8027,11 @@
 		},
 		{
 			"id": "102d4751-b62a-4a92-a33c-c23161de1cb1",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -7392,7 +8072,11 @@
 		},
 		{
 			"id": "958c75b3-93ab-43d2-b628-282a616386a9",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -7436,7 +8120,11 @@
 		},
 		{
 			"id": "a4ee7cc3-3417-416f-a3ad-8bdde3bb039b",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 4.45,
@@ -7482,7 +8170,11 @@
 		},
 		{
 			"id": "5a6e8838-d390-4fbc-9a23-d4a26318099c",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -7526,7 +8218,11 @@
 		},
 		{
 			"id": "282b8826-4d31-4988-aa38-a9149e5b982d",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -7571,7 +8267,11 @@
 		},
 		{
 			"id": "31778dc5-3b4a-40ce-85be-9091f6fe2de1",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -7615,7 +8315,11 @@
 		},
 		{
 			"id": "3d34278c-391e-449e-ae3a-c8fc72692560",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -7659,7 +8363,11 @@
 		},
 		{
 			"id": "e1d683ef-1ccf-421f-a993-59c6a3ed75cd",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -7698,7 +8406,11 @@
 		},
 		{
 			"id": "13e2563d-4b91-4d5e-a971-f909846c350e",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -7742,7 +8454,11 @@
 		},
 		{
 			"id": "ea2b2cdb-0361-48dc-98c6-0ad1fbd2347e",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 3.5,
@@ -7789,7 +8505,11 @@
 		},
 		{
 			"id": "efb6be4d-5896-4606-a477-2f4843ee17a3",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -7834,7 +8554,11 @@
 		},
 		{
 			"id": "729a6f8c-0715-472e-8552-4c8e22b48c91",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -7877,7 +8601,11 @@
 		},
 		{
 			"id": "03289b2f-3dde-4858-b5a2-383bd1c02eb5",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -7921,7 +8649,11 @@
 		},
 		{
 			"id": "5305ebbd-b3df-4859-9e3b-64bd2ea6f658",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -7962,7 +8694,11 @@
 		},
 		{
 			"id": "c2eaf31f-174e-49ec-9655-d46a0f560be8",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -8005,7 +8741,11 @@
 		},
 		{
 			"id": "b32f30f3-1549-458f-af65-69c38c1e0e6b",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -8051,7 +8791,11 @@
 		},
 		{
 			"id": "14abe846-3ac9-44c8-be4b-371850df7811",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -8095,7 +8839,11 @@
 		},
 		{
 			"id": "df1fffd4-0797-4e9d-bc01-96f15e4edcd4",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -8140,7 +8888,11 @@
 		},
 		{
 			"id": "2ed680d6-84ed-4e4c-99a5-827234d46af6",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -8184,7 +8936,11 @@
 		},
 		{
 			"id": "cfcf8531-0420-4586-8a67-a4d323dd578c",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 4.5,
@@ -8230,7 +8986,11 @@
 		},
 		{
 			"id": "471f6060-fff0-40a1-b6d4-6929f5327f58",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -8273,7 +9033,11 @@
 		},
 		{
 			"id": "5ee5cbbf-da8e-4407-bc9b-4a7edeb80195",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -8315,7 +9079,11 @@
 		},
 		{
 			"id": "e6f95fe0-385d-4f8a-bfad-3af65a45e449",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -8359,7 +9127,11 @@
 		},
 		{
 			"id": "9498b9a9-fc1f-424c-a203-9309abda70fb",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -8402,7 +9174,11 @@
 		},
 		{
 			"id": "ea98a427-bac2-4c29-b947-666acdcb0a5b",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -8440,7 +9216,11 @@
 		},
 		{
 			"id": "f15d12fe-775b-49f4-9579-3e62def21ec3",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 4,
@@ -8487,7 +9267,11 @@
 		},
 		{
 			"id": "517e98f7-7ade-40d5-b5e7-788f2ad8a048",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 5,
@@ -8533,7 +9317,11 @@
 		},
 		{
 			"id": "05f49f67-ef5c-459c-b0f1-cb6b080bc389",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"type": "AROMA",
 			"oilContent": {
 				"polyphenols": {
@@ -8579,7 +9367,11 @@
 		},
 		{
 			"id": "9ba17714-7737-412a-9717-ab08498420ae",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -8623,7 +9415,11 @@
 		},
 		{
 			"id": "51a499f5-0b77-4ca5-b938-e0161c988a8f",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -8658,7 +9454,11 @@
 		},
 		{
 			"id": "d0b105a0-e1aa-4293-8b41-75f4ae74b99e",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -8704,7 +9504,11 @@
 		},
 		{
 			"id": "c8a3ac82-fde4-4b7c-b2cc-cdfa9d9a3a5d",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -8749,7 +9553,11 @@
 		},
 		{
 			"id": "bcdd8dc0-d60c-4338-bf98-9ad0e3dc1ce7",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -8794,7 +9602,11 @@
 		},
 		{
 			"id": "2aa14b1e-eeb7-42fd-97a7-01fa42e73b48",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -8840,7 +9652,11 @@
 		},
 		{
 			"id": "a4660f15-8ca0-4035-a2de-564f666fda27",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -8880,7 +9696,11 @@
 		},
 		{
 			"id": "a49d646c-676a-4abd-9e47-6884ec9ee7d3",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -8924,7 +9744,11 @@
 		},
 		{
 			"id": "2aae093f-9c33-4260-ad77-01e5799355e3",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -8960,7 +9784,11 @@
 		},
 		{
 			"id": "67202528-26c9-4da9-8999-95e592989974",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -9001,7 +9829,11 @@
 		},
 		{
 			"id": "3c403564-7613-405e-b599-9ded2c7dac8c",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -9042,7 +9874,11 @@
 		},
 		{
 			"id": "867600c6-3ca2-4119-b844-4a84c2c89404",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -9087,7 +9923,11 @@
 		},
 		{
 			"id": "e4a492cc-29f7-4797-9ea1-c48398fac2e1",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -9132,7 +9972,11 @@
 		},
 		{
 			"id": "f8a0c5f6-8083-4c8d-a0c4-f6c5ce3f37b6",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -9175,7 +10019,11 @@
 		},
 		{
 			"id": "f29db17f-10a5-4ac6-9b8e-76c7cda3b97d",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -9220,7 +10068,11 @@
 		},
 		{
 			"id": "588f2f98-9078-47a1-8964-e841df6c7073",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 2.9,
@@ -9266,7 +10118,11 @@
 		},
 		{
 			"id": "1e6dbf0c-42a4-4c9e-ae0b-84d41c25157e",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -9310,7 +10166,11 @@
 		},
 		{
 			"id": "95dd3137-7d4a-40c5-9d3f-6b3de821c486",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -9355,7 +10215,11 @@
 		},
 		{
 			"id": "558df913-98cc-4454-8f77-aca863ad163f",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -9397,7 +10261,11 @@
 		},
 		{
 			"id": "1aee048e-9049-4224-8b0b-ffa61241e809",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -9441,7 +10309,11 @@
 		},
 		{
 			"id": "922e8f55-9b52-4548-8dd9-163f520fce89",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -9486,7 +10358,11 @@
 		},
 		{
 			"id": "76b20754-564c-476e-ae38-e260b534eaa6",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 4.5,
@@ -9533,7 +10409,11 @@
 		},
 		{
 			"id": "137fda6c-c609-4d77-b4e4-533b8f4f72b1",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -9577,7 +10457,11 @@
 		},
 		{
 			"id": "a9a245f8-eee2-4686-95b3-00b4aea7e6d5",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -9621,7 +10505,11 @@
 		},
 		{
 			"id": "23f7ebef-efe9-4b5e-b9ab-aefab3e00ff3",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -9665,7 +10553,11 @@
 		},
 		{
 			"id": "9b2a194c-d9e7-4c06-a4dc-4bb42cdac0b2",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -9704,7 +10596,11 @@
 		},
 		{
 			"id": "2e1c348a-9621-44b0-825f-337048071763",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -9748,7 +10644,11 @@
 		},
 		{
 			"id": "07f67df0-3086-4b97-be56-f46c8c45ada0",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 5,
@@ -9795,7 +10695,11 @@
 		},
 		{
 			"id": "22d1207a-44fb-4a8b-812c-f0c381d63a98",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -9833,7 +10737,11 @@
 		},
 		{
 			"id": "afb4b2db-2a03-4fe4-946d-7766fb98fdbc",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -9878,7 +10786,11 @@
 		},
 		{
 			"id": "383a4bdd-660d-479f-9ee4-737e60dc2970",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -9923,7 +10835,11 @@
 		},
 		{
 			"id": "704bac5f-ec41-4888-939a-da99e286d3fc",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -9967,7 +10883,11 @@
 		},
 		{
 			"id": "b6a9829f-c1c0-469b-80a2-b773105d6571",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -10011,7 +10931,11 @@
 		},
 		{
 			"id": "35b3c1b2-d844-497b-8667-db66a46d32b4",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -10055,7 +10979,11 @@
 		},
 		{
 			"id": "fe38cc95-382a-4bbd-a127-76c4208fcb66",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -10100,7 +11028,11 @@
 		},
 		{
 			"id": "5eb3f7bd-81b3-4d65-a16a-f7cf1701f8dc",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -10145,7 +11077,11 @@
 		},
 		{
 			"id": "9a98ba42-90fc-4a99-a982-eef63aabe84c",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -10190,7 +11126,11 @@
 		},
 		{
 			"id": "8c38c0fc-49d0-4467-873f-7824c06c361c",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -10232,7 +11172,11 @@
 		},
 		{
 			"id": "a612d777-750a-441f-951d-ba2cb7090403",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -10276,7 +11220,11 @@
 		},
 		{
 			"id": "1f6ab5da-96f6-4850-aa61-e66a0df133f6",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -10319,7 +11267,11 @@
 		},
 		{
 			"id": "4b1632fd-9254-456d-8a43-cac1ec656e16",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -10364,7 +11316,11 @@
 		},
 		{
 			"id": "772faa68-d0d6-49a4-8a7f-e687ae4812d2",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -10409,7 +11365,11 @@
 		},
 		{
 			"id": "07951902-3d80-4cab-afad-afa8abf1b6ad",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -10454,7 +11414,11 @@
 		},
 		{
 			"id": "812596d1-2c83-4b42-9b31-c7cc90b9d93c",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -10499,7 +11463,11 @@
 		},
 		{
 			"id": "20c4aba1-4050-427d-b5e8-10e7bd2c74c4",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -10542,7 +11510,11 @@
 		},
 		{
 			"id": "3d4da36d-e107-47d0-9fa1-801b10cfefeb",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -10585,7 +11557,11 @@
 		},
 		{
 			"id": "1addb3b9-925b-4a44-ae33-734fbc525e25",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -10629,7 +11605,11 @@
 		},
 		{
 			"id": "9f2b36ce-e3d0-4aab-8fc8-08d57b2269c8",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -10674,7 +11654,11 @@
 		},
 		{
 			"id": "a2af97a0-74e8-4b5c-8196-5d2b66ea1411",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -10719,7 +11703,11 @@
 		},
 		{
 			"id": "ff4d6552-196d-4206-b435-b25beb99bc1b",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -10764,7 +11752,11 @@
 		},
 		{
 			"id": "5f932dd1-d7b3-4405-8555-848705c1fd2d",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -10807,7 +11799,11 @@
 		},
 		{
 			"id": "a4a9aa6f-82de-415e-959c-6f6943cb5f0a",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -10844,7 +11840,11 @@
 		},
 		{
 			"id": "a1f4f476-6698-4216-a3d0-8ef569c8287b",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -10884,7 +11884,11 @@
 		},
 		{
 			"id": "9733d3ad-caaa-493d-81ba-b686e1a269a5",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -10927,7 +11931,11 @@
 		},
 		{
 			"id": "b6cd4cc9-f417-4857-9906-ba3f93e62081",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 2.6500000000000004,
@@ -10971,7 +11979,11 @@
 		},
 		{
 			"id": "d5c9e42d-e25a-41bc-b5fe-960bbfa9bbb8",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -11015,7 +12027,11 @@
 		},
 		{
 			"id": "7c0ca579-3b09-455d-b814-cf3c6c95180a",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -11059,7 +12075,11 @@
 		},
 		{
 			"id": "5196d83a-6584-4dc8-8086-3519c3fe70ef",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -11102,7 +12122,11 @@
 		},
 		{
 			"id": "d04e6e74-cdb5-4334-a7b2-adf79b8f20c7",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -11146,7 +12170,11 @@
 		},
 		{
 			"id": "a597752c-8ce6-4c86-bf28-86aebe5aa6bd",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -11189,7 +12217,11 @@
 		},
 		{
 			"id": "049b63c0-904d-41dd-8525-6a91f92a4a16",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -11230,7 +12262,11 @@
 		},
 		{
 			"id": "ae2d3358-1958-402f-bd84-73386284ad54",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -11273,7 +12309,11 @@
 		},
 		{
 			"id": "9155c8a6-5d0f-4733-a894-23dc9a070b81",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -11317,7 +12357,11 @@
 		},
 		{
 			"id": "6d4287f7-e6d1-4aa5-9e48-c9742da6fd4e",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -11360,7 +12404,11 @@
 		},
 		{
 			"id": "58710e91-bff2-4cc8-aa89-b8459d3843f3",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -11403,7 +12451,11 @@
 		},
 		{
 			"id": "6e3088ee-1198-4cd5-85ae-e63289a128c6",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -11447,7 +12499,11 @@
 		},
 		{
 			"id": "3f16b948-80c8-4b6f-b5b5-5517d39daa5d",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -11488,7 +12544,11 @@
 		},
 		{
 			"id": "8d23bbfa-354a-4e5d-8f50-0682c28ca5de",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -11533,7 +12593,11 @@
 		},
 		{
 			"id": "9b66ca88-88a8-4e6c-8181-862dbddf4e37",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -11578,7 +12642,11 @@
 		},
 		{
 			"id": "77ca0274-a4d1-4f63-9ea4-b4ab3c17d783",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -11615,7 +12683,11 @@
 		},
 		{
 			"id": "4ef84016-b784-469c-ac50-6e507ed31274",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -11656,7 +12728,11 @@
 		},
 		{
 			"id": "8221743e-7352-4ac9-b32a-b37d63924ee6",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -11696,7 +12772,11 @@
 		},
 		{
 			"id": "2b31cfd5-e849-455d-9ee9-dd90c665dd4f",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -11736,7 +12816,11 @@
 		},
 		{
 			"id": "41e82b9d-d79c-493a-8ea1-fdd2593a1b97",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -11777,7 +12861,11 @@
 		},
 		{
 			"id": "b945097b-a9c6-48a5-b13f-eb1f5b4e42a2",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -11815,7 +12903,11 @@
 		},
 		{
 			"id": "b1600b0c-6397-4aba-9f29-8c6a75964f83",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 2.5,
@@ -11857,7 +12949,11 @@
 		},
 		{
 			"id": "c82f01dd-91f1-4219-90e4-f0168b2dbbf8",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -11898,7 +12994,11 @@
 		},
 		{
 			"id": "5937fadb-1e08-4ef9-ae02-386fe2f0b58a",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -11938,7 +13038,11 @@
 		},
 		{
 			"id": "21383198-2092-42b9-88b9-95eba5d33f6e",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -11979,7 +13083,11 @@
 		},
 		{
 			"id": "ec97a8a6-8a5a-4393-b68a-2792de1c834d",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -12019,7 +13127,11 @@
 		},
 		{
 			"id": "f4028503-670b-48f4-a928-644e8fa663ba",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -12060,7 +13172,11 @@
 		},
 		{
 			"id": "888c2141-2efb-40d0-9b05-9681e869802f",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -12096,7 +13212,11 @@
 		},
 		{
 			"id": "e13976d7-b672-415a-a943-b1289433886b",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 5.5,
@@ -12138,7 +13258,11 @@
 		},
 		{
 			"id": "dd388703-bfaa-4c6e-92c0-5e22adf9cf88",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -12178,7 +13302,11 @@
 		},
 		{
 			"id": "69f4cdbf-6a5e-4b3a-97c0-dd5d13455fdc",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -12219,7 +13347,11 @@
 		},
 		{
 			"id": "7be83a9d-484b-4e6b-9c93-09f0fefa9f89",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 4.800000000000001,
@@ -12260,7 +13392,11 @@
 		},
 		{
 			"id": "a758f607-eee8-4011-a66e-8cc2601dfd52",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -12300,7 +13436,11 @@
 		},
 		{
 			"id": "cb67a96c-2ee0-4f6d-a6af-560b71c083c1",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 6.25,
@@ -12342,7 +13482,11 @@
 		},
 		{
 			"id": "dd223ce1-dc7b-4466-9444-168c9b6daa42",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -12382,7 +13526,11 @@
 		},
 		{
 			"id": "b2aa900d-8b7a-4244-a7a5-9e3dedbd3063",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -12422,7 +13570,11 @@
 		},
 		{
 			"id": "2f476df5-8824-445f-8898-36abfc99e769",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 4,
@@ -12464,7 +13616,11 @@
 		},
 		{
 			"id": "c62a9f2c-dea9-4aa7-9a38-8fa000c5a9bf",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -12505,7 +13661,11 @@
 		},
 		{
 			"id": "6d4e4d97-e22d-4ef1-ac9e-b392b2e94f39",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 4.5,
@@ -12547,7 +13707,11 @@
 		},
 		{
 			"id": "349e038b-89e2-4f11-948f-edbbe1513b1a",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -12587,7 +13751,11 @@
 		},
 		{
 			"id": "c7ccd90c-1838-46cb-a414-228360bd798a",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -12628,7 +13796,11 @@
 		},
 		{
 			"id": "0bc311de-4b7d-411c-b919-830e6f7e7900",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -12668,7 +13840,11 @@
 		},
 		{
 			"id": "b0b1f282-0c5a-473e-bd06-58011071f315",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -12709,7 +13885,11 @@
 		},
 		{
 			"id": "d758e165-d5b8-457d-8524-66bf238ca279",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -12749,7 +13929,11 @@
 		},
 		{
 			"id": "6882f325-9a11-4311-85ee-7977dd6939b9",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -12786,7 +13970,11 @@
 		},
 		{
 			"id": "fb471782-1745-4827-ae49-e1aa5c7e3bb5",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 3.1,
@@ -12828,7 +14016,11 @@
 		},
 		{
 			"id": "c769b3d9-e124-4b99-99d9-e79d018a2451",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -12869,7 +14061,11 @@
 		},
 		{
 			"id": "6ba29090-8b9b-458d-9d2f-500873860c55",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -12909,7 +14105,11 @@
 		},
 		{
 			"id": "776e4b06-5bb2-4fc0-a8fb-06af1ca4cbfb",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -12949,7 +14149,11 @@
 		},
 		{
 			"id": "0661d5da-6921-4b10-869f-811c98bc164d",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 5.5,
@@ -12991,7 +14195,11 @@
 		},
 		{
 			"id": "e2736cb2-99fd-4c31-ac75-e23fd72f74c4",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 5.5,
@@ -13033,7 +14241,11 @@
 		},
 		{
 			"id": "ff1aaf4f-bf6a-41a0-8e92-c3a425440b80",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 5.15,
@@ -13074,7 +14286,11 @@
 		},
 		{
 			"id": "932d8db7-28b3-4ed7-865b-692babc6788a",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 3.0999999999999996,
@@ -13116,7 +14332,11 @@
 		},
 		{
 			"id": "7a2115cc-78d3-466a-8825-72d05235e8a2",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -13157,7 +14377,11 @@
 		},
 		{
 			"id": "ff42103e-c0f7-40ca-89c3-a5ccb2712dfa",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -13198,7 +14422,11 @@
 		},
 		{
 			"id": "ba91ea89-865c-4a32-a108-0aa948775439",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 4.6,
@@ -13237,7 +14465,11 @@
 		},
 		{
 			"id": "c7200d7a-182e-4322-9d1a-6e9995fd49f7",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 5.5,
@@ -13279,7 +14511,11 @@
 		},
 		{
 			"id": "0159e3dc-a6ae-4457-bd24-4eb0a0b60406",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 3.8,
@@ -13321,7 +14557,11 @@
 		},
 		{
 			"id": "0226e425-2ee9-46d3-9c3d-b15109d98c86",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -13361,7 +14601,11 @@
 		},
 		{
 			"id": "40d0ad5b-ef63-4764-b86c-18c5a0d13a40",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"value": 4.7,
@@ -13402,7 +14646,11 @@
 		},
 		{
 			"id": "d666e93e-3eb2-40e6-9437-b261880a0e32",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -13441,7 +14689,11 @@
 		},
 		{
 			"id": "2e19e7cb-80eb-487d-b185-5acc7bac6d57",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -13481,7 +14733,11 @@
 		},
 		{
 			"id": "4d93ec8c-af71-43ed-8684-79c104572a2d",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
@@ -13521,7 +14777,11 @@
 		},
 		{
 			"id": "d2141755-d941-41ee-90c6-21b5b5cec47b",
-			"inventory": {},
+			"inventory": {
+				"mass": {
+					"unit": "KG"
+				}
+			},
 			"oilContent": {
 				"polyphenols": {
 					"unit": "PERCENT_SIGN"
