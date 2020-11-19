@@ -4,6 +4,7 @@ import (
 	beerproto "github.com/beerproto/beerproto_go"
 )
 
+
 func toTemperature(value *float64) *beerproto.TemperatureType {
 
 	if value == nil {
@@ -15,6 +16,14 @@ func toTemperature(value *float64) *beerproto.TemperatureType {
 	return &beerproto.TemperatureType{
 		Unit: beerproto.TemperatureUnitType_C,
 		Value: *value,
+	}
+}
+
+func toTemperatureRangeType(low, high *float64) *beerproto.TemperatureRangeType {
+
+	return &beerproto.TemperatureRangeType{
+		Minimum: toTemperature(low),
+		Maximum: toTemperature(high),
 	}
 }
 
@@ -99,6 +108,15 @@ func toPercent(value *float64) *beerproto.PercentType {
 		Unit: beerproto.PercentType_PERCENT_SIGN,
 	}
 }
+
+
+func toPercentRangeType(low, high *float64) *beerproto.PercentRangeType {
+	return &beerproto.PercentRangeType{
+		Minimum: toPercent(low),
+		Maximum: toPercent(high),
+	}
+}
+
 
 func toGravity(value *float64) *beerproto.GravityType {
 	if value == nil {

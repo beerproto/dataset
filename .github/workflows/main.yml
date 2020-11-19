@@ -69,6 +69,13 @@ jobs:
           inputFile: '/github/workspace/fermentables/malts.csv'
           outputFile: '/github/workspace/json/fermentable.json'
 
+      - name: culture
+        uses: ./.github/actions/csvbeer
+        with:
+          command: 'fermentable'
+          inputFile: '/github/workspace/culture/yeast.csv'
+          outputFile: '/github/workspace/json/culture.json'
+
       - name: Git Commit on Workflow
         uses: matheusalbino/git-commit@v1.0.1
         with:
