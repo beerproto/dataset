@@ -72,7 +72,7 @@ jobs:
       - name: culture
         uses: ./.github/actions/csvbeer
         with:
-          command: 'fermentable'
+          command: 'culture'
           inputFile: '/github/workspace/culture/yeast.csv'
           outputFile: '/github/workspace/json/culture.json'
 
