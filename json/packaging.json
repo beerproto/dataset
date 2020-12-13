@@ -193,6 +193,7 @@
 			"packagingVessels": [
 				{
 					"id": "bcbc1393-8dc7-4404-9b90-7316c4a2f559",
+					"type": "CAN",
 					"name": "Nip ",
 					"vesselVolume": {
 						"value": 248,
@@ -209,6 +210,7 @@
 			"packagingVessels": [
 				{
 					"id": "b446c265-18a0-402b-9841-8c4a331cd952",
+					"type": "CAN",
 					"name": "12 OZ",
 					"vesselVolume": {
 						"value": 355,
@@ -225,6 +227,7 @@
 			"packagingVessels": [
 				{
 					"id": "2a18ef8c-36c9-46be-98e8-3462a7d2031a",
+					"type": "CAN",
 					"name": "Tallboy",
 					"vesselVolume": {
 						"value": 473,
@@ -240,6 +243,7 @@
 			"packagingVessels": [
 				{
 					"id": "8c7edaa4-fd52-4213-8b6b-f7212dda8352",
+					"type": "CAN",
 					"name": "Stovepipe",
 					"vesselVolume": {
 						"value": 568,
@@ -255,6 +259,7 @@
 			"packagingVessels": [
 				{
 					"id": "187106da-d020-41f2-b6e2-15bca94a5d51",
+					"type": "CAN",
 					"name": "Crowler",
 					"vesselVolume": {
 						"value": 946,

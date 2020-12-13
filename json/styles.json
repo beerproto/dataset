@@ -50,11 +50,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 35,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is allowable at cold temperatures",
@@ -111,11 +111,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 28,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 40,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -172,11 +172,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 30,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 45,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -233,11 +233,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 9,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -294,11 +294,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 12,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -355,11 +355,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 15,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 25,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -416,11 +416,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 30,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -477,11 +477,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 40,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -538,11 +538,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 35,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 63,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -599,11 +599,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 30,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 65,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -660,11 +660,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 30,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 65,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -721,11 +721,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 10,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -782,11 +782,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 10,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 24,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -843,11 +843,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 12,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 25,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -904,11 +904,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 30,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Beer color may be too dark to perceive clarity. When clarity is perceivable, chill haze is acceptable at low temperatures.",
@@ -961,11 +961,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 25,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 40,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Opaque",
@@ -1018,11 +1018,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 15,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 25,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Opaque",
@@ -1075,11 +1075,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 40,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Beer color may be too dark to perceive. When clarity is perceivable, chill haze is acceptable at low temperatures.",
@@ -1136,11 +1136,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 25,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 35,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -1197,11 +1197,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 45,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 65,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Opaque in darker versions. When clarity is perceivable, chill haze is acceptable at low temperatures.",
@@ -1258,11 +1258,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 40,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 65,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -1319,11 +1319,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 28,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze or yeast haze may be present at low levels",
@@ -1376,11 +1376,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 30,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 40,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Opaque",
@@ -1433,11 +1433,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 30,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 60,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Opaque",
@@ -1494,11 +1494,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 15,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 25,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze should not be present",
@@ -1555,11 +1555,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 25,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 45,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -1616,11 +1616,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 30,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 50,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures. Hop haze is allowable at any temperature.",
@@ -1677,11 +1677,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 5,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 30,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Low to very high degree of cloudiness is typical of these beers. Starch, yeast, hop, protein and/or other compounds contribute to a wide range of hazy appearance within this category.",
@@ -1738,11 +1738,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 40,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 50,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures. Hop haze is allowable at any temperature.",
@@ -1799,11 +1799,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 40,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Low to very high degree of cloudiness is typical of these beers. Starch, yeast, hop, protein and/or other compounds contribute to a wide range of hazy appearance within this category.",
@@ -1860,11 +1860,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 50,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 70,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures. Hop haze is allowable at any temperature.",
@@ -1921,11 +1921,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 30,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 50,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Low to very high degree of cloudiness is typical of these beers. Starch, yeast, hop, protein and/or other compounds contribute to a wide range of hazy appearance within this category.",
@@ -1998,11 +1998,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 30,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 45,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -2055,11 +2055,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 40,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 70,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Opaque",
@@ -2112,11 +2112,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 35,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 60,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Opaque",
@@ -2169,11 +2169,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 35,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 50,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Opaque",
@@ -2226,11 +2226,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 50,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 80,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Opaque",
@@ -2287,11 +2287,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 45,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 80,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -2348,11 +2348,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 55,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 85,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -2409,11 +2409,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 65,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 100,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures. Haze created by dry hopping is allowable at any temperature.",
@@ -2470,11 +2470,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 45,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 80,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Low to very high degree of cloudiness is typical of these beers. Starch, yeast, hop, protein and/or other compounds contribute to a wide range of hazy appearance within this category.",
@@ -2531,11 +2531,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 60,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 100,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -2588,11 +2588,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 45,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 85,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -2645,11 +2645,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 40,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Opaque",
@@ -2738,11 +2738,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 22,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 30,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze should not be present",
@@ -2799,11 +2799,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 25,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 52,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Clear to slightly hazy. Chill haze should not be present",
@@ -2860,11 +2860,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 3,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 6,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "May appear hazy or cloudy from yeast or chill haze",
@@ -2921,11 +2921,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 5,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 15,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Clear to hazy. Haze may or may not be from yeast.",
@@ -2982,11 +2982,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 5,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 30,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Clear to hazy. Haze may or may not result from yeast",
@@ -3043,11 +3043,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 10,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 15,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "If served with yeast, appearance may be very cloudy.",
@@ -3104,11 +3104,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 10,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 15,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Clear with no chill haze present. Because the beer is ﬁltered, no yeast should be present.",
@@ -3165,11 +3165,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 10,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 15,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "If served with yeast, appearance may be very cloudy.",
@@ -3226,11 +3226,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 10,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 15,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "If served with yeast, appearance may be very cloudy.",
@@ -3287,11 +3287,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 10,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 15,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "If served with yeast, appearance may be very cloudy",
@@ -3348,11 +3348,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 15,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 35,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "If served with yeast, appearance may be very cloudy.",
@@ -3409,11 +3409,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 10,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 15,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable in versions packaged and served without yeast. In versions served with yeast, appearance may range from hazy to very cloudy.",
@@ -3470,11 +3470,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 10,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 15,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "If served with yeast, appearance may be very cloudy.",
@@ -3531,11 +3531,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 15,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 30,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -3592,11 +3592,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 30,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -3653,11 +3653,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 50,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -3714,11 +3714,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 50,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -3775,11 +3775,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 35,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures. Slight yeast haze may be present in bottle conditioned versions.",
@@ -3836,11 +3836,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 45,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures. Traditional Tripels are bottle conditioned and may exhibit slight yeast haze. However, yeast should not be intentionally roused.",
@@ -3897,11 +3897,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 25,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 50,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -3958,11 +3958,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 10,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 17,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Unﬁltered starch and yeast haze should be visible. Wits are traditionally bottle conditioned and served cloudy.",
@@ -4019,11 +4019,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 38,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze or slight yeast haze is acceptable",
@@ -4080,11 +4080,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 40,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze or slight yeast haze is acceptable",
@@ -4141,11 +4141,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 30,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable. These beers are often bottle conditioned so slight yeast haze is acceptable.",
@@ -4202,11 +4202,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 5,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 18,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures. Some versions may be more highly carbonated. Bottle conditioned versions may appear cloudy when served.",
@@ -4263,11 +4263,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 9,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 23,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Cloudiness is acceptable",
@@ -4324,11 +4324,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 11,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 23,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Cloudiness is acceptable, as Gueuze is traditionally bottle conditioned.",
@@ -4385,11 +4385,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 11,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 23,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Cloudiness is acceptable, as these beers are frequently bottle conditioned.",
@@ -4437,11 +4437,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 15,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 21,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Cloudiness is acceptable",
@@ -4514,11 +4514,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 5,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 15,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Beer color may be too dark to perceive. When clarity is perceivable, chill haze is acceptable at low temperatures.",
@@ -4575,11 +4575,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 15,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 25,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -4636,11 +4636,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 30,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 50,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Beer color may be too dark to perceive clarity. When clarity is perceivable, chill haze is absent.",
@@ -4697,11 +4697,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 25,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 35,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze and other haze is acceptable",
@@ -4758,11 +4758,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 15,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 35,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze and/or a hazy appearance caused by yeast is acceptable at low levels",
@@ -4819,11 +4819,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 15,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 40,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Yeast, chill and/or hop haze may be present in this style at low levels but are not essential",
@@ -4880,11 +4880,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 42,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures",
@@ -4941,11 +4941,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 3,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 16,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze, yeast haze and general turbidity is acceptable.",
@@ -5002,11 +5002,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 15,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 25,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze or yeast haze is acceptable",
@@ -5063,11 +5063,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 30,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures. Hue may be too dark to perceive clarity in some versions.",
@@ -5124,11 +5124,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 30,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Appearance should be clear. Chill haze should not be present",
@@ -5185,11 +5185,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 30,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 45,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Appearance should be clear. Chill haze should not be present",
@@ -5246,11 +5246,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 18,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 25,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Appearance should be clear. Chill haze should not be present",
@@ -5307,11 +5307,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 23,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 29,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Appearance should be clear. Chill haze should not be present",
@@ -5368,11 +5368,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 22,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 28,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Appearance should be clear. Chill haze should not be present",
@@ -5429,11 +5429,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 28,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Clear to slightly hazy for unfiltered versions. Chill haze should not be present.",
@@ -5490,11 +5490,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 18,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 25,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Appearance should be clear. Chill haze should not be present",
@@ -5551,11 +5551,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 23,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 29,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Appearance should be clear. Chill haze should not be present",
@@ -5612,11 +5612,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 16,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 25,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Appearance should be clear. Chill haze should not be present",
@@ -5673,11 +5673,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 35,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Beer color may be too dark to perceive. When clarity is perceivable, chill haze should not be present.",
@@ -5734,11 +5734,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 16,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 24,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Appearance should be clear. Chill haze should not be present",
@@ -5795,11 +5795,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 18,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 25,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Appearance should be clear. Chill haze should not be present",
@@ -5856,11 +5856,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 18,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 25,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Appearance should be clear. Chill haze should not be present",
@@ -5917,11 +5917,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 30,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Appearance should be clear. Chill haze should not be present",
@@ -5978,11 +5978,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 38,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Appearance should be clear. Chill haze should not be present",
@@ -6039,11 +6039,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 30,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Appearance should be clear. Chill haze should not be present",
@@ -6100,11 +6100,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 17,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 27,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Appearance should be clear. Chill haze should not be present",
@@ -6152,11 +6152,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 26,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 33,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Appearance should be clear. Chill haze should not be present",
@@ -6213,11 +6213,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 5,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 15,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze should not be present",
@@ -6274,11 +6274,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 5,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 16,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze should not be present",
@@ -6335,11 +6335,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 4,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 10,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze should not be present",
@@ -6396,11 +6396,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 4,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 15,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze should not be present",
@@ -6457,11 +6457,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 25,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 40,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Appearance should be clear. Chill haze should not be present",
@@ -6518,11 +6518,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 25,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 40,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Appearance should be clear. Chill haze should not be present",
@@ -6579,11 +6579,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 30,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 70,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Hop haze is allowable. Chill haze should not be present",
@@ -6640,11 +6640,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 12,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 23,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Appearance should be clear. Chill haze should not be present",
@@ -6701,11 +6701,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 18,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 30,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Appearance should be clear. Chill haze should not be present",
@@ -6762,11 +6762,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 20,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 30,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze should not be present",
@@ -6823,11 +6823,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 14,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 24,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Appearance should be clear. Chill haze should not be present",
@@ -6875,11 +6875,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 35,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 40,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Opaque. When clarity is perceivable, chill haze should not be present.",
@@ -6936,11 +6936,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 9,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 18,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze should not be present",
@@ -6997,11 +6997,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 17,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 30,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Appearance should be clear. Chill haze should not be present",
@@ -7054,11 +7054,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 10,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 35,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Appearance may vary from brilliant to hazy to cloudy and should mimic the classic style upon which the beer is based",
@@ -7115,11 +7115,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 40,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 55,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable at low temperatures. Hop haze is allowable at any temperature.",
@@ -7176,11 +7176,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 10,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 22,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze should be very low or not be present",
@@ -7237,11 +7237,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 35,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 45,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Appearance should be clear. Chill haze should not be present",
@@ -7298,11 +7298,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 10,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 35,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Clear to cloudy",
@@ -7375,11 +7375,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 5,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 70,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Clear or hazy is acceptable",
@@ -7436,11 +7436,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 10,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 35,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Chill haze is acceptable. These beers may be served with or without yeast. When served with yeast, appearance is hazy to very cloudy.",
@@ -7497,11 +7497,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 5,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 70,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Clear to hazy beer is acceptable",
@@ -7558,11 +7558,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 5,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 70,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Clear to hazy is acceptable",
@@ -7619,11 +7619,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 5,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 35,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Clear to hazy is acceptable",
@@ -7680,11 +7680,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 5,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 35,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Clear to hazy is acceptable",
@@ -7773,11 +7773,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 5,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 70,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Clear or hazy is acceptable",
@@ -7834,11 +7834,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 5,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 40,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Clear to hazy is acceptable",
@@ -7895,11 +7895,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 1,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 100,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Clear to hazy is acceptable",
@@ -7956,11 +7956,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 1,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 100,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Clear to hazy is acceptable",
@@ -8065,11 +8065,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 12,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 35,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "Slight chill haze is acceptable",
@@ -8206,11 +8206,11 @@
 			"internationalBitternessUnits": {
 				"minimum": {
 					"value": 30,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				},
 				"maximum": {
 					"value": 100,
-					"unit": "IBUs"
+					"unit": "IBUS"
 				}
 			},
 			"appearance": "May range from clear to very high degree of cloudiness. Starch, yeast, hop, protein and/or other compounds can contribute to a wide range of hazy appearance within this category",
