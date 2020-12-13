@@ -70,7 +70,7 @@ func (s *Style) toInternationalBitternessUnits() *beerproto.BitternessRangeType 
 			return nil
 		}
 		return &beerproto.BitternessType{
-			Unit:  beerproto.BitternessType_IBUs,
+			Unit: beerproto.BitternessType_IBUS,
 			Value: float64(*value),
 		}
 	}
