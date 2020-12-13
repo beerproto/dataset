@@ -1,7 +1,7 @@
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
-github.com/beerproto/beerproto_go v1.60.1-0.20201213224008-d979d96311c1 h1:rzgHr8G++whpP+GnqJjHy4Q61PhRVjgfcLxKqlm11Pk=
-github.com/beerproto/beerproto_go v1.60.1-0.20201213224008-d979d96311c1/go.mod h1:5RPAlJEi0Sp/EGcPYHBw9P1+NqSLwoNcBnllvYSKzv4=
+github.com/beerproto/beerproto_go v1.61.0 h1:odxrp8Qw+2dfFcC2YueRehfyviGvXAJyLaOMYTQDMwM=
+github.com/beerproto/beerproto_go v1.61.0/go.mod h1:5RPAlJEi0Sp/EGcPYHBw9P1+NqSLwoNcBnllvYSKzv4=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
 github.com/envoyproxy/go-control-plane v0.9.1-0.20191026205805-5f8ba28d4473/go.mod h1:YTl/9mNaCwkRvm6d1a2C3ymFceY/DCBVvsKhRF0iEA4=

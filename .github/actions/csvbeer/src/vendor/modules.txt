@@ -1,4 +1,4 @@
-# github.com/beerproto/beerproto_go v1.50.0
+# github.com/beerproto/beerproto_go v1.61.0
 ## explicit
 github.com/beerproto/beerproto_go
 # github.com/gocarina/gocsv v0.0.0-20200827134620-49f5c3fa2b3e
